@@ -27,10 +27,14 @@
     "Maribor center",
     "Vrbanski plato",
     "maribor tabor",
+    "maribor vrbanski pl.",
     "maribor vrbanski p.",
+    "maribor vrbanski plato",
+    "mb vrbanski pl.",
     "mb tezno",
     "mb titova",
     "mb vrbanski",
+    "mb center",
     "miklavž",
     "mo maribor",
     "pobrežje",
@@ -59,7 +63,6 @@
     "Mobilna TEŠ",
     "ce ljubljanska",
     "ce mariborska",
-    "celje (r)",
     "EIS-Celje",
     "skale"
   ],
@@ -77,7 +80,7 @@
     "trbovlje nasipi",
     "trbovlje park"
   ],
-  "Posavska": ["EIS Krško", "Brestanica-sv.Mohor", "Razbor", "Pesje"],
+  "Posavska": ["EIS Krško", "Brestanica-sv.Mohor", "Razbor", "Pesje","sv.mohor", "sveti mohor"],
   "Goriška": [
     "Nova Gorica",
     "Deskle",
@@ -87,7 +90,7 @@
     "ng vojkova"
   ],
   "Obalno-kraška": ["Koper"],
-  "Koroška": ["Zerjav", "Graška gora", "slovenj gradec","žerjav"],
+  "Koroška": ["Zerjav", "Graška gora", "slovenj gradec", "žerjav"],
   "Gorenjska": ["Kranj"],
   "Jugovzhodna Slovenija": ["Novo mesto", "Iskrba"],
   "Pomurska": [
@@ -95,7 +98,9 @@
     "Murska S.-Rakičan",
     "m. s.-rakičan",
     "ms cankarjeva",
-    "murska s. rakičan"
+    "murska s. rakičan",
+    "murska sobota rakican",
+    "murska sobota-rakican"
   ],
   "Notranjsko-kraška": ["ib gregorčičeva", "ib rečica"]
 }
