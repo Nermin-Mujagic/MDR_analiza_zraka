@@ -19,7 +19,6 @@
     "lj vič",
     "ljubljana bež.",
     "ljubljana bf",
-    "ljubljana bf (r)",
     "medvode"
   ],
   "Podravska": [
@@ -27,14 +26,19 @@
     "Maribor Center",
     "Maribor center",
     "Vrbanski plato",
-    "maribor center (r)",
     "maribor tabor",
     "maribor vrbanski p.",
     "mb tezno",
     "mb titova",
     "mb vrbanski",
-    "miklavič",
-    "mo maribora"
+    "miklavž",
+    "mo maribor",
+    "pobrežje",
+    "ptuj",
+    "radvanje",
+    "ruša",
+    "ruše",
+    "spuhlja"
   ],
   "Savinjska": [
     "AMP Gaji",
@@ -56,7 +60,8 @@
     "ce ljubljanska",
     "ce mariborska",
     "celje (r)",
-    "EIS-Celje"
+    "EIS-Celje",
+    "skale"
   ],
   "Zasavska": [
     "Trbovlje",
@@ -69,14 +74,28 @@
     "Dobovec",
     "Zelena trava",
     "Prapretno",
-    "hrastnik (r)"
+    "trbovlje nasipi",
+    "trbovlje park"
   ],
   "Posavska": ["EIS Krško", "Brestanica-sv.Mohor", "Razbor", "Pesje"],
-  "Goriška": ["Nova Gorica", "Deskle", "gorenje polje", "morsko"],
+  "Goriška": [
+    "Nova Gorica",
+    "Deskle",
+    "gorenje polje",
+    "morsko",
+    "ng grčna",
+    "ng vojkova"
+  ],
   "Obalno-kraška": ["Koper"],
-  "Koroška": ["Zerjav", "Graška gora"],
-  "Gorenjska": ["Kranj", "kranj (r)"],
-  "Jugovzhodna Slovenija": ["Novo mesto", "Iskrba", "iskrba (r)"],
-  "Pomurska": ["MS Rakičan", "Murska S.-Rakičan", "m. s.-rakičan", "ms cankarjeva"],
+  "Koroška": ["Zerjav", "Graška gora", "slovenj gradec","žerjav"],
+  "Gorenjska": ["Kranj"],
+  "Jugovzhodna Slovenija": ["Novo mesto", "Iskrba"],
+  "Pomurska": [
+    "MS Rakičan",
+    "Murska S.-Rakičan",
+    "m. s.-rakičan",
+    "ms cankarjeva",
+    "murska s. rakičan"
+  ],
   "Notranjsko-kraška": ["ib gregorčičeva", "ib rečica"]
 }

@@ -284,7 +284,7 @@
 18,vnajnarje,1998,Jan,26.0
 19,eis celje,1998,Jan,47.0
 20,eis krško,1998,Jan,72.0
-21,mobilna postaja,1998,Jan,38.0
+21,škale,1998,Jan,38.0
 22,ljubljana f.,1998,Feb,57.0
 23,ljubljana b.,1998,Feb,72.0
 24,maribor,1998,Feb,27.0
@@ -306,7 +306,7 @@
 40,vnajnarje,1998,Feb,36.0
 41,eis celje,1998,Feb,68.0
 42,eis krško,1998,Feb,148.0
-43,mobilna postaja,1998,Feb,53.0
+43,škale,1998,Feb,53.0
 44,ljubljana f.,1998,Mar,42.0
 45,ljubljana b.,1998,Mar,49.0
 46,maribor,1998,Mar,21.0
@@ -328,7 +328,7 @@
 62,vnajnarje,1998,Mar,24.0
 63,eis celje,1998,Mar,32.0
 64,eis krško,1998,Mar,30.0
-65,mobilna postaja,1998,Mar,34.0
+65,škale,1998,Mar,34.0
 66,ljubljana f.,1998,Apr,21.0
 67,ljubljana b.,1998,Apr,16.0
 68,maribor,1998,Apr,17.0
@@ -350,7 +350,7 @@
 84,vnajnarje,1998,Apr,17.0
 85,eis celje,1998,Apr,24.0
 86,eis krško,1998,Apr,31.0
-87,mobilna postaja,1998,Apr,18.0
+87,škale,1998,Apr,18.0
 88,ljubljana f.,1998,Maj,12.0
 89,ljubljana b.,1998,Maj,10.0
 90,maribor,1998,Maj,12.0
@@ -372,7 +372,7 @@
 106,vnajnarje,1998,Maj,12.0
 107,eis celje,1998,Maj,15.0
 108,eis krško,1998,Maj,59.0
-109,mobilna postaja,1998,Maj,10.0
+109,škale,1998,Maj,10.0
 110,ljubljana f.,1998,Jun,9.0
 111,ljubljana b.,1998,Jun,10.0
 112,maribor,1998,Jun,7.0
@@ -394,7 +394,7 @@
 128,vnajnarje,1998,Jun,4.0
 129,eis celje,1998,Jun,10.0
 130,eis krško,1998,Jun,25.0
-131,mobilna postaja,1998,Jun,8.0
+131,škale,1998,Jun,8.0
 132,ljubljana f.,1998,Jul,8.0
 133,ljubljana b.,1998,Jul,12.0
 134,maribor,1998,Jul,6.0
@@ -416,7 +416,7 @@
 150,vnajnarje,1998,Jul,6.0
 151,eis celje,1998,Jul,8.0
 152,eis krško,1998,Jul,36.0
-153,mobilna postaja,1998,Jul,6.0
+153,škale,1998,Jul,6.0
 154,ljubljana f.,1998,Avg,10.0
 155,ljubljana b.,1998,Avg,12.0
 156,maribor,1998,Avg,8.0
@@ -438,7 +438,7 @@
 172,vnajnarje,1998,Avg,10.0
 173,eis celje,1998,Avg,4.0
 174,eis krško,1998,Avg,22.0
-175,mobilna postaja,1998,Avg,7.0
+175,škale,1998,Avg,7.0
 176,ljubljana f.,1998,Sep,6.0
 177,ljubljana b.,1998,Sep,10.0
 178,maribor,1998,Sep,8.0
@@ -460,7 +460,7 @@
 194,vnajnarje,1998,Sep,6.0
 195,eis celje,1998,Sep,12.0
 196,eis krško,1998,Sep,14.0
-197,mobilna postaja,1998,Sep,6.0
+197,škale,1998,Sep,6.0
 198,ljubljana f.,1998,Okt,15.0
 199,ljubljana b.,1998,Okt,20.0
 200,maribor,1998,Okt,15.0
@@ -482,7 +482,7 @@
 216,vnajnarje,1998,Okt,12.0
 217,eis celje,1998,Okt,27.0
 218,eis krško,1998,Okt,13.0
-219,mobilna postaja,1998,Okt,13.0
+219,škale,1998,Okt,13.0
 220,ljubljana f.,1998,Nov,29.0
 221,ljubljana b.,1998,Nov,43.0
 222,maribor,1998,Nov,22.0
@@ -504,7 +504,7 @@
 238,vnajnarje,1998,Nov,35.0
 239,eis celje,1998,Nov,57.0
 240,eis krško,1998,Nov,16.0
-241,mobilna postaja,1998,Nov,31.0
+241,škale,1998,Nov,31.0
 242,ljubljana f.,1998,Dec,26.0
 243,ljubljana b.,1998,Dec,40.0
 244,maribor,1998,Dec,41.0
@@ -526,7 +526,7 @@
 260,vnajnarje,1998,Dec,26.0
 261,eis celje,1998,Dec,
 262,eis krško,1998,Dec,38.0
-263,mobilna postaja,1998,Dec,40.0
+263,škale,1998,Dec,40.0
 0,ljubljana f.,1999,Jan,19.0
 1,ljubljana b.,1999,Jan,28.0
 2,maribor,1999,Jan,32.0
