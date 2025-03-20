@@ -1,4 +1,5908 @@
 ,Postaja,Leto,Mesec,PM10
+0,ljubljana f.,1999,Jan,43.0
+1,celje,1999,Jan,47.0
+2,trbovlje,1999,Jan,52.0
+3,eis celje,1999,Jan,50.0
+4,ljubljana f.,1999,Feb,46.0
+5,celje,1999,Feb,48.0
+6,trbovlje,1999,Feb,53.0
+7,eis celje,1999,Feb,56.0
+8,ljubljana f.,1999,Mar,40.0
+9,celje,1999,Mar,51.0
+10,trbovlje,1999,Mar,61.0
+11,eis celje,1999,Mar,51.0
+12,ljubljana f.,1999,Apr,30.0
+13,celje,1999,Apr,33.0
+14,trbovlje,1999,Apr,52.0
+15,eis celje,1999,Apr,42.0
+16,ljubljana f.,1999,Maj,31.0
+17,celje,1999,Maj,29.0
+18,trbovlje,1999,Maj,43.0
+19,eis celje,1999,Maj,37.0
+20,ljubljana f.,1999,Jun,24.0
+21,celje,1999,Jun,23.0
+22,trbovlje,1999,Jun,39.0
+23,eis celje,1999,Jun,28.0
+24,ljubljana f.,1999,Jul,27.0
+25,celje,1999,Jul,25.0
+26,trbovlje,1999,Jul,33.0
+27,eis celje,1999,Jul,32.0
+28,ljubljana f.,1999,Avg,32.0
+29,celje,1999,Avg,31.0
+30,trbovlje,1999,Avg,38.0
+31,eis celje,1999,Avg,32.0
+32,ljubljana f.,1999,Sep,35.0
+33,celje,1999,Sep,33.0
+34,trbovlje,1999,Sep,43.0
+35,eis celje,1999,Sep,35.0
+36,ljubljana f.,1999,Okt,35.0
+37,celje,1999,Okt,32.0
+38,trbovlje,1999,Okt,41.0
+39,eis celje,1999,Okt,34.0
+40,ljubljana f.,1999,Nov,39.0
+41,celje,1999,Nov,49.0
+42,trbovlje,1999,Nov,45.0
+43,eis celje,1999,Nov,42.0
+44,ljubljana f.,1999,Dec,46.0
+45,celje,1999,Dec,39.0
+46,trbovlje,1999,Dec,42.0
+47,eis celje,1999,Dec,44.0
+0,ljubljana f.,2000,Jan,72.0
+1,maribor,2000,Jan,
+2,celje,2000,Jan,66.0
+3,trbovlje,2000,Jan,64.0
+4,eis celje,2000,Jan,66.0
+5,ljubljana f.,2000,Feb,50.0
+6,maribor,2000,Feb,
+7,celje,2000,Feb,49.0
+8,trbovlje,2000,Feb,69.0
+9,eis celje,2000,Feb,59.0
+10,ljubljana f.,2000,Mar,29.0
+11,maribor,2000,Mar,
+12,celje,2000,Mar,35.0
+13,trbovlje,2000,Mar,44.0
+14,eis celje,2000,Mar,42.0
+15,ljubljana f.,2000,Apr,32.0
+16,maribor,2000,Apr,
+17,celje,2000,Apr,32.0
+18,trbovlje,2000,Apr,30.0
+19,eis celje,2000,Apr,36.0
+20,ljubljana f.,2000,Maj,31.0
+21,maribor,2000,Maj,
+22,celje,2000,Maj,30.0
+23,trbovlje,2000,Maj,
+24,eis celje,2000,Maj,35.0
+25,ljubljana f.,2000,Jun,31.0
+26,maribor,2000,Jun,
+27,celje,2000,Jun,31.0
+28,trbovlje,2000,Jun,
+29,eis celje,2000,Jun,36.0
+30,ljubljana f.,2000,Jul,21.0
+31,maribor,2000,Jul,
+32,celje,2000,Jul,22.0
+33,trbovlje,2000,Jul,20.0
+34,eis celje,2000,Jul,31.0
+35,ljubljana f.,2000,Avg,32.0
+36,maribor,2000,Avg,
+37,celje,2000,Avg,31.0
+38,trbovlje,2000,Avg,41.0
+39,eis celje,2000,Avg,37.0
+40,ljubljana f.,2000,Sep,34.0
+41,maribor,2000,Sep,
+42,celje,2000,Sep,33.0
+43,trbovlje,2000,Sep,43.0
+44,eis celje,2000,Sep,39.0
+45,ljubljana f.,2000,Okt,28.0
+46,maribor,2000,Okt,41.0
+47,celje,2000,Okt,34.0
+48,trbovlje,2000,Okt,49.0
+49,eis celje,2000,Okt,43.0
+50,ljubljana f.,2000,Nov,
+51,maribor,2000,Nov,29.0
+52,celje,2000,Nov,32.0
+53,trbovlje,2000,Nov,45.0
+54,eis celje,2000,Nov,
+55,ljubljana f.,2000,Dec,
+56,maribor,2000,Dec,30.0
+57,celje,2000,Dec,34.0
+58,trbovlje,2000,Dec,45.0
+59,eis celje,2000,Dec,
+0,ljubljana bez.,2001,Jan,
+1,maribor,2001,Jan,
+2,celje,2001,Jan,36.0
+3,trbovlje,2001,Jan,47.0
+4,eis celje,2001,Jan,44.0
+5,ljubljana bez.,2001,Feb,
+6,maribor,2001,Feb,
+7,celje,2001,Feb,43.0
+8,trbovlje,2001,Feb,30.0
+9,eis celje,2001,Feb,35.0
+10,ljubljana bez.,2001,Mar,
+11,maribor,2001,Mar,
+12,celje,2001,Mar,28.0
+13,trbovlje,2001,Mar,36.0
+14,eis celje,2001,Mar,34.0
+15,ljubljana bez.,2001,Apr,24.0
+16,maribor,2001,Apr,27.0
+17,celje,2001,Apr,27.0
+18,trbovlje,2001,Apr,42.0
+19,eis celje,2001,Apr,30.0
+20,ljubljana bez.,2001,Maj,29.0
+21,maribor,2001,Maj,37.0
+22,celje,2001,Maj,32.0
+23,trbovlje,2001,Maj,46.0
+24,eis celje,2001,Maj,26.0
+25,ljubljana bez.,2001,Jun,26.0
+26,maribor,2001,Jun,31.0
+27,celje,2001,Jun,25.0
+28,trbovlje,2001,Jun,33.0
+29,eis celje,2001,Jun,27.0
+30,ljubljana bez.,2001,Jul,27.0
+31,maribor,2001,Jul,35.0
+32,celje,2001,Jul,28.0
+33,trbovlje,2001,Jul,33.0
+34,eis celje,2001,Jul,30.0
+35,ljubljana bez.,2001,Avg,33.0
+36,maribor,2001,Avg,38.0
+37,celje,2001,Avg,35.0
+38,trbovlje,2001,Avg,38.0
+39,eis celje,2001,Avg,27.0
+40,ljubljana bez.,2001,Sep,21.0
+41,maribor,2001,Sep,28.0
+42,celje,2001,Sep,22.0
+43,trbovlje,2001,Sep,29.0
+44,eis celje,2001,Sep,30.0
+45,ljubljana bez.,2001,Okt,41.0
+46,maribor,2001,Okt,50.0
+47,celje,2001,Okt,43.0
+48,trbovlje,2001,Okt,45.0
+49,eis celje,2001,Okt,41.0
+50,ljubljana bez.,2001,Nov,41.0
+51,maribor,2001,Nov,43.0
+52,celje,2001,Nov,49.0
+53,trbovlje,2001,Nov,47.0
+54,eis celje,2001,Nov,46.0
+55,ljubljana bez.,2001,Dec,47.0
+56,maribor,2001,Dec,44.0
+57,celje,2001,Dec,57.0
+58,trbovlje,2001,Dec,45.0
+59,eis celje,2001,Dec,57.0
+0,ljubljana bez.,2002,Jan,69.0
+1,maribor,2002,Jan,59.0
+2,celje,2002,Jan,64.0
+3,trbovlje,2002,Jan,65.0
+4,zagorje,2002,Jan,64.0
+5,nova gorica,2002,Jan,48.0
+6,murska s.-rakican,2002,Jan,50.0
+7,ljubljana bez.,2002,Feb,44.0
+8,maribor,2002,Feb,58.0
+9,celje,2002,Feb,54.0
+10,trbovlje,2002,Feb,52.0
+11,zagorje,2002,Feb,52.0
+12,nova gorica,2002,Feb,42.0
+13,murska s.-rakican,2002,Feb,40.0
+14,ljubljana bez.,2002,Mar,48.0
+15,maribor,2002,Mar,63.0
+16,celje,2002,Mar,55.0
+17,trbovlje,2002,Mar,61.0
+18,zagorje,2002,Mar,51.0
+19,nova gorica,2002,Mar,46.0
+20,murska s.-rakican,2002,Mar,43.0
+21,ljubljana bez.,2002,Apr,39.0
+22,maribor,2002,Apr,46.0
+23,celje,2002,Apr,40.0
+24,trbovlje,2002,Apr,49.0
+25,zagorje,2002,Apr,45.0
+26,nova gorica,2002,Apr,40.0
+27,murska s.-rakican,2002,Apr,36.0
+28,ljubljana bez.,2002,Maj,33.0
+29,maribor,2002,Maj,47.0
+30,celje,2002,Maj,39.0
+31,trbovlje,2002,Maj,40.0
+32,zagorje,2002,Maj,40.0
+33,nova gorica,2002,Maj,36.0
+34,murska s.-rakican,2002,Maj,32.0
+35,ljubljana bez.,2002,Jun,41.0
+36,maribor,2002,Jun,49.0
+37,celje,2002,Jun,41.0
+38,trbovlje,2002,Jun,43.0
+39,zagorje,2002,Jun,43.0
+40,nova gorica,2002,Jun,44.0
+41,murska s.-rakican,2002,Jun,36.0
+42,ljubljana bez.,2002,Jul,34.0
+43,maribor,2002,Jul,45.0
+44,celje,2002,Jul,36.0
+45,trbovlje,2002,Jul,43.0
+46,zagorje,2002,Jul,52.0
+47,nova gorica,2002,Jul,37.0
+48,murska s.-rakican,2002,Jul,42.0
+49,ljubljana bez.,2002,Avg,39.0
+50,maribor,2002,Avg,48.0
+51,celje,2002,Avg,44.0
+52,trbovlje,2002,Avg,47.0
+53,zagorje,2002,Avg,53.0
+54,nova gorica,2002,Avg,36.0
+55,murska s.-rakican,2002,Avg,46.0
+56,ljubljana bez.,2002,Sep,37.0
+57,maribor,2002,Sep,43.0
+58,celje,2002,Sep,41.0
+59,trbovlje,2002,Sep,43.0
+60,zagorje,2002,Sep,38.0
+61,nova gorica,2002,Sep,39.0
+62,murska s.-rakican,2002,Sep,38.0
+63,ljubljana bez.,2002,Okt,35.0
+64,maribor,2002,Okt,42.0
+65,celje,2002,Okt,38.0
+66,trbovlje,2002,Okt,34.0
+67,zagorje,2002,Okt,37.0
+68,nova gorica,2002,Okt,35.0
+69,murska s.-rakican,2002,Okt,32.0
+70,ljubljana bez.,2002,Nov,43.0
+71,maribor,2002,Nov,50.0
+72,celje,2002,Nov,52.0
+73,trbovlje,2002,Nov,43.0
+74,zagorje,2002,Nov,46.0
+75,nova gorica,2002,Nov,36.0
+76,murska s.-rakican,2002,Nov,42.0
+77,ljubljana bez.,2002,Dec,41.0
+78,maribor,2002,Dec,53.0
+79,celje,2002,Dec,51.0
+80,trbovlje,2002,Dec,43.0
+81,zagorje,2002,Dec,46.0
+82,nova gorica,2002,Dec,33.0
+83,murska s.-rakican,2002,Dec,43.0
+0,ljubljana bez.,2003,Jan,68.0
+1,maribor,2003,Jan,65.0
+2,celje,2003,Jan,76.0
+3,trbovlje,2003,Jan,58.0
+4,zagorje,2003,Jan,64.0
+5,nova gorica,2003,Jan,38.0
+6,murska s.-rakican,2003,Jan,70.0
+7,mo maribor,2003,Jan,53.0
+8,pesje,2003,Jan,30.0
+9,skale,2003,Jan,27.0
+10,ljubljana bez.,2003,Feb,58.0
+11,maribor,2003,Feb,95.0
+12,celje,2003,Feb,81.0
+13,trbovlje,2003,Feb,64.0
+14,zagorje,2003,Feb,71.0
+15,nova gorica,2003,Feb,39.0
+16,murska s.-rakican,2003,Feb,62.0
+17,mo maribor,2003,Feb,66.0
+18,pesje,2003,Feb,40.0
+19,skale,2003,Feb,38.0
+20,ljubljana bez.,2003,Mar,59.0
+21,maribor,2003,Mar,77.0
+22,celje,2003,Mar,71.0
+23,trbovlje,2003,Mar,93.0
+24,zagorje,2003,Mar,76.0
+25,nova gorica,2003,Mar,51.0
+26,murska s.-rakican,2003,Mar,54.0
+27,mo maribor,2003,Mar,53.0
+28,pesje,2003,Mar,48.0
+29,skale,2003,Mar,36.0
+30,ljubljana bez.,2003,Apr,39.0
+31,maribor,2003,Apr,53.0
+32,celje,2003,Apr,46.0
+33,trbovlje,2003,Apr,61.0
+34,zagorje,2003,Apr,48.0
+35,nova gorica,2003,Apr,36.0
+36,murska s.-rakican,2003,Apr,43.0
+37,mo maribor,2003,Apr,42.0
+38,pesje,2003,Apr,33.0
+39,skale,2003,Apr,27.0
+40,ljubljana bez.,2003,Maj,41.0
+41,maribor,2003,Maj,51.0
+42,celje,2003,Maj,45.0
+43,trbovlje,2003,Maj,48.0
+44,zagorje,2003,Maj,45.0
+45,nova gorica,2003,Maj,37.0
+46,murska s.-rakican,2003,Maj,34.0
+47,mo maribor,2003,Maj,42.0
+48,pesje,2003,Maj,33.0
+49,skale,2003,Maj,26.0
+50,ljubljana bez.,2003,Jun,44.0
+51,maribor,2003,Jun,53.0
+52,celje,2003,Jun,43.0
+53,trbovlje,2003,Jun,44.0
+54,zagorje,2003,Jun,47.0
+55,nova gorica,2003,Jun,36.0
+56,murska s.-rakican,2003,Jun,36.0
+57,mo maribor,2003,Jun,38.0
+58,pesje,2003,Jun,27.0
+59,skale,2003,Jun,23.0
+60,ljubljana bez.,2003,Jul,34.0
+61,maribor,2003,Jul,41.0
+62,celje,2003,Jul,36.0
+63,trbovlje,2003,Jul,34.0
+64,zagorje,2003,Jul,37.0
+65,nova gorica,2003,Jul,33.0
+66,murska s.-rakican,2003,Jul,30.0
+67,mo maribor,2003,Jul,30.0
+68,pesje,2003,Jul,25.0
+69,skale,2003,Jul,20.0
+70,ljubljana bez.,2003,Avg,45.0
+71,maribor,2003,Avg,50.0
+72,celje,2003,Avg,45.0
+73,trbovlje,2003,Avg,44.0
+74,zagorje,2003,Avg,43.0
+75,nova gorica,2003,Avg,40.0
+76,murska s.-rakican,2003,Avg,37.0
+77,mo maribor,2003,Avg,31.0
+78,pesje,2003,Avg,29.0
+79,skale,2003,Avg,27.0
+80,ljubljana bez.,2003,Sep,38.0
+81,maribor,2003,Sep,47.0
+82,celje,2003,Sep,42.0
+83,trbovlje,2003,Sep,39.0
+84,zagorje,2003,Sep,44.0
+85,nova gorica,2003,Sep,33.0
+86,murska s.-rakican,2003,Sep,37.0
+87,mo maribor,2003,Sep,35.0
+88,pesje,2003,Sep,26.0
+89,skale,2003,Sep,23.0
+90,ljubljana bez.,2003,Okt,36.0
+91,maribor,2003,Okt,45.0
+92,celje,2003,Okt,40.0
+93,trbovlje,2003,Okt,39.0
+94,zagorje,2003,Okt,39.0
+95,nova gorica,2003,Okt,29.0
+96,murska s.-rakican,2003,Okt,31.0
+97,mo maribor,2003,Okt,36.0
+98,pesje,2003,Okt,25.0
+99,skale,2003,Okt,21.0
+100,ljubljana bez.,2003,Nov,43.0
+101,maribor,2003,Nov,63.0
+102,celje,2003,Nov,48.0
+103,trbovlje,2003,Nov,43.0
+104,zagorje,2003,Nov,43.0
+105,nova gorica,2003,Nov,34.0
+106,murska s.-rakican,2003,Nov,38.0
+107,mo maribor,2003,Nov,36.0
+108,pesje,2003,Nov,26.0
+109,skale,2003,Nov,23.0
+110,ljubljana bez.,2003,Dec,49.0
+111,maribor,2003,Dec,56.0
+112,celje,2003,Dec,55.0
+113,trbovlje,2003,Dec,48.0
+114,zagorje,2003,Dec,58.0
+115,nova gorica,2003,Dec,36.0
+116,murska s.-rakican,2003,Dec,46.0
+117,mo maribor,2003,Dec,42.0
+118,pesje,2003,Dec,25.0
+119,skale,2003,Dec,23.0
+0,ljubljana bez.,2004,Jan,51.0
+1,maribor,2004,Jan,58.0
+2,celje,2004,Jan,60.0
+3,trbovlje,2004,Jan,43.0
+4,zagorje,2004,Jan,49.0
+5,nova gorica,2004,Jan,36.0
+6,murska s.-rakican,2004,Jan,41.0
+7,eis-celje,2004,Jan,48.0
+8,mo maribor,2004,Jan,35.0
+9,pesje,2004,Jan,25.0
+10,skale,2004,Jan,25.0
+11,prapretno,2004,Jan,31.0
+12,ljubljana bez.,2004,Feb,44.0
+13,maribor,2004,Feb,50.0
+14,celje,2004,Feb,51.0
+15,trbovlje,2004,Feb,44.0
+16,zagorje,2004,Feb,50.0
+17,nova gorica,2004,Feb,42.0
+18,murska s.-rakican,2004,Feb,29.0
+19,eis-celje,2004,Feb,48.0
+20,mo maribor,2004,Feb,38.0
+21,pesje,2004,Feb,28.0
+22,skale,2004,Feb,26.0
+23,prapretno,2004,Feb,26.0
+24,ljubljana bez.,2004,Mar,47.0
+25,maribor,2004,Mar,67.0
+26,celje,2004,Mar,54.0
+27,trbovlje,2004,Mar,55.0
+28,zagorje,2004,Mar,62.0
+29,nova gorica,2004,Mar,38.0
+30,murska s.-rakican,2004,Mar,36.0
+31,eis-celje,2004,Mar,43.0
+32,mo maribor,2004,Mar,45.0
+33,pesje,2004,Mar,35.0
+34,skale,2004,Mar,30.0
+35,prapretno,2004,Mar,37.0
+36,ljubljana bez.,2004,Apr,38.0
+37,maribor,2004,Apr,48.0
+38,celje,2004,Apr,40.0
+39,trbovlje,2004,Apr,45.0
+40,zagorje,2004,Apr,43.0
+41,nova gorica,2004,Apr,31.0
+42,murska s.-rakican,2004,Apr,30.0
+43,eis-celje,2004,Apr,35.0
+44,mo maribor,2004,Apr,37.0
+45,pesje,2004,Apr,28.0
+46,skale,2004,Apr,25.0
+47,prapretno,2004,Apr,32.0
+48,ljubljana bez.,2004,Maj,30.0
+49,maribor,2004,Maj,38.0
+50,celje,2004,Maj,34.0
+51,trbovlje,2004,Maj,31.0
+52,zagorje,2004,Maj,31.0
+53,nova gorica,2004,Maj,25.0
+54,murska s.-rakican,2004,Maj,25.0
+55,eis-celje,2004,Maj,17.0
+56,mo maribor,2004,Maj,37.0
+57,pesje,2004,Maj,22.0
+58,skale,2004,Maj,19.0
+59,prapretno,2004,Maj,25.0
+60,ljubljana bez.,2004,Jun,31.0
+61,maribor,2004,Jun,32.0
+62,celje,2004,Jun,30.0
+63,trbovlje,2004,Jun,29.0
+64,zagorje,2004,Jun,35.0
+65,nova gorica,2004,Jun,31.0
+66,murska s.-rakican,2004,Jun,26.0
+67,eis-celje,2004,Jun,27.0
+68,mo maribor,2004,Jun,33.0
+69,pesje,2004,Jun,19.0
+70,skale,2004,Jun,18.0
+71,prapretno,2004,Jun,26.0
+72,ljubljana bez.,2004,Jul,37.0
+73,maribor,2004,Jul,39.0
+74,celje,2004,Jul,36.0
+75,trbovlje,2004,Jul,30.0
+76,zagorje,2004,Jul,37.0
+77,nova gorica,2004,Jul,33.0
+78,murska s.-rakican,2004,Jul,32.0
+79,eis-celje,2004,Jul,28.0
+80,mo maribor,2004,Jul,32.0
+81,pesje,2004,Jul,24.0
+82,skale,2004,Jul,21.0
+83,prapretno,2004,Jul,35.0
+84,ljubljana bez.,2004,Avg,38.0
+85,maribor,2004,Avg,43.0
+86,celje,2004,Avg,38.0
+87,trbovlje,2004,Avg,32.0
+88,zagorje,2004,Avg,37.0
+89,nova gorica,2004,Avg,34.0
+90,murska s.-rakican,2004,Avg,27.0
+91,eis-celje,2004,Avg,27.0
+92,mo maribor,2004,Avg,31.0
+93,pesje,2004,Avg,24.0
+94,skale,2004,Avg,21.0
+95,prapretno,2004,Avg,29.0
+96,ljubljana bez.,2004,Sep,39.0
+97,maribor,2004,Sep,43.0
+98,celje,2004,Sep,38.0
+99,trbovlje,2004,Sep,40.0
+100,zagorje,2004,Sep,40.0
+101,nova gorica,2004,Sep,34.0
+102,murska s.-rakican,2004,Sep,29.0
+103,eis-celje,2004,Sep,30.0
+104,mo maribor,2004,Sep,33.0
+105,pesje,2004,Sep,24.0
+106,skale,2004,Sep,22.0
+107,prapretno,2004,Sep,28.0
+108,ljubljana bez.,2004,Okt,36.0
+109,maribor,2004,Okt,45.0
+110,celje,2004,Okt,36.0
+111,trbovlje,2004,Okt,37.0
+112,zagorje,2004,Okt,45.0
+113,nova gorica,2004,Okt,33.0
+114,murska s.-rakican,2004,Okt,29.0
+115,eis-celje,2004,Okt,31.0
+116,mo maribor,2004,Okt,35.0
+117,pesje,2004,Okt,24.0
+118,skale,2004,Okt,22.0
+119,prapretno,2004,Okt,25.0
+120,ljubljana bez.,2004,Nov,45.0
+121,maribor,2004,Nov,44.0
+122,celje,2004,Nov,25.0
+123,trbovlje,2004,Nov,34.0
+124,zagorje,2004,Nov,50.0
+125,nova gorica,2004,Nov,38.0
+126,murska s.-rakican,2004,Nov,29.0
+127,eis-celje,2004,Nov,36.0
+128,mo maribor,2004,Nov,44.0
+129,pesje,2004,Nov,21.0
+130,skale,2004,Nov,22.0
+131,prapretno,2004,Nov,28.0
+132,ljubljana bez.,2004,Dec,52.0
+133,maribor,2004,Dec,49.0
+134,celje,2004,Dec,34.0
+135,trbovlje,2004,Dec,82.0
+136,zagorje,2004,Dec,63.0
+137,nova gorica,2004,Dec,36.0
+138,murska s.-rakican,2004,Dec,41.0
+139,eis-celje,2004,Dec,40.0
+140,mo maribor,2004,Dec,49.0
+141,pesje,2004,Dec,29.0
+142,skale,2004,Dec,31.0
+143,prapretno,2004,Dec,37.0
+0,ljubljana bez.,2005,Jan,60.0
+1,maribor,2005,Jan,57.0
+2,celje,2005,Jan,52.0
+3,trbovlje,2005,Jan,72.0
+4,zagorje,2005,Jan,70.0
+5,nova gorica,2005,Jan,40.0
+6,murska s.-rakican,2005,Jan,50.0
+7,eis-celje,2005,Jan,47.0
+8,mo maribor,2005,Jan,50.0
+9,pesje,2005,Jan,26.0
+10,skale,2005,Jan,22.0
+11,prapretno,2005,Jan,21.0
+12,ljubljana bez.,2005,Feb,50.0
+13,maribor,2005,Feb,60.0
+14,celje,2005,Feb,67.0
+15,trbovlje,2005,Feb,76.0
+16,zagorje,2005,Feb,71.0
+17,nova gorica,2005,Feb,37.0
+18,murska s.-rakican,2005,Feb,63.0
+19,eis-celje,2005,Feb,57.0
+20,mo maribor,2005,Feb,60.0
+21,pesje,2005,Feb,38.0
+22,skale,2005,Feb,31.0
+23,prapretno,2005,Feb,30.0
+24,ljubljana bez.,2005,Mar,48.0
+25,maribor,2005,Mar,61.0
+26,celje,2005,Mar,59.0
+27,trbovlje,2005,Mar,74.0
+28,zagorje,2005,Mar,77.0
+29,nova gorica,2005,Mar,43.0
+30,murska s.-rakican,2005,Mar,52.0
+31,eis-celje,2005,Mar,51.0
+32,mo maribor,2005,Mar,58.0
+33,pesje,2005,Mar,40.0
+34,skale,2005,Mar,32.0
+35,prapretno,2005,Mar,32.0
+36,ljubljana bez.,2005,Apr,28.0
+37,maribor,2005,Apr,34.0
+38,celje,2005,Apr,39.0
+39,trbovlje,2005,Apr,54.0
+40,zagorje,2005,Apr,43.0
+41,nova gorica,2005,Apr,32.0
+42,murska s.-rakican,2005,Apr,28.0
+43,eis-celje,2005,Apr,28.0
+44,mo maribor,2005,Apr,35.0
+45,pesje,2005,Apr,23.0
+46,skale,2005,Apr,21.0
+47,prapretno,2005,Apr,29.0
+48,ljubljana bez.,2005,Maj,25.0
+49,maribor,2005,Maj,31.0
+50,celje,2005,Maj,35.0
+51,trbovlje,2005,Maj,50.0
+52,zagorje,2005,Maj,37.0
+53,nova gorica,2005,Maj,29.0
+54,murska s.-rakican,2005,Maj,23.0
+55,eis-celje,2005,Maj,24.0
+56,mo maribor,2005,Maj,33.0
+57,pesje,2005,Maj,21.0
+58,skale,2005,Maj,18.0
+59,prapretno,2005,Maj,28.0
+60,ljubljana bez.,2005,Jun,26.0
+61,maribor,2005,Jun,26.0
+62,celje,2005,Jun,33.0
+63,trbovlje,2005,Jun,47.0
+64,zagorje,2005,Jun,40.0
+65,nova gorica,2005,Jun,28.0
+66,murska s.-rakican,2005,Jun,26.0
+67,eis-celje,2005,Jun,22.0
+68,mo maribor,2005,Jun,32.0
+69,pesje,2005,Jun,21.0
+70,skale,2005,Jun,19.0
+71,prapretno,2005,Jun,30.0
+72,ljubljana bez.,2005,Jul,26.0
+73,maribor,2005,Jul,34.0
+74,celje,2005,Jul,31.0
+75,trbovlje,2005,Jul,43.0
+76,zagorje,2005,Jul,45.0
+77,nova gorica,2005,Jul,34.0
+78,murska s.-rakican,2005,Jul,25.0
+79,eis-celje,2005,Jul,27.0
+80,mo maribor,2005,Jul,33.0
+81,pesje,2005,Jul,22.0
+82,skale,2005,Jul,20.0
+83,prapretno,2005,Jul,29.0
+84,ljubljana bez.,2005,Avg,20.0
+85,maribor,2005,Avg,27.0
+86,celje,2005,Avg,28.0
+87,trbovlje,2005,Avg,35.0
+88,zagorje,2005,Avg,35.0
+89,nova gorica,2005,Avg,26.0
+90,murska s.-rakican,2005,Avg,22.0
+91,eis-celje,2005,Avg,21.0
+92,mo maribor,2005,Avg,29.0
+93,pesje,2005,Avg,18.0
+94,skale,2005,Avg,13.0
+95,prapretno,2005,Avg,22.0
+96,ljubljana bez.,2005,Sep,26.0
+97,maribor,2005,Sep,32.0
+98,celje,2005,Sep,35.0
+99,trbovlje,2005,Sep,41.0
+100,zagorje,2005,Sep,42.0
+101,nova gorica,2005,Sep,33.0
+102,murska s.-rakican,2005,Sep,28.0
+103,eis-celje,2005,Sep,28.0
+104,mo maribor,2005,Sep,38.0
+105,pesje,2005,Sep,26.0
+106,skale,2005,Sep,20.0
+107,prapretno,2005,Sep,25.0
+108,ljubljana bez.,2005,Okt,44.0
+109,maribor,2005,Okt,57.0
+110,celje,2005,Okt,45.0
+111,trbovlje,2005,Okt,59.0
+112,zagorje,2005,Okt,58.0
+113,nova gorica,2005,Okt,38.0
+114,murska s.-rakican,2005,Okt,43.0
+115,eis-celje,2005,Okt,54.0
+116,mo maribor,2005,Okt,58.0
+117,pesje,2005,Okt,31.0
+118,skale,2005,Okt,30.0
+119,prapretno,2005,Okt,36.0
+120,ljubljana bez.,2005,Nov,36.0
+121,maribor,2005,Nov,51.0
+122,celje,2005,Nov,42.0
+123,trbovlje,2005,Nov,46.0
+124,zagorje,2005,Nov,49.0
+125,nova gorica,2005,Nov,32.0
+126,murska s.-rakican,2005,Nov,43.0
+127,eis-celje,2005,Nov,52.0
+128,mo maribor,2005,Nov,53.0
+129,pesje,2005,Nov,28.0
+130,skale,2005,Nov,19.0
+131,prapretno,2005,Nov,29.0
+132,ljubljana bez.,2005,Dec,48.0
+133,maribor,2005,Dec,39.0
+134,celje,2005,Dec,44.0
+135,trbovlje,2005,Dec,58.0
+136,zagorje,2005,Dec,62.0
+137,nova gorica,2005,Dec,34.0
+138,murska s.-rakican,2005,Dec,41.0
+139,eis-celje,2005,Dec,57.0
+140,mo maribor,2005,Dec,39.0
+141,pesje,2005,Dec,21.0
+142,skale,2005,Dec,17.0
+143,prapretno,2005,Dec,27.0
+0,ljubljana bez.,2006,Jan,68.0
+1,maribor,2006,Jan,71.0
+2,celje,2006,Jan,75.0
+3,trbovlje,2006,Jan,68.0
+4,zagorje,2006,Jan,85.0
+5,murska s.-rakican,2006,Jan,86.0
+6,nova gorica,2006,Jan,39.0
+7,koper,2006,Jan,33.0
+8,iskrba,2006,Jan,30.0
+9,eis-celje,2006,Jan,90.0
+10,vnajnarje,2006,Jan,38.0
+11,pesje,2006,Jan,47.0
+12,skale,2006,Jan,46.0
+13,prapretno,2006,Jan,56.0
+14,ljubljana bez.,2006,Feb,48.0
+15,maribor,2006,Feb,53.0
+16,celje,2006,Feb,53.0
+17,trbovlje,2006,Feb,60.0
+18,zagorje,2006,Feb,73.0
+19,murska s.-rakican,2006,Feb,45.0
+20,nova gorica,2006,Feb,35.0
+21,koper,2006,Feb,33.0
+22,iskrba,2006,Feb,16.0
+23,eis-celje,2006,Feb,68.0
+24,vnajnarje,2006,Feb,34.0
+25,pesje,2006,Feb,35.0
+26,skale,2006,Feb,32.0
+27,prapretno,2006,Feb,33.0
+28,ljubljana bez.,2006,Mar,37.0
+29,maribor,2006,Mar,49.0
+30,celje,2006,Mar,38.0
+31,trbovlje,2006,Mar,46.0
+32,zagorje,2006,Mar,61.0
+33,murska s.-rakican,2006,Mar,36.0
+34,nova gorica,2006,Mar,35.0
+35,koper,2006,Mar,39.0
+36,iskrba,2006,Mar,17.0
+37,eis-celje,2006,Mar,48.0
+38,vnajnarje,2006,Mar,29.0
+39,pesje,2006,Mar,32.0
+40,skale,2006,Mar,29.0
+41,prapretno,2006,Mar,33.0
+42,ljubljana bez.,2006,Apr,25.0
+43,maribor,2006,Apr,33.0
+44,celje,2006,Apr,25.0
+45,trbovlje,2006,Apr,32.0
+46,zagorje,2006,Apr,33.0
+47,murska s.-rakican,2006,Apr,24.0
+48,nova gorica,2006,Apr,24.0
+49,koper,2006,Apr,34.0
+50,iskrba,2006,Apr,12.0
+51,eis-celje,2006,Apr,37.0
+52,vnajnarje,2006,Apr,19.0
+53,pesje,2006,Apr,23.0
+54,skale,2006,Apr,20.0
+55,prapretno,2006,Apr,26.0
+56,ljubljana bez.,2006,Maj,26.0
+57,maribor,2006,Maj,32.0
+58,celje,2006,Maj,27.0
+59,trbovlje,2006,Maj,31.0
+60,zagorje,2006,Maj,33.0
+61,murska s.-rakican,2006,Maj,25.0
+62,nova gorica,2006,Maj,29.0
+63,koper,2006,Maj,35.0
+64,iskrba,2006,Maj,15.0
+65,eis-celje,2006,Maj,29.0
+66,vnajnarje,2006,Maj,21.0
+67,pesje,2006,Maj,26.0
+68,skale,2006,Maj,24.0
+69,prapretno,2006,Maj,31.0
+70,ljubljana bez.,2006,Jun,30.0
+71,maribor,2006,Jun,39.0
+72,celje,2006,Jun,31.0
+73,trbovlje,2006,Jun,35.0
+74,zagorje,2006,Jun,39.0
+75,murska s.-rakican,2006,Jun,29.0
+76,nova gorica,2006,Jun,36.0
+77,koper,2006,Jun,43.0
+78,iskrba,2006,Jun,19.0
+79,eis-celje,2006,Jun,33.0
+80,vnajnarje,2006,Jun,24.0
+81,pesje,2006,Jun,29.0
+82,skale,2006,Jun,27.0
+83,prapretno,2006,Jun,37.0
+84,ljubljana bez.,2006,Jul,30.0
+85,maribor,2006,Jul,38.0
+86,celje,2006,Jul,28.0
+87,trbovlje,2006,Jul,34.0
+88,zagorje,2006,Jul,34.0
+89,murska s.-rakican,2006,Jul,29.0
+90,nova gorica,2006,Jul,32.0
+91,koper,2006,Jul,40.0
+92,iskrba,2006,Jul,18.0
+93,eis-celje,2006,Jul,28.0
+94,vnajnarje,2006,Jul,28.0
+95,pesje,2006,Jul,26.0
+96,skale,2006,Jul,24.0
+97,prapretno,2006,Jul,35.0
+98,ljubljana bez.,2006,Avg,22.0
+99,maribor,2006,Avg,28.0
+100,celje,2006,Avg,19.0
+101,trbovlje,2006,Avg,23.0
+102,zagorje,2006,Avg,23.0
+103,murska s.-rakican,2006,Avg,17.0
+104,nova gorica,2006,Avg,24.0
+105,koper,2006,Avg,30.0
+106,iskrba,2006,Avg,10.0
+107,eis-celje,2006,Avg,22.0
+108,vnajnarje,2006,Avg,15.0
+109,pesje,2006,Avg,16.0
+110,skale,2006,Avg,15.0
+111,prapretno,2006,Avg,23.0
+112,ljubljana bez.,2006,Sep,32.0
+113,maribor,2006,Sep,43.0
+114,celje,2006,Sep,33.0
+115,trbovlje,2006,Sep,37.0
+116,zagorje,2006,Sep,36.0
+117,murska s.-rakican,2006,Sep,32.0
+118,nova gorica,2006,Sep,30.0
+119,koper,2006,Sep,37.0
+120,iskrba,2006,Sep,16.0
+121,eis-celje,2006,Sep,33.0
+122,vnajnarje,2006,Sep,27.0
+123,pesje,2006,Sep,29.0
+124,skale,2006,Sep,27.0
+125,prapretno,2006,Sep,34.0
+126,ljubljana bez.,2006,Okt,39.0
+127,maribor,2006,Okt,52.0
+128,celje,2006,Okt,36.0
+129,trbovlje,2006,Okt,49.0
+130,zagorje,2006,Okt,47.0
+131,murska s.-rakican,2006,Okt,34.0
+132,nova gorica,2006,Okt,37.0
+133,koper,2006,Okt,31.0
+134,iskrba,2006,Okt,16.0
+135,eis-celje,2006,Okt,45.0
+136,vnajnarje,2006,Okt,28.0
+137,pesje,2006,Okt,25.0
+138,skale,2006,Okt,23.0
+139,prapretno,2006,Okt,34.0
+140,ljubljana bez.,2006,Nov,34.0
+141,maribor,2006,Nov,49.0
+142,celje,2006,Nov,40.0
+143,trbovlje,2006,Nov,39.0
+144,zagorje,2006,Nov,48.0
+145,murska s.-rakican,2006,Nov,37.0
+146,nova gorica,2006,Nov,45.0
+147,koper,2006,Nov,33.0
+148,iskrba,2006,Nov,12.0
+149,eis-celje,2006,Nov,48.0
+150,vnajnarje,2006,Nov,30.0
+151,pesje,2006,Nov,25.0
+152,skale,2006,Nov,21.0
+153,prapretno,2006,Nov,33.0
+154,ljubljana bez.,2006,Dec,37.0
+155,maribor,2006,Dec,48.0
+156,celje,2006,Dec,40.0
+157,trbovlje,2006,Dec,49.0
+158,zagorje,2006,Dec,55.0
+159,murska s.-rakican,2006,Dec,39.0
+160,nova gorica,2006,Dec,41.0
+161,koper,2006,Dec,31.0
+162,iskrba,2006,Dec,13.0
+163,eis-celje,2006,Dec,53.0
+164,vnajnarje,2006,Dec,18.0
+165,pesje,2006,Dec,24.0
+166,skale,2006,Dec,23.0
+167,prapretno,2006,Dec,33.0
+0,ljubljana bez.,2007,Jan,34.0
+1,maribor,2007,Jan,45.0
+2,celje,2007,Jan,35.0
+3,trbovlje,2007,Jan,39.0
+4,zagorje,2007,Jan,53.0
+5,murska s.-rakican,2007,Jan,37.0
+6,nova gorica,2007,Jan,44.0
+7,koper,2007,Jan,36.0
+8,iskrba,2007,Jan,13.0
+9,morsko,2007,Jan,42.0
+10,gorenje polje,2007,Jan,43.0
+11,vnajnarje,2007,Jan,20.0
+12,pesje,2007,Jan,23.0
+13,skale,2007,Jan,27.0
+14,prapretno,2007,Jan,34.0
+15,ljubljana bez.,2007,Feb,39.0
+16,maribor,2007,Feb,47.0
+17,celje,2007,Feb,38.0
+18,trbovlje,2007,Feb,47.0
+19,zagorje,2007,Feb,58.0
+20,murska s.-rakican,2007,Feb,32.0
+21,nova gorica,2007,Feb,36.0
+22,koper,2007,Feb,28.0
+23,iskrba,2007,Feb,14.0
+24,morsko,2007,Feb,
+25,gorenje polje,2007,Feb,35.0
+26,vnajnarje,2007,Feb,20.0
+27,pesje,2007,Feb,24.0
+28,skale,2007,Feb,31.0
+29,prapretno,2007,Feb,39.0
+30,ljubljana bez.,2007,Mar,33.0
+31,maribor,2007,Mar,55.0
+32,celje,2007,Mar,37.0
+33,trbovlje,2007,Mar,48.0
+34,zagorje,2007,Mar,53.0
+35,murska s.-rakican,2007,Mar,31.0
+36,nova gorica,2007,Mar,34.0
+37,koper,2007,Mar,29.0
+38,iskrba,2007,Mar,16.0
+39,morsko,2007,Mar,28.0
+40,gorenje polje,2007,Mar,24.0
+41,vnajnarje,2007,Mar,15.0
+42,pesje,2007,Mar,25.0
+43,skale,2007,Mar,37.0
+44,prapretno,2007,Mar,33.0
+45,ljubljana bez.,2007,Apr,33.0
+46,maribor,2007,Apr,42.0
+47,celje,2007,Apr,35.0
+48,trbovlje,2007,Apr,43.0
+49,zagorje,2007,Apr,35.0
+50,murska s.-rakican,2007,Apr,35.0
+51,nova gorica,2007,Apr,40.0
+52,koper,2007,Apr,42.0
+53,iskrba,2007,Apr,22.0
+54,morsko,2007,Apr,27.0
+55,gorenje polje,2007,Apr,27.0
+56,vnajnarje,2007,Apr,27.0
+57,pesje,2007,Apr,30.0
+58,skale,2007,Apr,40.0
+59,prapretno,2007,Apr,33.0
+60,ljubljana bez.,2007,Maj,23.0
+61,maribor,2007,Maj,31.0
+62,celje,2007,Maj,24.0
+63,trbovlje,2007,Maj,25.0
+64,zagorje,2007,Maj,27.0
+65,murska s.-rakican,2007,Maj,25.0
+66,nova gorica,2007,Maj,26.0
+67,koper,2007,Maj,28.0
+68,iskrba,2007,Maj,16.0
+69,morsko,2007,Maj,18.0
+70,gorenje polje,2007,Maj,18.0
+71,vnajnarje,2007,Maj,18.0
+72,pesje,2007,Maj,22.0
+73,skale,2007,Maj,29.0
+74,prapretno,2007,Maj,23.0
+75,ljubljana bez.,2007,Jun,25.0
+76,maribor,2007,Jun,30.0
+77,celje,2007,Jun,23.0
+78,trbovlje,2007,Jun,26.0
+79,zagorje,2007,Jun,27.0
+80,murska s.-rakican,2007,Jun,24.0
+81,nova gorica,2007,Jun,28.0
+82,koper,2007,Jun,29.0
+83,iskrba,2007,Jun,17.0
+84,morsko,2007,Jun,19.0
+85,gorenje polje,2007,Jun,18.0
+86,vnajnarje,2007,Jun,17.0
+87,pesje,2007,Jun,22.0
+88,skale,2007,Jun,33.0
+89,prapretno,2007,Jun,25.0
+90,ljubljana bez.,2007,Jul,24.0
+91,maribor,2007,Jul,31.0
+92,celje,2007,Jul,23.0
+93,trbovlje,2007,Jul,28.0
+94,zagorje,2007,Jul,26.0
+95,murska s.-rakican,2007,Jul,25.0
+96,nova gorica,2007,Jul,28.0
+97,koper,2007,Jul,25.0
+98,iskrba,2007,Jul,14.0
+99,morsko,2007,Jul,17.0
+100,gorenje polje,2007,Jul,17.0
+101,vnajnarje,2007,Jul,19.0
+102,pesje,2007,Jul,19.0
+103,skale,2007,Jul,34.0
+104,prapretno,2007,Jul,24.0
+105,ljubljana bez.,2007,Avg,21.0
+106,maribor,2007,Avg,28.0
+107,celje,2007,Avg,20.0
+108,trbovlje,2007,Avg,22.0
+109,zagorje,2007,Avg,25.0
+110,murska s.-rakican,2007,Avg,21.0
+111,nova gorica,2007,Avg,25.0
+112,koper,2007,Avg,25.0
+113,iskrba,2007,Avg,16.0
+114,morsko,2007,Avg,15.0
+115,gorenje polje,2007,Avg,15.0
+116,vnajnarje,2007,Avg,16.0
+117,pesje,2007,Avg,19.0
+118,skale,2007,Avg,31.0
+119,prapretno,2007,Avg,21.0
+120,ljubljana bez.,2007,Sep,21.0
+121,maribor,2007,Sep,34.0
+122,celje,2007,Sep,21.0
+123,trbovlje,2007,Sep,22.0
+124,zagorje,2007,Sep,23.0
+125,murska s.-rakican,2007,Sep,22.0
+126,nova gorica,2007,Sep,33.0
+127,koper,2007,Sep,20.0
+128,iskrba,2007,Sep,13.0
+129,morsko,2007,Sep,12.0
+130,gorenje polje,2007,Sep,
+131,vnajnarje,2007,Sep,16.0
+132,pesje,2007,Sep,19.0
+133,skale,2007,Sep,27.0
+134,prapretno,2007,Sep,21.0
+135,ljubljana bez.,2007,Okt,32.0
+136,maribor,2007,Okt,43.0
+137,celje,2007,Okt,32.0
+138,trbovlje,2007,Okt,41.0
+139,zagorje,2007,Okt,42.0
+140,murska s.-rakican,2007,Okt,31.0
+141,nova gorica,2007,Okt,32.0
+142,koper,2007,Okt,32.0
+143,iskrba,2007,Okt,16.0
+144,morsko,2007,Okt,22.0
+145,gorenje polje,2007,Okt,
+146,vnajnarje,2007,Okt,23.0
+147,pesje,2007,Okt,24.0
+148,skale,2007,Okt,30.0
+149,prapretno,2007,Okt,32.0
+150,ljubljana bez.,2007,Nov,43.0
+151,maribor,2007,Nov,46.0
+152,celje,2007,Nov,43.0
+153,trbovlje,2007,Nov,54.0
+154,zagorje,2007,Nov,57.0
+155,murska s.-rakican,2007,Nov,32.0
+156,nova gorica,2007,Nov,32.0
+157,koper,2007,Nov,19.0
+158,iskrba,2007,Nov,12.0
+159,morsko,2007,Nov,27.0
+160,gorenje polje,2007,Nov,
+161,vnajnarje,2007,Nov,20.0
+162,pesje,2007,Nov,22.0
+163,skale,2007,Nov,30.0
+164,prapretno,2007,Nov,43.0
+165,ljubljana bez.,2007,Dec,59.0
+166,maribor,2007,Dec,53.0
+167,celje,2007,Dec,53.0
+168,trbovlje,2007,Dec,55.0
+169,zagorje,2007,Dec,67.0
+170,murska s.-rakican,2007,Dec,47.0
+171,nova gorica,2007,Dec,37.0
+172,koper,2007,Dec,29.0
+173,iskrba,2007,Dec,15.0
+174,morsko,2007,Dec,28.0
+175,gorenje polje,2007,Dec,
+176,vnajnarje,2007,Dec,40.0
+177,pesje,2007,Dec,39.0
+178,skale,2007,Dec,46.0
+179,prapretno,2007,Dec,59.0
+0,ljubljana bez.,2008,Jan,54.0
+1,maribor,2008,Jan,50.0
+2,celje,2008,Jan,55.0
+3,trbovlje,2008,Jan,69.0
+4,zagorje,2008,Jan,69.0
+5,murska s.-rakican,2008,Jan,53.0
+6,nova gorica,2008,Jan,36.0
+7,koper,2008,Jan,28.0
+8,iskrba,2008,Jan,13.0
+9,morsko,2008,Jan,27.0
+10,gorenje polje,2008,Jan,33.0
+11,mo maribor,2008,Jan,50.0
+12,vnajnarje,2008,Jan,
+13,pesje,2008,Jan,27.0
+14,skale,2008,Jan,29.0
+15,prapretno,2008,Jan,34.0
+16,ljubljana bez.,2008,Feb,48.0
+17,maribor,2008,Feb,50.0
+18,celje,2008,Feb,49.0
+19,trbovlje,2008,Feb,60.0
+20,zagorje,2008,Feb,64.0
+21,murska s.-rakican,2008,Feb,43.0
+22,nova gorica,2008,Feb,51.0
+23,koper,2008,Feb,41.0
+24,iskrba,2008,Feb,17.0
+25,morsko,2008,Feb,60.0
+26,gorenje polje,2008,Feb,71.0
+27,mo maribor,2008,Feb,51.0
+28,vnajnarje,2008,Feb,
+29,pesje,2008,Feb,33.0
+30,skale,2008,Feb,31.0
+31,prapretno,2008,Feb,42.0
+32,ljubljana bez.,2008,Mar,24.0
+33,maribor,2008,Mar,32.0
+34,celje,2008,Mar,26.0
+35,trbovlje,2008,Mar,35.0
+36,zagorje,2008,Mar,39.0
+37,murska s.-rakican,2008,Mar,23.0
+38,nova gorica,2008,Mar,25.0
+39,koper,2008,Mar,22.0
+40,iskrba,2008,Mar,11.0
+41,morsko,2008,Mar,20.0
+42,gorenje polje,2008,Mar,23.0
+43,mo maribor,2008,Mar,30.0
+44,vnajnarje,2008,Mar,
+45,pesje,2008,Mar,16.0
+46,skale,2008,Mar,17.0
+47,prapretno,2008,Mar,26.0
+48,ljubljana bez.,2008,Apr,21.0
+49,maribor,2008,Apr,25.0
+50,celje,2008,Apr,23.0
+51,trbovlje,2008,Apr,25.0
+52,zagorje,2008,Apr,29.0
+53,murska s.-rakican,2008,Apr,21.0
+54,nova gorica,2008,Apr,25.0
+55,koper,2008,Apr,18.0
+56,iskrba,2008,Apr,13.0
+57,morsko,2008,Apr,17.0
+58,gorenje polje,2008,Apr,22.0
+59,mo maribor,2008,Apr,33.0
+60,vnajnarje,2008,Apr,19.0
+61,pesje,2008,Apr,17.0
+62,skale,2008,Apr,17.0
+63,prapretno,2008,Apr,24.0
+64,ljubljana bez.,2008,Maj,24.0
+65,maribor,2008,Maj,30.0
+66,celje,2008,Maj,26.0
+67,trbovlje,2008,Maj,19.0
+68,zagorje,2008,Maj,28.0
+69,murska s.-rakican,2008,Maj,24.0
+70,nova gorica,2008,Maj,33.0
+71,koper,2008,Maj,24.0
+72,iskrba,2008,Maj,17.0
+73,morsko,2008,Maj,18.0
+74,gorenje polje,2008,Maj,20.0
+75,mo maribor,2008,Maj,34.0
+76,vnajnarje,2008,Maj,25.0
+77,pesje,2008,Maj,24.0
+78,skale,2008,Maj,24.0
+79,prapretno,2008,Maj,33.0
+80,ljubljana bez.,2008,Jun,22.0
+81,maribor,2008,Jun,28.0
+82,celje,2008,Jun,20.0
+83,trbovlje,2008,Jun,21.0
+84,zagorje,2008,Jun,31.0
+85,murska s.-rakican,2008,Jun,22.0
+86,nova gorica,2008,Jun,29.0
+87,koper,2008,Jun,21.0
+88,iskrba,2008,Jun,15.0
+89,morsko,2008,Jun,17.0
+90,gorenje polje,2008,Jun,17.0
+91,mo maribor,2008,Jun,30.0
+92,vnajnarje,2008,Jun,25.0
+93,pesje,2008,Jun,17.0
+94,skale,2008,Jun,19.0
+95,prapretno,2008,Jun,26.0
+96,ljubljana bez.,2008,Jul,20.0
+97,maribor,2008,Jul,27.0
+98,celje,2008,Jul,18.0
+99,trbovlje,2008,Jul,22.0
+100,zagorje,2008,Jul,28.0
+101,murska s.-rakican,2008,Jul,21.0
+102,nova gorica,2008,Jul,31.0
+103,koper,2008,Jul,0.0
+104,iskrba,2008,Jul,17.0
+105,morsko,2008,Jul,15.0
+106,gorenje polje,2008,Jul,16.0
+107,mo maribor,2008,Jul,27.0
+108,vnajnarje,2008,Jul,22.0
+109,pesje,2008,Jul,17.0
+110,skale,2008,Jul,18.0
+111,prapretno,2008,Jul,28.0
+112,ljubljana bez.,2008,Avg,21.0
+113,maribor,2008,Avg,25.0
+114,celje,2008,Avg,19.0
+115,trbovlje,2008,Avg,24.0
+116,zagorje,2008,Avg,27.0
+117,murska s.-rakican,2008,Avg,19.0
+118,nova gorica,2008,Avg,29.0
+119,koper,2008,Avg,0.0
+120,iskrba,2008,Avg,17.0
+121,morsko,2008,Avg,15.0
+122,gorenje polje,2008,Avg,16.0
+123,mo maribor,2008,Avg,27.0
+124,vnajnarje,2008,Avg,27.0
+125,pesje,2008,Avg,16.0
+126,skale,2008,Avg,19.0
+127,prapretno,2008,Avg,27.0
+128,ljubljana bez.,2008,Sep,24.0
+129,maribor,2008,Sep,28.0
+130,celje,2008,Sep,24.0
+131,trbovlje,2008,Sep,31.0
+132,zagorje,2008,Sep,39.0
+133,murska s.-rakican,2008,Sep,25.0
+134,nova gorica,2008,Sep,26.0
+135,koper,2008,Sep,16.0
+136,iskrba,2008,Sep,23.0
+137,morsko,2008,Sep,14.0
+138,gorenje polje,2008,Sep,17.0
+139,mo maribor,2008,Sep,32.0
+140,vnajnarje,2008,Sep,
+141,pesje,2008,Sep,19.0
+142,skale,2008,Sep,24.0
+143,prapretno,2008,Sep,27.0
+144,ljubljana bez.,2008,Okt,37.0
+145,maribor,2008,Okt,40.0
+146,celje,2008,Okt,35.0
+147,trbovlje,2008,Okt,50.0
+148,zagorje,2008,Okt,67.0
+149,murska s.-rakican,2008,Okt,36.0
+150,nova gorica,2008,Okt,32.0
+151,koper,2008,Okt,31.0
+152,iskrba,2008,Okt,22.0
+153,morsko,2008,Okt,23.0
+154,gorenje polje,2008,Okt,30.0
+155,mo maribor,2008,Okt,37.0
+156,vnajnarje,2008,Okt,
+157,pesje,2008,Okt,23.0
+158,skale,2008,Okt,24.0
+159,prapretno,2008,Okt,30.0
+160,ljubljana bez.,2008,Nov,37.0
+161,maribor,2008,Nov,38.0
+162,celje,2008,Nov,35.0
+163,trbovlje,2008,Nov,51.0
+164,zagorje,2008,Nov,70.0
+165,murska s.-rakican,2008,Nov,35.0
+166,nova gorica,2008,Nov,30.0
+167,koper,2008,Nov,24.0
+168,iskrba,2008,Nov,15.0
+169,morsko,2008,Nov,21.0
+170,gorenje polje,2008,Nov,26.0
+171,mo maribor,2008,Nov,34.0
+172,vnajnarje,2008,Nov,
+173,pesje,2008,Nov,18.0
+174,skale,2008,Nov,21.0
+175,prapretno,2008,Nov,27.0
+176,ljubljana bez.,2008,Dec,27.0
+177,maribor,2008,Dec,33.0
+178,celje,2008,Dec,30.0
+179,trbovlje,2008,Dec,33.0
+180,zagorje,2008,Dec,41.0
+181,murska s.-rakican,2008,Dec,32.0
+182,nova gorica,2008,Dec,30.0
+183,koper,2008,Dec,21.0
+184,iskrba,2008,Dec,14.0
+185,morsko,2008,Dec,17.0
+186,gorenje polje,2008,Dec,22.0
+187,mo maribor,2008,Dec,30.0
+188,vnajnarje,2008,Dec,
+189,pesje,2008,Dec,16.0
+190,skale,2008,Dec,20.0
+191,prapretno,2008,Dec,26.0
+0,ljubljana bez.,2009,Jan,58.0
+1,ljubljana bf,2009,Jan,60.0
+2,ljubljana center,2009,Jan,79.0
+3,maribor center,2009,Jan,70.0
+4,celje,2009,Jan,62.0
+5,trbovlje,2009,Jan,61.0
+6,zagorje,2009,Jan,74.0
+7,murska s.-rakican,2009,Jan,56.0
+8,nova gorica,2009,Jan,35.0
+9,koper,2009,Jan,25.0
+10,iskrba,2009,Jan,32.0
+11,morsko,2009,Jan,27.0
+12,gorenje polje,2009,Jan,26.0
+13,mo maribor,2009,Jan,53.0
+14,vnajnarje,2009,Jan,31.0
+15,pesje,2009,Jan,41.0
+16,skale,2009,Jan,48.0
+17,prapretno,2009,Jan,55.0
+18,ljubljana bez.,2009,Feb,39.0
+19,ljubljana bf,2009,Feb,38.0
+20,ljubljana center,2009,Feb,55.0
+21,maribor center,2009,Feb,36.0
+22,celje,2009,Feb,40.0
+23,trbovlje,2009,Feb,48.0
+24,zagorje,2009,Feb,55.0
+25,murska s.-rakican,2009,Feb,29.0
+26,nova gorica,2009,Feb,33.0
+27,koper,2009,Feb,26.0
+28,iskrba,2009,Feb,16.0
+29,morsko,2009,Feb,30.0
+30,gorenje polje,2009,Feb,39.0
+31,mo maribor,2009,Feb,33.0
+32,vnajnarje,2009,Feb,63.0
+33,pesje,2009,Feb,22.0
+34,skale,2009,Feb,23.0
+35,prapretno,2009,Feb,30.0
+36,ljubljana bez.,2009,Mar,26.0
+37,ljubljana bf,2009,Mar,22.0
+38,ljubljana center,2009,Mar,44.0
+39,maribor center,2009,Mar,32.0
+40,celje,2009,Mar,31.0
+41,trbovlje,2009,Mar,37.0
+42,zagorje,2009,Mar,44.0
+43,murska s.-rakican,2009,Mar,23.0
+44,nova gorica,2009,Mar,28.0
+45,koper,2009,Mar,27.0
+46,iskrba,2009,Mar,13.0
+47,morsko,2009,Mar,21.0
+48,gorenje polje,2009,Mar,30.0
+49,mo maribor,2009,Mar,27.0
+50,vnajnarje,2009,Mar,19.0
+51,pesje,2009,Mar,22.0
+52,skale,2009,Mar,18.0
+53,prapretno,2009,Mar,27.0
+54,ljubljana bez.,2009,Apr,26.0
+55,ljubljana bf,2009,Apr,23.0
+56,ljubljana center,2009,Apr,45.0
+57,maribor center,2009,Apr,32.0
+58,celje,2009,Apr,30.0
+59,trbovlje,2009,Apr,34.0
+60,zagorje,2009,Apr,31.0
+61,murska s.-rakican,2009,Apr,32.0
+62,nova gorica,2009,Apr,25.0
+63,koper,2009,Apr,25.0
+64,iskrba,2009,Apr,20.0
+65,morsko,2009,Apr,20.0
+66,gorenje polje,2009,Apr,24.0
+67,mo maribor,2009,Apr,35.0
+68,vnajnarje,2009,Apr,28.0
+69,pesje,2009,Apr,24.0
+70,skale,2009,Apr,27.0
+71,prapretno,2009,Apr,33.0
+72,ljubljana bez.,2009,Maj,25.0
+73,ljubljana bf,2009,Maj,19.0
+74,ljubljana center,2009,Maj,50.0
+75,maribor center,2009,Maj,24.0
+76,celje,2009,Maj,23.0
+77,trbovlje,2009,Maj,25.0
+78,zagorje,2009,Maj,26.0
+79,murska s.-rakican,2009,Maj,22.0
+80,nova gorica,2009,Maj,28.0
+81,koper,2009,Maj,27.0
+82,iskrba,2009,Maj,16.0
+83,morsko,2009,Maj,20.0
+84,gorenje polje,2009,Maj,23.0
+85,mo maribor,2009,Maj,29.0
+86,vnajnarje,2009,Maj,32.0
+87,pesje,2009,Maj,22.0
+88,skale,2009,Maj,25.0
+89,prapretno,2009,Maj,34.0
+90,ljubljana bez.,2009,Jun,15.0
+91,ljubljana bf,2009,Jun,13.0
+92,ljubljana center,2009,Jun,35.0
+93,maribor center,2009,Jun,17.0
+94,celje,2009,Jun,16.0
+95,trbovlje,2009,Jun,18.0
+96,zagorje,2009,Jun,22.0
+97,murska s.-rakican,2009,Jun,18.0
+98,nova gorica,2009,Jun,18.0
+99,koper,2009,Jun,18.0
+100,iskrba,2009,Jun,11.0
+101,morsko,2009,Jun,13.0
+102,gorenje polje,2009,Jun,14.0
+103,mo maribor,2009,Jun,22.0
+104,vnajnarje,2009,Jun,21.0
+105,pesje,2009,Jun,12.0
+106,skale,2009,Jun,13.0
+107,prapretno,2009,Jun,25.0
+108,ljubljana bez.,2009,Jul,19.0
+109,ljubljana bf,2009,Jul,16.0
+110,ljubljana center,2009,Jul,36.0
+111,maribor center,2009,Jul,18.0
+112,celje,2009,Jul,18.0
+113,trbovlje,2009,Jul,19.0
+114,zagorje,2009,Jul,21.0
+115,murska s.-rakican,2009,Jul,21.0
+116,nova gorica,2009,Jul,20.0
+117,koper,2009,Jul,21.0
+118,iskrba,2009,Jul,14.0
+119,morsko,2009,Jul,14.0
+120,gorenje polje,2009,Jul,16.0
+121,mo maribor,2009,Jul,23.0
+122,vnajnarje,2009,Jul,21.0
+123,pesje,2009,Jul,15.0
+124,skale,2009,Jul,19.0
+125,prapretno,2009,Jul,26.0
+126,ljubljana bez.,2009,Avg,20.0
+127,ljubljana bf,2009,Avg,19.0
+128,ljubljana center,2009,Avg,42.0
+129,maribor center,2009,Avg,20.0
+130,celje,2009,Avg,20.0
+131,trbovlje,2009,Avg,23.0
+132,zagorje,2009,Avg,23.0
+133,murska s.-rakican,2009,Avg,22.0
+134,nova gorica,2009,Avg,24.0
+135,koper,2009,Avg,21.0
+136,iskrba,2009,Avg,12.0
+137,morsko,2009,Avg,13.0
+138,gorenje polje,2009,Avg,15.0
+139,mo maribor,2009,Avg,24.0
+140,vnajnarje,2009,Avg,20.0
+141,pesje,2009,Avg,20.0
+142,skale,2009,Avg,20.0
+143,prapretno,2009,Avg,30.0
+144,ljubljana bez.,2009,Sep,27.0
+145,ljubljana bf,2009,Sep,25.0
+146,ljubljana center,2009,Sep,46.0
+147,maribor center,2009,Sep,28.0
+148,celje,2009,Sep,27.0
+149,trbovlje,2009,Sep,31.0
+150,zagorje,2009,Sep,25.0
+151,murska s.-rakican,2009,Sep,28.0
+152,nova gorica,2009,Sep,34.0
+153,koper,2009,Sep,27.0
+154,iskrba,2009,Sep,17.0
+155,morsko,2009,Sep,16.0
+156,gorenje polje,2009,Sep,20.0
+157,mo maribor,2009,Sep,32.0
+158,vnajnarje,2009,Sep,24.0
+159,pesje,2009,Sep,27.0
+160,skale,2009,Sep,27.0
+161,prapretno,2009,Sep,32.0
+162,ljubljana bez.,2009,Okt,29.0
+163,ljubljana bf,2009,Okt,21.0
+164,ljubljana center,2009,Okt,37.0
+165,maribor center,2009,Okt,25.0
+166,celje,2009,Okt,29.0
+167,trbovlje,2009,Okt,33.0
+168,zagorje,2009,Okt,30.0
+169,murska s.-rakican,2009,Okt,26.0
+170,nova gorica,2009,Okt,23.0
+171,koper,2009,Okt,22.0
+172,iskrba,2009,Okt,13.0
+173,morsko,2009,Okt,16.0
+174,gorenje polje,2009,Okt,17.0
+175,mo maribor,2009,Okt,26.0
+176,vnajnarje,2009,Okt,17.0
+177,pesje,2009,Okt,21.0
+178,skale,2009,Okt,20.0
+179,prapretno,2009,Okt,26.0
+180,ljubljana bez.,2009,Nov,33.0
+181,ljubljana bf,2009,Nov,29.0
+182,ljubljana center,2009,Nov,46.0
+183,maribor center,2009,Nov,32.0
+184,celje,2009,Nov,36.0
+185,trbovlje,2009,Nov,32.0
+186,zagorje,2009,Nov,39.0
+187,murska s.-rakican,2009,Nov,33.0
+188,nova gorica,2009,Nov,37.0
+189,koper,2009,Nov,24.0
+190,iskrba,2009,Nov,11.0
+191,morsko,2009,Nov,30.0
+192,gorenje polje,2009,Nov,31.0
+193,mo maribor,2009,Nov,32.0
+194,vnajnarje,2009,Nov,15.0
+195,pesje,2009,Nov,22.0
+196,skale,2009,Nov,22.0
+197,prapretno,2009,Nov,26.0
+198,ljubljana bez.,2009,Dec,34.0
+199,ljubljana bf,2009,Dec,31.0
+200,ljubljana center,2009,Dec,50.0
+201,maribor center,2009,Dec,31.0
+202,celje,2009,Dec,39.0
+203,trbovlje,2009,Dec,40.0
+204,zagorje,2009,Dec,41.0
+205,murska s.-rakican,2009,Dec,38.0
+206,nova gorica,2009,Dec,27.0
+207,koper,2009,Dec,23.0
+208,iskrba,2009,Dec,12.0
+209,morsko,2009,Dec,21.0
+210,gorenje polje,2009,Dec,20.0
+211,mo maribor,2009,Dec,29.0
+212,vnajnarje,2009,Dec,16.0
+213,pesje,2009,Dec,18.0
+214,skale,2009,Dec,19.0
+215,prapretno,2009,Dec,27.0
+0,ljubljana bez.,2010,Jan,54.0
+1,ljubljana bf,2010,Jan,56.0
+2,ljubljana center,2010,Jan,224.0
+3,maribor center,2010,Jan,57.0
+4,kranj,2010,Jan,60.0
+5,novo mesto,2010,Jan,54.0
+6,celje,2010,Jan,56.0
+7,trbovlje,2010,Jan,54.0
+8,zagorje,2010,Jan,61.0
+9,hrastnik,2010,Jan,46.0
+10,m. s.-rakican,2010,Jan,57.0
+11,nova gorica,2010,Jan,35.0
+12,koper,2010,Jan,32.0
+13,zerjav,2010,Jan,64.0
+14,iskrba,2010,Jan,27.0
+15,morsko,2010,Jan,27.0
+16,gorenje polje,2010,Jan,26.0
+17,maribor tabor,2010,Jan,47.0
+18,vnajnarje,2010,Jan,53.0
+19,pesje,2010,Jan,63.0
+20,skale,2010,Jan,75.0
+21,prapretno,2010,Jan,84.0
+22,ljubljana bez.,2010,Feb,49.0
+23,ljubljana bf,2010,Feb,43.0
+24,ljubljana center,2010,Feb,127.0
+25,maribor center,2010,Feb,51.0
+26,kranj,2010,Feb,53.0
+27,novo mesto,2010,Feb,52.0
+28,celje,2010,Feb,49.0
+29,trbovlje,2010,Feb,48.0
+30,zagorje,2010,Feb,56.0
+31,hrastnik,2010,Feb,39.0
+32,m. s.-rakican,2010,Feb,55.0
+33,nova gorica,2010,Feb,36.0
+34,koper,2010,Feb,29.0
+35,zerjav,2010,Feb,44.0
+36,iskrba,2010,Feb,17.0
+37,morsko,2010,Feb,26.0
+38,gorenje polje,2010,Feb,25.0
+39,maribor tabor,2010,Feb,44.0
+40,vnajnarje,2010,Feb,48.0
+41,pesje,2010,Feb,71.0
+42,skale,2010,Feb,71.0
+43,prapretno,2010,Feb,70.0
+44,ljubljana bez.,2010,Mar,34.0
+45,ljubljana bf,2010,Mar,29.0
+46,ljubljana center,2010,Mar,68.0
+47,maribor center,2010,Mar,34.0
+48,kranj,2010,Mar,32.0
+49,novo mesto,2010,Mar,32.0
+50,celje,2010,Mar,38.0
+51,trbovlje,2010,Mar,40.0
+52,zagorje,2010,Mar,48.0
+53,hrastnik,2010,Mar,34.0
+54,m. s.-rakican,2010,Mar,31.0
+55,nova gorica,2010,Mar,36.0
+56,koper,2010,Mar,38.0
+57,zerjav,2010,Mar,25.0
+58,iskrba,2010,Mar,18.0
+59,morsko,2010,Mar,31.0
+60,gorenje polje,2010,Mar,36.0
+61,maribor tabor,2010,Mar,29.0
+62,vnajnarje,2010,Mar,30.0
+63,pesje,2010,Mar,43.0
+64,skale,2010,Mar,42.0
+65,prapretno,2010,Mar,45.0
+66,ljubljana bez.,2010,Apr,24.0
+67,ljubljana bf,2010,Apr,23.0
+68,ljubljana center,2010,Apr,58.0
+69,maribor center,2010,Apr,33.0
+70,kranj,2010,Apr,31.0
+71,novo mesto,2010,Apr,23.0
+72,celje,2010,Apr,30.0
+73,trbovlje,2010,Apr,31.0
+74,zagorje,2010,Apr,27.0
+75,hrastnik,2010,Apr,23.0
+76,m. s.-rakican,2010,Apr,21.0
+77,nova gorica,2010,Apr,27.0
+78,koper,2010,Apr,22.0
+79,zerjav,2010,Apr,19.0
+80,iskrba,2010,Apr,14.0
+81,morsko,2010,Apr,17.0
+82,gorenje polje,2010,Apr,18.0
+83,maribor tabor,2010,Apr,27.0
+84,vnajnarje,2010,Apr,32.0
+85,pesje,2010,Apr,41.0
+86,skale,2010,Apr,39.0
+87,prapretno,2010,Apr,46.0
+88,ljubljana bez.,2010,Maj,17.0
+89,ljubljana bf,2010,Maj,15.0
+90,ljubljana center,2010,Maj,35.0
+91,maribor center,2010,Maj,21.0
+92,kranj,2010,Maj,17.0
+93,novo mesto,2010,Maj,15.0
+94,celje,2010,Maj,17.0
+95,trbovlje,2010,Maj,20.0
+96,zagorje,2010,Maj,19.0
+97,hrastnik,2010,Maj,16.0
+98,m. s.-rakican,2010,Maj,16.0
+99,nova gorica,2010,Maj,22.0
+100,koper,2010,Maj,18.0
+101,zerjav,2010,Maj,15.0
+102,iskrba,2010,Maj,12.0
+103,morsko,2010,Maj,13.0
+104,gorenje polje,2010,Maj,13.0
+105,maribor tabor,2010,Maj,23.0
+106,vnajnarje,2010,Maj,26.0
+107,pesje,2010,Maj,68.0
+108,skale,2010,Maj,34.0
+109,prapretno,2010,Maj,37.0
+110,ljubljana bez.,2010,Jun,20.0
+111,ljubljana bf,2010,Jun,15.0
+112,ljubljana center,2010,Jun,48.0
+113,maribor center,2010,Jun,20.0
+114,kranj,2010,Jun,18.0
+115,novo mesto,2010,Jun,17.0
+116,celje,2010,Jun,20.0
+117,trbovlje,2010,Jun,20.0
+118,zagorje,2010,Jun,22.0
+119,hrastnik,2010,Jun,18.0
+120,m. s.-rakican,2010,Jun,20.0
+121,nova gorica,2010,Jun,
+122,koper,2010,Jun,21.0
+123,zerjav,2010,Jun,17.0
+124,iskrba,2010,Jun,12.0
+125,morsko,2010,Jun,15.0
+126,gorenje polje,2010,Jun,16.0
+127,maribor tabor,2010,Jun,25.0
+128,vnajnarje,2010,Jun,31.0
+129,pesje,2010,Jun,31.0
+130,skale,2010,Jun,58.0
+131,prapretno,2010,Jun,53.0
+132,ljubljana bez.,2010,Jul,22.0
+133,ljubljana bf,2010,Jul,20.0
+134,ljubljana center,2010,Jul,50.0
+135,maribor center,2010,Jul,24.0
+136,kranj,2010,Jul,21.0
+137,novo mesto,2010,Jul,20.0
+138,celje,2010,Jul,22.0
+139,trbovlje,2010,Jul,23.0
+140,zagorje,2010,Jul,24.0
+141,hrastnik,2010,Jul,21.0
+142,m. s.-rakican,2010,Jul,21.0
+143,nova gorica,2010,Jul,23.0
+144,koper,2010,Jul,25.0
+145,zerjav,2010,Jul,19.0
+146,iskrba,2010,Jul,15.0
+147,morsko,2010,Jul,18.0
+148,gorenje polje,2010,Jul,17.0
+149,maribor tabor,2010,Jul,29.0
+150,vnajnarje,2010,Jul,50.0
+151,pesje,2010,Jul,35.0
+152,skale,2010,Jul,38.0
+153,prapretno,2010,Jul,56.0
+154,ljubljana bez.,2010,Avg,17.0
+155,ljubljana bf,2010,Avg,15.0
+156,ljubljana center,2010,Avg,41.0
+157,maribor center,2010,Avg,20.0
+158,kranj,2010,Avg,14.0
+159,novo mesto,2010,Avg,17.0
+160,celje,2010,Avg,18.0
+161,trbovlje,2010,Avg,19.0
+162,zagorje,2010,Avg,22.0
+163,hrastnik,2010,Avg,17.0
+164,m. s.-rakican,2010,Avg,17.0
+165,nova gorica,2010,Avg,22.0
+166,koper,2010,Avg,20.0
+167,zerjav,2010,Avg,14.0
+168,iskrba,2010,Avg,12.0
+169,morsko,2010,Avg,14.0
+170,gorenje polje,2010,Avg,13.0
+171,maribor tabor,2010,Avg,23.0
+172,vnajnarje,2010,Avg,39.0
+173,pesje,2010,Avg,28.0
+174,skale,2010,Avg,33.0
+175,prapretno,2010,Avg,37.0
+176,ljubljana bez.,2010,Sep,18.0
+177,ljubljana bf,2010,Sep,15.0
+178,ljubljana center,2010,Sep,55.0
+179,maribor center,2010,Sep,21.0
+180,kranj,2010,Sep,18.0
+181,novo mesto,2010,Sep,18.0
+182,celje,2010,Sep,20.0
+183,trbovlje,2010,Sep,20.0
+184,zagorje,2010,Sep,26.0
+185,hrastnik,2010,Sep,17.0
+186,m. s.-rakican,2010,Sep,18.0
+187,nova gorica,2010,Sep,17.0
+188,koper,2010,Sep,20.0
+189,zerjav,2010,Sep,13.0
+190,iskrba,2010,Sep,11.0
+191,morsko,2010,Sep,9.0
+192,gorenje polje,2010,Sep,11.0
+193,maribor tabor,2010,Sep,24.0
+194,vnajnarje,2010,Sep,36.0
+195,pesje,2010,Sep,39.0
+196,skale,2010,Sep,46.0
+197,prapretno,2010,Sep,40.0
+198,ljubljana bez.,2010,Okt,31.0
+199,ljubljana bf,2010,Okt,24.0
+200,ljubljana center,2010,Okt,64.0
+201,maribor center,2010,Okt,36.0
+202,kranj,2010,Okt,30.0
+203,novo mesto,2010,Okt,36.0
+204,celje,2010,Okt,35.0
+205,trbovlje,2010,Okt,40.0
+206,zagorje,2010,Okt,39.0
+207,hrastnik,2010,Okt,28.0
+208,m. s.-rakican,2010,Okt,32.0
+209,nova gorica,2010,Okt,26.0
+210,koper,2010,Okt,29.0
+211,zerjav,2010,Okt,26.0
+212,iskrba,2010,Okt,16.0
+213,morsko,2010,Okt,16.0
+214,gorenje polje,2010,Okt,17.0
+215,maribor tabor,2010,Okt,35.0
+216,vnajnarje,2010,Okt,39.0
+217,pesje,2010,Okt,44.0
+218,skale,2010,Okt,53.0
+219,prapretno,2010,Okt,53.0
+220,ljubljana bez.,2010,Nov,26.0
+221,ljubljana bf,2010,Nov,24.0
+222,ljubljana center,2010,Nov,62.0
+223,maribor center,2010,Nov,32.0
+224,kranj,2010,Nov,27.0
+225,novo mesto,2010,Nov,34.0
+226,celje,2010,Nov,31.0
+227,trbovlje,2010,Nov,32.0
+228,zagorje,2010,Nov,37.0
+229,hrastnik,2010,Nov,27.0
+230,m. s.-rakican,2010,Nov,32.0
+231,nova gorica,2010,Nov,33.0
+232,koper,2010,Nov,24.0
+233,zerjav,2010,Nov,31.0
+234,iskrba,2010,Nov,9.0
+235,morsko,2010,Nov,19.0
+236,gorenje polje,2010,Nov,24.0
+237,maribor tabor,2010,Nov,22.0
+238,vnajnarje,2010,Nov,30.0
+239,pesje,2010,Nov,40.0
+240,skale,2010,Nov,39.0
+241,prapretno,2010,Nov,51.0
+242,ljubljana bez.,2010,Dec,44.0
+243,ljubljana bf,2010,Dec,41.0
+244,ljubljana center,2010,Dec,128.0
+245,maribor center,2010,Dec,41.0
+246,kranj,2010,Dec,44.0
+247,novo mesto,2010,Dec,61.0
+248,celje,2010,Dec,50.0
+249,trbovlje,2010,Dec,55.0
+250,zagorje,2010,Dec,57.0
+251,hrastnik,2010,Dec,38.0
+252,m. s.-rakican,2010,Dec,41.0
+253,nova gorica,2010,Dec,36.0
+254,koper,2010,Dec,22.0
+255,zerjav,2010,Dec,27.0
+256,iskrba,2010,Dec,11.0
+257,morsko,2010,Dec,24.0
+258,gorenje polje,2010,Dec,24.0
+259,maribor tabor,2010,Dec,30.0
+260,vnajnarje,2010,Dec,57.0
+261,pesje,2010,Dec,70.0
+262,skale,2010,Dec,94.0
+263,prapretno,2010,Dec,103.0
+0,ljubljana bezigrad,2011,Jan,45.0
+1,ljubljana bf,2011,Jan,45.0
+2,maribor center,2011,Jan,49.0
+3,kranj,2011,Jan,43.0
+4,novo mesto,2011,Jan,51.0
+5,celje,2011,Jan,51.0
+6,trbovlje,2011,Jan,47.0
+7,zagorje,2011,Jan,54.0
+8,hrastnik,2011,Jan,42.0
+9,murska s. rakican,2011,Jan,50.0
+10,nova gorica,2011,Jan,38.0
+11,koper,2011,Jan,35.0
+12,zerjav,2011,Jan,64.0
+13,iskrba,2011,Jan,16.0
+14,ljubljana center,2011,Jan,57.0
+15,morsko,2011,Jan,28.0
+16,gorenje polje,2011,Jan,30.0
+17,maribor vrbanski p.,2011,Jan,37.0
+18,vnajnarje,2011,Jan,23.0
+19,pesje,2011,Jan,25.0
+20,skale,2011,Jan,34.0
+21,prapretno,2011,Jan,36.0
+22,ljubljana bezigrad,2011,Feb,55.0
+23,ljubljana bf,2011,Feb,50.0
+24,maribor center,2011,Feb,63.0
+25,kranj,2011,Feb,55.0
+26,novo mesto,2011,Feb,59.0
+27,celje,2011,Feb,64.0
+28,trbovlje,2011,Feb,64.0
+29,zagorje,2011,Feb,70.0
+30,hrastnik,2011,Feb,54.0
+31,murska s. rakican,2011,Feb,67.0
+32,nova gorica,2011,Feb,45.0
+33,koper,2011,Feb,44.0
+34,zerjav,2011,Feb,63.0
+35,iskrba,2011,Feb,26.0
+36,ljubljana center,2011,Feb,70.0
+37,morsko,2011,Feb,34.0
+38,gorenje polje,2011,Feb,35.0
+39,maribor vrbanski p.,2011,Feb,47.0
+40,vnajnarje,2011,Feb,39.0
+41,pesje,2011,Feb,44.0
+42,skale,2011,Feb,46.0
+43,prapretno,2011,Feb,54.0
+44,ljubljana bezigrad,2011,Mar,37.0
+45,ljubljana bf,2011,Mar,33.0
+46,maribor center,2011,Mar,45.0
+47,kranj,2011,Mar,39.0
+48,novo mesto,2011,Mar,42.0
+49,celje,2011,Mar,47.0
+50,trbovlje,2011,Mar,47.0
+51,zagorje,2011,Mar,51.0
+52,hrastnik,2011,Mar,39.0
+53,murska s. rakican,2011,Mar,48.0
+54,nova gorica,2011,Mar,36.0
+55,koper,2011,Mar,33.0
+56,zerjav,2011,Mar,45.0
+57,iskrba,2011,Mar,17.0
+58,ljubljana center,2011,Mar,49.0
+59,morsko,2011,Mar,30.0
+60,gorenje polje,2011,Mar,33.0
+61,maribor vrbanski p.,2011,Mar,35.0
+62,vnajnarje,2011,Mar,32.0
+63,pesje,2011,Mar,32.0
+64,skale,2011,Mar,32.0
+65,prapretno,2011,Mar,40.0
+66,ljubljana bezigrad,2011,Apr,25.0
+67,ljubljana bf,2011,Apr,23.0
+68,maribor center,2011,Apr,28.0
+69,kranj,2011,Apr,24.0
+70,novo mesto,2011,Apr,24.0
+71,celje,2011,Apr,27.0
+72,trbovlje,2011,Apr,29.0
+73,zagorje,2011,Apr,30.0
+74,hrastnik,2011,Apr,25.0
+75,murska s. rakican,2011,Apr,24.0
+76,nova gorica,2011,Apr,25.0
+77,koper,2011,Apr,24.0
+78,zerjav,2011,Apr,30.0
+79,iskrba,2011,Apr,13.0
+80,ljubljana center,2011,Apr,40.0
+81,morsko,2011,Apr,18.0
+82,gorenje polje,2011,Apr,20.0
+83,maribor vrbanski p.,2011,Apr,20.0
+84,vnajnarje,2011,Apr,29.0
+85,pesje,2011,Apr,24.0
+86,skale,2011,Apr,24.0
+87,prapretno,2011,Apr,31.0
+88,ljubljana bezigrad,2011,Maj,22.0
+89,ljubljana bf,2011,Maj,23.0
+90,maribor center,2011,Maj,28.0
+91,kranj,2011,Maj,19.0
+92,novo mesto,2011,Maj,20.0
+93,celje,2011,Maj,23.0
+94,trbovlje,2011,Maj,21.0
+95,zagorje,2011,Maj,25.0
+96,hrastnik,2011,Maj,21.0
+97,murska s. rakican,2011,Maj,21.0
+98,nova gorica,2011,Maj,21.0
+99,koper,2011,Maj,23.0
+100,zerjav,2011,Maj,23.0
+101,iskrba,2011,Maj,19.0
+102,ljubljana center,2011,Maj,39.0
+103,morsko,2011,Maj,16.0
+104,gorenje polje,2011,Maj,17.0
+105,maribor vrbanski p.,2011,Maj,18.0
+106,vnajnarje,2011,Maj,26.0
+107,pesje,2011,Maj,19.0
+108,skale,2011,Maj,13.0
+109,prapretno,2011,Maj,33.0
+110,ljubljana bezigrad,2011,Jun,17.0
+111,ljubljana bf,2011,Jun,18.0
+112,maribor center,2011,Jun,25.0
+113,kranj,2011,Jun,15.0
+114,novo mesto,2011,Jun,15.0
+115,celje,2011,Jun,16.0
+116,trbovlje,2011,Jun,18.0
+117,zagorje,2011,Jun,21.0
+118,hrastnik,2011,Jun,17.0
+119,murska s. rakican,2011,Jun,15.0
+120,nova gorica,2011,Jun,16.0
+121,koper,2011,Jun,18.0
+122,zerjav,2011,Jun,19.0
+123,iskrba,2011,Jun,15.0
+124,ljubljana center,2011,Jun,32.0
+125,morsko,2011,Jun,14.0
+126,gorenje polje,2011,Jun,14.0
+127,maribor vrbanski p.,2011,Jun,16.0
+128,vnajnarje,2011,Jun,21.0
+129,pesje,2011,Jun,14.0
+130,skale,2011,Jun,12.0
+131,prapretno,2011,Jun,26.0
+132,ljubljana bezigrad,2011,Jul,17.0
+133,ljubljana bf,2011,Jul,16.0
+134,maribor center,2011,Jul,20.0
+135,kranj,2011,Jul,16.0
+136,novo mesto,2011,Jul,14.0
+137,celje,2011,Jul,15.0
+138,trbovlje,2011,Jul,18.0
+139,zagorje,2011,Jul,19.0
+140,hrastnik,2011,Jul,16.0
+141,murska s. rakican,2011,Jul,14.0
+142,nova gorica,2011,Jul,14.0
+143,koper,2011,Jul,18.0
+144,zerjav,2011,Jul,16.0
+145,iskrba,2011,Jul,13.0
+146,ljubljana center,2011,Jul,31.0
+147,morsko,2011,Jul,12.0
+148,gorenje polje,2011,Jul,13.0
+149,maribor vrbanski p.,2011,Jul,15.0
+150,vnajnarje,2011,Jul,22.0
+151,pesje,2011,Jul,14.0
+152,skale,2011,Jul,12.0
+153,prapretno,2011,Jul,23.0
+154,ljubljana bezigrad,2011,Avg,21.0
+155,ljubljana bf,2011,Avg,18.0
+156,maribor center,2011,Avg,21.0
+157,kranj,2011,Avg,19.0
+158,novo mesto,2011,Avg,17.0
+159,celje,2011,Avg,19.0
+160,trbovlje,2011,Avg,23.0
+161,zagorje,2011,Avg,21.0
+162,hrastnik,2011,Avg,19.0
+163,murska s. rakican,2011,Avg,18.0
+164,nova gorica,2011,Avg,17.0
+165,koper,2011,Avg,23.0
+166,zerjav,2011,Avg,17.0
+167,iskrba,2011,Avg,14.0
+168,ljubljana center,2011,Avg,41.0
+169,morsko,2011,Avg,18.0
+170,gorenje polje,2011,Avg,15.0
+171,maribor vrbanski p.,2011,Avg,20.0
+172,vnajnarje,2011,Avg,0.0
+173,pesje,2011,Avg,16.0
+174,skale,2011,Avg,15.0
+175,prapretno,2011,Avg,31.0
+176,ljubljana bezigrad,2011,Sep,24.0
+177,ljubljana bf,2011,Sep,20.0
+178,maribor center,2011,Sep,23.0
+179,kranj,2011,Sep,21.0
+180,novo mesto,2011,Sep,20.0
+181,celje,2011,Sep,22.0
+182,trbovlje,2011,Sep,23.0
+183,zagorje,2011,Sep,23.0
+184,hrastnik,2011,Sep,21.0
+185,murska s. rakican,2011,Sep,20.0
+186,nova gorica,2011,Sep,20.0
+187,koper,2011,Sep,23.0
+188,zerjav,2011,Sep,18.0
+189,iskrba,2011,Sep,16.0
+190,ljubljana center,2011,Sep,29.0
+191,morsko,2011,Sep,17.0
+192,gorenje polje,2011,Sep,18.0
+193,maribor vrbanski p.,2011,Sep,19.0
+194,vnajnarje,2011,Sep,25.0
+195,pesje,2011,Sep,17.0
+196,skale,2011,Sep,16.0
+197,prapretno,2011,Sep,30.0
+198,ljubljana bezigrad,2011,Okt,29.0
+199,ljubljana bf,2011,Okt,23.0
+200,maribor center,2011,Okt,26.0
+201,kranj,2011,Okt,24.0
+202,novo mesto,2011,Okt,28.0
+203,celje,2011,Okt,32.0
+204,trbovlje,2011,Okt,33.0
+205,zagorje,2011,Okt,31.0
+206,hrastnik,2011,Okt,27.0
+207,murska s. rakican,2011,Okt,29.0
+208,nova gorica,2011,Okt,19.0
+209,koper,2011,Okt,18.0
+210,zerjav,2011,Okt,26.0
+211,iskrba,2011,Okt,12.0
+212,ljubljana center,2011,Okt,32.0
+213,morsko,2011,Okt,14.0
+214,gorenje polje,2011,Okt,16.0
+215,maribor vrbanski p.,2011,Okt,24.0
+216,vnajnarje,2011,Okt,21.0
+217,pesje,2011,Okt,17.0
+218,skale,2011,Okt,19.0
+219,prapretno,2011,Okt,28.0
+220,ljubljana bezigrad,2011,Nov,55.0
+221,ljubljana bf,2011,Nov,49.0
+222,maribor center,2011,Nov,52.0
+223,kranj,2011,Nov,50.0
+224,novo mesto,2011,Nov,55.0
+225,celje,2011,Nov,60.0
+226,trbovlje,2011,Nov,57.0
+227,zagorje,2011,Nov,56.0
+228,hrastnik,2011,Nov,49.0
+229,murska s. rakican,2011,Nov,55.0
+230,nova gorica,2011,Nov,35.0
+231,koper,2011,Nov,35.0
+232,zerjav,2011,Nov,49.0
+233,iskrba,2011,Nov,26.0
+234,ljubljana center,2011,Nov,62.0
+235,morsko,2011,Nov,31.0
+236,gorenje polje,2011,Nov,33.0
+237,maribor vrbanski p.,2011,Nov,44.0
+238,vnajnarje,2011,Nov,27.0
+239,pesje,2011,Nov,27.0
+240,skale,2011,Nov,35.0
+241,prapretno,2011,Nov,49.0
+242,ljubljana bezigrad,2011,Dec,43.0
+243,ljubljana bf,2011,Dec,41.0
+244,maribor center,2011,Dec,37.0
+245,kranj,2011,Dec,40.0
+246,novo mesto,2011,Dec,38.0
+247,celje,2011,Dec,43.0
+248,trbovlje,2011,Dec,40.0
+249,zagorje,2011,Dec,42.0
+250,hrastnik,2011,Dec,32.0
+251,murska s. rakican,2011,Dec,42.0
+252,nova gorica,2011,Dec,36.0
+253,koper,2011,Dec,27.0
+254,zerjav,2011,Dec,53.0
+255,iskrba,2011,Dec,10.0
+256,ljubljana center,2011,Dec,55.0
+257,morsko,2011,Dec,26.0
+258,gorenje polje,2011,Dec,29.0
+259,maribor vrbanski p.,2011,Dec,23.0
+260,vnajnarje,2011,Dec,13.0
+261,pesje,2011,Dec,16.0
+262,skale,2011,Dec,19.0
+263,prapretno,2011,Dec,26.0
+0,ljubljana bezigrad,2012,Jan,40.0
+1,ljubljana bf,2012,Jan,35.0
+2,maribor center,2012,Jan,37.0
+3,kranj,2012,Jan,35.0
+4,novo mesto,2012,Jan,46.0
+5,celje,2012,Jan,47.0
+6,trbovlje,2012,Jan,51.0
+7,zagorje,2012,Jan,56.0
+8,hrastnik,2012,Jan,33.0
+9,murska s. rakican,2012,Jan,38.0
+10,nova gorica,2012,Jan,38.0
+11,koper,2012,Jan,29.0
+12,zerjav,2012,Jan,55.0
+13,iskrba,2012,Jan,13.0
+14,zelena trava,2012,Jan,16.0
+15,ljubljana center,2012,Jan,53.0
+16,morsko,2012,Jan,27.0
+17,gorenje polje,2012,Jan,31.0
+18,maribor vrbanski p.,2012,Jan,27.0
+19,vnajnarje,2012,Jan,22.0
+20,pesje,2012,Jan,13.0
+21,skale,2012,Jan,22.0
+22,prapretno,2012,Jan,27.0
+23,ljubljana bezigrad,2012,Feb,40.0
+24,ljubljana bf,2012,Feb,38.0
+25,maribor center,2012,Feb,47.0
+26,kranj,2012,Feb,45.0
+27,novo mesto,2012,Feb,55.0
+28,celje,2012,Feb,59.0
+29,trbovlje,2012,Feb,56.0
+30,zagorje,2012,Feb,56.0
+31,hrastnik,2012,Feb,38.0
+32,murska s. rakican,2012,Feb,55.0
+33,nova gorica,2012,Feb,35.0
+34,koper,2012,Feb,34.0
+35,zerjav,2012,Feb,61.0
+36,iskrba,2012,Feb,23.0
+37,zelena trava,2012,Feb,28.0
+38,ljubljana center,2012,Feb,60.0
+39,morsko,2012,Feb,29.0
+40,gorenje polje,2012,Feb,30.0
+41,maribor vrbanski p.,2012,Feb,35.0
+42,vnajnarje,2012,Feb,34.0
+43,pesje,2012,Feb,21.0
+44,skale,2012,Feb,34.0
+45,prapretno,2012,Feb,41.0
+46,ljubljana bezigrad,2012,Mar,35.0
+47,ljubljana bf,2012,Mar,30.0
+48,maribor center,2012,Mar,36.0
+49,kranj,2012,Mar,32.0
+50,novo mesto,2012,Mar,34.0
+51,celje,2012,Mar,42.0
+52,trbovlje,2012,Mar,60.0
+53,zagorje,2012,Mar,45.0
+54,hrastnik,2012,Mar,36.0
+55,murska s. rakican,2012,Mar,33.0
+56,nova gorica,2012,Mar,32.0
+57,koper,2012,Mar,32.0
+58,zerjav,2012,Mar,37.0
+59,iskrba,2012,Mar,18.0
+60,zelena trava,2012,Mar,27.0
+61,ljubljana center,2012,Mar,56.0
+62,morsko,2012,Mar,27.0
+63,gorenje polje,2012,Mar,32.0
+64,maribor vrbanski p.,2012,Mar,30.0
+65,vnajnarje,2012,Mar,28.0
+66,pesje,2012,Mar,31.0
+67,skale,2012,Mar,27.0
+68,prapretno,2012,Mar,38.0
+69,ljubljana bezigrad,2012,Apr,16.0
+70,ljubljana bf,2012,Apr,15.0
+71,maribor center,2012,Apr,25.0
+72,kranj,2012,Apr,15.0
+73,novo mesto,2012,Apr,18.0
+74,celje,2012,Apr,19.0
+75,trbovlje,2012,Apr,19.0
+76,zagorje,2012,Apr,20.0
+77,hrastnik,2012,Apr,17.0
+78,murska s. rakican,2012,Apr,19.0
+79,nova gorica,2012,Apr,17.0
+80,koper,2012,Apr,20.0
+81,zerjav,2012,Apr,22.0
+82,iskrba,2012,Apr,12.0
+83,zelena trava,2012,Apr,11.0
+84,ljubljana center,2012,Apr,41.0
+85,morsko,2012,Apr,13.0
+86,gorenje polje,2012,Apr,13.0
+87,maribor vrbanski p.,2012,Apr,17.0
+88,vnajnarje,2012,Apr,23.0
+89,pesje,2012,Apr,16.0
+90,skale,2012,Apr,18.0
+91,prapretno,2012,Apr,22.0
+92,ljubljana bezigrad,2012,Maj,16.0
+93,ljubljana bf,2012,Maj,15.0
+94,maribor center,2012,Maj,21.0
+95,kranj,2012,Maj,16.0
+96,novo mesto,2012,Maj,15.0
+97,celje,2012,Maj,17.0
+98,trbovlje,2012,Maj,18.0
+99,zagorje,2012,Maj,21.0
+100,hrastnik,2012,Maj,16.0
+101,murska s. rakican,2012,Maj,18.0
+102,nova gorica,2012,Maj,16.0
+103,koper,2012,Maj,17.0
+104,zerjav,2012,Maj,18.0
+105,iskrba,2012,Maj,14.0
+106,zelena trava,2012,Maj,15.0
+107,ljubljana center,2012,Maj,32.0
+108,morsko,2012,Maj,13.0
+109,gorenje polje,2012,Maj,14.0
+110,maribor vrbanski p.,2012,Maj,18.0
+111,vnajnarje,2012,Maj,22.0
+112,pesje,2012,Maj,16.0
+113,skale,2012,Maj,19.0
+114,prapretno,2012,Maj,22.0
+115,ljubljana bezigrad,2012,Jun,17.0
+116,ljubljana bf,2012,Jun,17.0
+117,maribor center,2012,Jun,21.0
+118,kranj,2012,Jun,17.0
+119,novo mesto,2012,Jun,18.0
+120,celje,2012,Jun,18.0
+121,trbovlje,2012,Jun,19.0
+122,zagorje,2012,Jun,20.0
+123,hrastnik,2012,Jun,17.0
+124,murska s. rakican,2012,Jun,18.0
+125,nova gorica,2012,Jun,19.0
+126,koper,2012,Jun,20.0
+127,zerjav,2012,Jun,19.0
+128,iskrba,2012,Jun,16.0
+129,zelena trava,2012,Jun,16.0
+130,ljubljana center,2012,Jun,37.0
+131,morsko,2012,Jun,15.0
+132,gorenje polje,2012,Jun,17.0
+133,maribor vrbanski p.,2012,Jun,20.0
+134,vnajnarje,2012,Jun,24.0
+135,pesje,2012,Jun,23.0
+136,skale,2012,Jun,21.0
+137,prapretno,2012,Jun,28.0
+138,ljubljana bezigrad,2012,Jul,19.0
+139,ljubljana bf,2012,Jul,18.0
+140,maribor center,2012,Jul,21.0
+141,kranj,2012,Jul,17.0
+142,novo mesto,2012,Jul,17.0
+143,celje,2012,Jul,17.0
+144,trbovlje,2012,Jul,19.0
+145,zagorje,2012,Jul,19.0
+146,hrastnik,2012,Jul,16.0
+147,murska s. rakican,2012,Jul,16.0
+148,nova gorica,2012,Jul,18.0
+149,koper,2012,Jul,21.0
+150,zerjav,2012,Jul,20.0
+151,iskrba,2012,Jul,14.0
+152,zelena trava,2012,Jul,18.0
+153,ljubljana center,2012,Jul,40.0
+154,morsko,2012,Jul,15.0
+155,gorenje polje,2012,Jul,17.0
+156,maribor vrbanski p.,2012,Jul,20.0
+157,vnajnarje,2012,Jul,26.0
+158,pesje,2012,Jul,23.0
+159,skale,2012,Jul,22.0
+160,prapretno,2012,Jul,28.0
+161,ljubljana bezigrad,2012,Avg,18.0
+162,ljubljana bf,2012,Avg,19.0
+163,maribor center,2012,Avg,20.0
+164,kranj,2012,Avg,19.0
+165,novo mesto,2012,Avg,18.0
+166,celje,2012,Avg,19.0
+167,trbovlje,2012,Avg,18.0
+168,zagorje,2012,Avg,18.0
+169,hrastnik,2012,Avg,17.0
+170,murska s. rakican,2012,Avg,18.0
+171,nova gorica,2012,Avg,18.0
+172,koper,2012,Avg,21.0
+173,zerjav,2012,Avg,19.0
+174,iskrba,2012,Avg,12.0
+175,zelena trava,2012,Avg,16.0
+176,ljubljana center,2012,Avg,46.0
+177,morsko,2012,Avg,17.0
+178,gorenje polje,2012,Avg,16.0
+179,maribor vrbanski p.,2012,Avg,22.0
+180,vnajnarje,2012,Avg,25.0
+181,pesje,2012,Avg,21.0
+182,skale,2012,Avg,21.0
+183,prapretno,2012,Avg,28.0
+184,ljubljana bezigrad,2012,Sep,19.0
+185,ljubljana bf,2012,Sep,21.0
+186,maribor center,2012,Sep,32.0
+187,kranj,2012,Sep,19.0
+188,novo mesto,2012,Sep,18.0
+189,celje,2012,Sep,21.0
+190,trbovlje,2012,Sep,21.0
+191,zagorje,2012,Sep,20.0
+192,hrastnik,2012,Sep,18.0
+193,murska s. rakican,2012,Sep,19.0
+194,nova gorica,2012,Sep,19.0
+195,koper,2012,Sep,19.0
+196,zerjav,2012,Sep,20.0
+197,iskrba,2012,Sep,15.0
+198,zelena trava,2012,Sep,15.0
+199,ljubljana center,2012,Sep,38.0
+200,morsko,2012,Sep,17.0
+201,gorenje polje,2012,Sep,17.0
+202,maribor vrbanski p.,2012,Sep,19.0
+203,vnajnarje,2012,Sep,22.0
+204,pesje,2012,Sep,20.0
+205,skale,2012,Sep,22.0
+206,prapretno,2012,Sep,26.0
+207,ljubljana bezigrad,2012,Okt,22.0
+208,ljubljana bf,2012,Okt,23.0
+209,maribor center,2012,Okt,33.0
+210,kranj,2012,Okt,24.0
+211,novo mesto,2012,Okt,27.0
+212,celje,2012,Okt,26.0
+213,trbovlje,2012,Okt,24.0
+214,zagorje,2012,Okt,25.0
+215,hrastnik,2012,Okt,21.0
+216,murska s. rakican,2012,Okt,25.0
+217,nova gorica,2012,Okt,21.0
+218,koper,2012,Okt,23.0
+219,zerjav,2012,Okt,23.0
+220,iskrba,2012,Okt,17.0
+221,zelena trava,2012,Okt,16.0
+222,ljubljana center,2012,Okt,42.0
+223,morsko,2012,Okt,18.0
+224,gorenje polje,2012,Okt,22.0
+225,maribor vrbanski p.,2012,Okt,22.0
+226,vnajnarje,2012,Okt,18.0
+227,pesje,2012,Okt,21.0
+228,skale,2012,Okt,20.0
+229,prapretno,2012,Okt,25.0
+230,ljubljana bezigrad,2012,Nov,27.0
+231,ljubljana bf,2012,Nov,28.0
+232,maribor center,2012,Nov,33.0
+233,kranj,2012,Nov,29.0
+234,novo mesto,2012,Nov,35.0
+235,celje,2012,Nov,41.0
+236,trbovlje,2012,Nov,35.0
+237,zagorje,2012,Nov,35.0
+238,hrastnik,2012,Nov,26.0
+239,murska s. rakican,2012,Nov,37.0
+240,nova gorica,2012,Nov,28.0
+241,koper,2012,Nov,23.0
+242,zerjav,2012,Nov,30.0
+243,iskrba,2012,Nov,17.0
+244,zelena trava,2012,Nov,18.0
+245,ljubljana center,2012,Nov,44.0
+246,morsko,2012,Nov,21.0
+247,gorenje polje,2012,Nov,23.0
+248,maribor vrbanski p.,2012,Nov,26.0
+249,vnajnarje,2012,Nov,18.0
+250,pesje,2012,Nov,22.0
+251,skale,2012,Nov,21.0
+252,prapretno,2012,Nov,29.0
+253,ljubljana bezigrad,2012,Dec,42.0
+254,ljubljana bf,2012,Dec,40.0
+255,maribor center,2012,Dec,33.0
+256,kranj,2012,Dec,41.0
+257,novo mesto,2012,Dec,43.0
+258,celje,2012,Dec,48.0
+259,trbovlje,2012,Dec,51.0
+260,zagorje,2012,Dec,51.0
+261,hrastnik,2012,Dec,35.0
+262,murska s. rakican,2012,Dec,48.0
+263,nova gorica,2012,Dec,32.0
+264,koper,2012,Dec,25.0
+265,zerjav,2012,Dec,37.0
+266,iskrba,2012,Dec,9.0
+267,zelena trava,2012,Dec,16.0
+268,ljubljana center,2012,Dec,51.0
+269,morsko,2012,Dec,25.0
+270,gorenje polje,2012,Dec,25.0
+271,maribor vrbanski p.,2012,Dec,24.0
+272,vnajnarje,2012,Dec,15.0
+273,pesje,2012,Dec,19.0
+274,skale,2012,Dec,17.0
+275,prapretno,2012,Dec,25.0
+0,ljubljana bezigrad,2013,Jan,39.0
+1,maribor center,2013,Jan,51.0
+2,celje,2013,Jan,51.0
+3,ms rakican,2013,Jan,54.0
+4,nova gorica,2013,Jan,32.0
+5,trbovlje,2013,Jan,47.0
+6,zagorje,2013,Jan,46.0
+7,hrastnik,2013,Jan,33.0
+8,koper,2013,Jan,28.0
+9,iskrba,2013,Jan,12.0
+10,zerjav,2013,Jan,49.0
+11,lj biotehnicna fak.,2013,Jan,36.0
+12,kranj,2013,Jan,40.0
+13,novo mesto,2013,Jan,49.0
+14,velenje,2013,Jan,31.0
+15,vrbanski plato,2013,Jan,33.0
+16,sostanj,2013,Jan,12.0
+17,pesje,2013,Jan,29.0
+18,skale,2013,Jan,15.0
+19,kovk,2013,Jan,16.0
+20,dobovec,2013,Jan,10.0
+21,prapretno,2013,Jan,26.0
+22,lj center,2013,Jan,50.0
+23,vnajnarje,2013,Jan,17.0
+24,zelena trava,2013,Jan,18.0
+25,amp gaji,2013,Jan,44.0
+26,ljubljana bezigrad,2013,Feb,39.0
+27,maribor center,2013,Feb,40.0
+28,celje,2013,Feb,49.0
+29,ms rakican,2013,Feb,44.0
+30,nova gorica,2013,Feb,25.0
+31,trbovlje,2013,Feb,48.0
+32,zagorje,2013,Feb,46.0
+33,hrastnik,2013,Feb,35.0
+34,koper,2013,Feb,19.0
+35,iskrba,2013,Feb,18.0
+36,zerjav,2013,Feb,55.0
+37,lj biotehnicna fak.,2013,Feb,36.0
+38,kranj,2013,Feb,39.0
+39,novo mesto,2013,Feb,51.0
+40,velenje,2013,Feb,29.0
+41,vrbanski plato,2013,Feb,28.0
+42,sostanj,2013,Feb,19.0
+43,pesje,2013,Feb,22.0
+44,skale,2013,Feb,10.0
+45,kovk,2013,Feb,16.0
+46,dobovec,2013,Feb,16.0
+47,prapretno,2013,Feb,28.0
+48,lj center,2013,Feb,51.0
+49,vnajnarje,2013,Feb,17.0
+50,zelena trava,2013,Feb,21.0
+51,amp gaji,2013,Feb,53.0
+52,ljubljana bezigrad,2013,Mar,29.0
+53,maribor center,2013,Mar,34.0
+54,celje,2013,Mar,35.0
+55,ms rakican,2013,Mar,32.0
+56,nova gorica,2013,Mar,20.0
+57,trbovlje,2013,Mar,37.0
+58,zagorje,2013,Mar,37.0
+59,hrastnik,2013,Mar,27.0
+60,koper,2013,Mar,20.0
+61,iskrba,2013,Mar,13.0
+62,zerjav,2013,Mar,27.0
+63,lj biotehnicna fak.,2013,Mar,29.0
+64,kranj,2013,Mar,27.0
+65,novo mesto,2013,Mar,34.0
+66,velenje,2013,Mar,24.0
+67,vrbanski plato,2013,Mar,22.0
+68,sostanj,2013,Mar,15.0
+69,pesje,2013,Mar,
+70,skale,2013,Mar,26.0
+71,kovk,2013,Mar,12.0
+72,dobovec,2013,Mar,10.0
+73,prapretno,2013,Mar,20.0
+74,lj center,2013,Mar,48.0
+75,vnajnarje,2013,Mar,16.0
+76,zelena trava,2013,Mar,15.0
+77,amp gaji,2013,Mar,30.0
+78,ljubljana bezigrad,2013,Apr,21.0
+79,maribor center,2013,Apr,32.0
+80,celje,2013,Apr,28.0
+81,ms rakican,2013,Apr,27.0
+82,nova gorica,2013,Apr,21.0
+83,trbovlje,2013,Apr,29.0
+84,zagorje,2013,Apr,27.0
+85,hrastnik,2013,Apr,24.0
+86,koper,2013,Apr,22.0
+87,iskrba,2013,Apr,15.0
+88,zerjav,2013,Apr,23.0
+89,lj biotehnicna fak.,2013,Apr,25.0
+90,kranj,2013,Apr,21.0
+91,novo mesto,2013,Apr,25.0
+92,velenje,2013,Apr,25.0
+93,vrbanski plato,2013,Apr,22.0
+94,sostanj,2013,Apr,14.0
+95,pesje,2013,Apr,25.0
+96,skale,2013,Apr,20.0
+97,kovk,2013,Apr,16.0
+98,dobovec,2013,Apr,13.0
+99,prapretno,2013,Apr,24.0
+100,lj center,2013,Apr,37.0
+101,vnajnarje,2013,Apr,20.0
+102,zelena trava,2013,Apr,19.0
+103,amp gaji,2013,Apr,25.0
+104,ljubljana bezigrad,2013,Maj,14.0
+105,maribor center,2013,Maj,20.0
+106,celje,2013,Maj,16.0
+107,ms rakican,2013,Maj,15.0
+108,nova gorica,2013,Maj,15.0
+109,trbovlje,2013,Maj,17.0
+110,zagorje,2013,Maj,18.0
+111,hrastnik,2013,Maj,15.0
+112,koper,2013,Maj,15.0
+113,iskrba,2013,Maj,11.0
+114,zerjav,2013,Maj,15.0
+115,lj biotehnicna fak.,2013,Maj,17.0
+116,kranj,2013,Maj,13.0
+117,novo mesto,2013,Maj,15.0
+118,velenje,2013,Maj,13.0
+119,vrbanski plato,2013,Maj,13.0
+120,sostanj,2013,Maj,7.0
+121,pesje,2013,Maj,17.0
+122,skale,2013,Maj,16.0
+123,kovk,2013,Maj,15.0
+124,dobovec,2013,Maj,13.0
+125,prapretno,2013,Maj,17.0
+126,lj center,2013,Maj,32.0
+127,vnajnarje,2013,Maj,16.0
+128,zelena trava,2013,Maj,16.0
+129,amp gaji,2013,Maj,15.0
+130,ljubljana bezigrad,2013,Jun,13.0
+131,maribor center,2013,Jun,22.0
+132,celje,2013,Jun,15.0
+133,ms rakican,2013,Jun,16.0
+134,nova gorica,2013,Jun,16.0
+135,trbovlje,2013,Jun,17.0
+136,zagorje,2013,Jun,16.0
+137,hrastnik,2013,Jun,15.0
+138,koper,2013,Jun,15.0
+139,iskrba,2013,Jun,11.0
+140,zerjav,2013,Jun,15.0
+141,lj biotehnicna fak.,2013,Jun,17.0
+142,kranj,2013,Jun,14.0
+143,novo mesto,2013,Jun,13.0
+144,velenje,2013,Jun,14.0
+145,vrbanski plato,2013,Jun,14.0
+146,sostanj,2013,Jun,9.0
+147,pesje,2013,Jun,19.0
+148,skale,2013,Jun,16.0
+149,kovk,2013,Jun,15.0
+150,dobovec,2013,Jun,9.0
+151,prapretno,2013,Jun,19.0
+152,lj center,2013,Jun,30.0
+153,vnajnarje,2013,Jun,22.0
+154,zelena trava,2013,Jun,10.0
+155,amp gaji,2013,Jun,13.0
+156,ljubljana bezigrad,2013,Jul,17.0
+157,maribor center,2013,Jul,28.0
+158,celje,2013,Jul,19.0
+159,ms rakican,2013,Jul,19.0
+160,nova gorica,2013,Jul,17.0
+161,trbovlje,2013,Jul,20.0
+162,zagorje,2013,Jul,19.0
+163,hrastnik,2013,Jul,18.0
+164,koper,2013,Jul,19.0
+165,iskrba,2013,Jul,15.0
+166,zerjav,2013,Jul,18.0
+167,lj biotehnicna fak.,2013,Jul,20.0
+168,kranj,2013,Jul,20.0
+169,novo mesto,2013,Jul,15.0
+170,velenje,2013,Jul,18.0
+171,vrbanski plato,2013,Jul,18.0
+172,sostanj,2013,Jul,11.0
+173,pesje,2013,Jul,24.0
+174,skale,2013,Jul,20.0
+175,kovk,2013,Jul,16.0
+176,dobovec,2013,Jul,14.0
+177,prapretno,2013,Jul,23.0
+178,lj center,2013,Jul,36.0
+179,vnajnarje,2013,Jul,39.0
+180,zelena trava,2013,Jul,18.0
+181,amp gaji,2013,Jul,17.0
+182,ljubljana bezigrad,2013,Avg,16.0
+183,maribor center,2013,Avg,24.0
+184,celje,2013,Avg,19.0
+185,ms rakican,2013,Avg,19.0
+186,nova gorica,2013,Avg,16.0
+187,trbovlje,2013,Avg,20.0
+188,zagorje,2013,Avg,17.0
+189,hrastnik,2013,Avg,18.0
+190,koper,2013,Avg,18.0
+191,iskrba,2013,Avg,14.0
+192,zerjav,2013,Avg,19.0
+193,lj biotehnicna fak.,2013,Avg,20.0
+194,kranj,2013,Avg,17.0
+195,novo mesto,2013,Avg,16.0
+196,velenje,2013,Avg,18.0
+197,vrbanski plato,2013,Avg,19.0
+198,sostanj,2013,Avg,10.0
+199,pesje,2013,Avg,23.0
+200,skale,2013,Avg,19.0
+201,kovk,2013,Avg,16.0
+202,dobovec,2013,Avg,14.0
+203,prapretno,2013,Avg,25.0
+204,lj center,2013,Avg,33.0
+205,vnajnarje,2013,Avg,30.0
+206,zelena trava,2013,Avg,19.0
+207,amp gaji,2013,Avg,23.0
+208,ljubljana bezigrad,2013,Sep,12.0
+209,maribor center,2013,Sep,20.0
+210,celje,2013,Sep,17.0
+211,ms rakican,2013,Sep,15.0
+212,nova gorica,2013,Sep,15.0
+213,trbovlje,2013,Sep,20.0
+214,zagorje,2013,Sep,17.0
+215,hrastnik,2013,Sep,15.0
+216,koper,2013,Sep,15.0
+217,iskrba,2013,Sep,9.0
+218,zerjav,2013,Sep,13.0
+219,lj biotehnicna fak.,2013,Sep,16.0
+220,kranj,2013,Sep,14.0
+221,novo mesto,2013,Sep,13.0
+222,velenje,2013,Sep,14.0
+223,vrbanski plato,2013,Sep,12.0
+224,sostanj,2013,Sep,7.0
+225,pesje,2013,Sep,17.0
+226,skale,2013,Sep,14.0
+227,kovk,2013,Sep,10.0
+228,dobovec,2013,Sep,9.0
+229,prapretno,2013,Sep,17.0
+230,lj center,2013,Sep,31.0
+231,vnajnarje,2013,Sep,32.0
+232,zelena trava,2013,Sep,32.0
+233,amp gaji,2013,Sep,20.0
+234,ljubljana bezigrad,2013,Okt,20.0
+235,maribor center,2013,Okt,28.0
+236,celje,2013,Okt,24.0
+237,ms rakican,2013,Okt,25.0
+238,nova gorica,2013,Okt,23.0
+239,trbovlje,2013,Okt,25.0
+240,zagorje,2013,Okt,24.0
+241,hrastnik,2013,Okt,21.0
+242,koper,2013,Okt,22.0
+243,iskrba,2013,Okt,13.0
+244,zerjav,2013,Okt,19.0
+245,lj biotehnicna fak.,2013,Okt,22.0
+246,kranj,2013,Okt,22.0
+247,novo mesto,2013,Okt,23.0
+248,velenje,2013,Okt,20.0
+249,vrbanski plato,2013,Okt,19.0
+250,sostanj,2013,Okt,11.0
+251,pesje,2013,Okt,22.0
+252,skale,2013,Okt,20.0
+253,kovk,2013,Okt,12.0
+254,dobovec,2013,Okt,12.0
+255,prapretno,2013,Okt,20.0
+256,lj center,2013,Okt,40.0
+257,vnajnarje,2013,Okt,30.0
+258,zelena trava,2013,Okt,16.0
+259,amp gaji,2013,Okt,28.0
+260,ljubljana bezigrad,2013,Nov,22.0
+261,maribor center,2013,Nov,24.0
+262,celje,2013,Nov,27.0
+263,ms rakican,2013,Nov,29.0
+264,nova gorica,2013,Nov,18.0
+265,trbovlje,2013,Nov,30.0
+266,zagorje,2013,Nov,27.0
+267,hrastnik,2013,Nov,21.0
+268,koper,2013,Nov,13.0
+269,iskrba,2013,Nov,8.0
+270,zerjav,2013,Nov,21.0
+271,lj biotehnicna fak.,2013,Nov,27.0
+272,kranj,2013,Nov,22.0
+273,novo mesto,2013,Nov,25.0
+274,velenje,2013,Nov,17.0
+275,vrbanski plato,2013,Nov,14.0
+276,sostanj,2013,Nov,11.0
+277,pesje,2013,Nov,17.0
+278,skale,2013,Nov,14.0
+279,kovk,2013,Nov,7.0
+280,dobovec,2013,Nov,6.0
+281,prapretno,2013,Nov,18.0
+282,lj center,2013,Nov,34.0
+283,vnajnarje,2013,Nov,28.0
+284,zelena trava,2013,Nov,12.0
+285,amp gaji,2013,Nov,26.0
+286,ljubljana bezigrad,2013,Dec,48.0
+287,maribor center,2013,Dec,40.0
+288,celje,2013,Dec,53.0
+289,ms rakican,2013,Dec,44.0
+290,nova gorica,2013,Dec,40.0
+291,trbovlje,2013,Dec,55.0
+292,zagorje,2013,Dec,58.0
+293,hrastnik,2013,Dec,39.0
+294,koper,2013,Dec,34.0
+295,iskrba,2013,Dec,11.0
+296,zerjav,2013,Dec,39.0
+297,lj biotehnicna fak.,2013,Dec,48.0
+298,kranj,2013,Dec,45.0
+299,novo mesto,2013,Dec,51.0
+300,velenje,2013,Dec,28.0
+301,vrbanski plato,2013,Dec,30.0
+302,sostanj,2013,Dec,20.0
+303,pesje,2013,Dec,26.0
+304,skale,2013,Dec,20.0
+305,kovk,2013,Dec,15.0
+306,dobovec,2013,Dec,10.0
+307,prapretno,2013,Dec,25.0
+308,lj center,2013,Dec,65.0
+309,vnajnarje,2013,Dec,28.0
+310,zelena trava,2013,Dec,21.0
+311,amp gaji,2013,Dec,46.0
+0,lj bezigrad,2014,Jan,31.0
+1,maribor,2014,Jan,39.0
+2,celje,2014,Jan,44.0
+3,ms rakican,2014,Jan,39.0
+4,nova gorica,2014,Jan,35.0
+5,trbovlje,2014,Jan,35.0
+6,zagorje,2014,Jan,39.0
+7,hrastnik,2014,Jan,28.0
+8,koper,2014,Jan,31.0
+9,iskrba,2014,Jan,12.0
+10,zerjav,2014,Jan,24.0
+11,lj biotehniska fakulteta,2014,Jan,27.0
+12,kranj,2014,Jan,32.0
+13,novo mesto,2014,Jan,40.0
+14,velenje,2014,Jan,27.0
+15,vrbanski plato,2014,Jan,29.0
+16,vnajnarje,2014,Jan,27.0
+17,pesje,2014,Jan,27.0
+18,skale,2014,Jan,22.0
+19,sostanj,2014,Jan,17.0
+20,prapretno,2014,Jan,22.0
+21,kovk,2014,Jan,13.0
+22,dobovec,2014,Jan,7.0
+23,lj center,2014,Jan,54.0
+24,amp gaji,2014,Jan,36.0
+25,zelena trava,2014,Jan,16.0
+26,lj bezigrad,2014,Feb,30.0
+27,maribor,2014,Feb,29.0
+28,celje,2014,Feb,38.0
+29,ms rakican,2014,Feb,30.0
+30,nova gorica,2014,Feb,22.0
+31,trbovlje,2014,Feb,32.0
+32,zagorje,2014,Feb,36.0
+33,hrastnik,2014,Feb,28.0
+34,koper,2014,Feb,18.0
+35,iskrba,2014,Feb,7.0
+36,zerjav,2014,Feb,23.0
+37,lj biotehniska fakulteta,2014,Feb,27.0
+38,kranj,2014,Feb,30.0
+39,novo mesto,2014,Feb,35.0
+40,velenje,2014,Feb,25.0
+41,vrbanski plato,2014,Feb,21.0
+42,vnajnarje,2014,Feb,22.0
+43,pesje,2014,Feb,22.0
+44,skale,2014,Feb,19.0
+45,sostanj,2014,Feb,13.0
+46,prapretno,2014,Feb,20.0
+47,kovk,2014,Feb,12.0
+48,dobovec,2014,Feb,8.0
+49,lj center,2014,Feb,51.0
+50,amp gaji,2014,Feb,45.0
+51,zelena trava,2014,Feb,16.0
+52,lj bezigrad,2014,Mar,35.0
+53,maribor,2014,Mar,32.0
+54,celje,2014,Mar,41.0
+55,ms rakican,2014,Mar,32.0
+56,nova gorica,2014,Mar,31.0
+57,trbovlje,2014,Mar,42.0
+58,zagorje,2014,Mar,42.0
+59,hrastnik,2014,Mar,32.0
+60,koper,2014,Mar,28.0
+61,iskrba,2014,Mar,17.0
+62,zerjav,2014,Mar,25.0
+63,lj biotehniska fakulteta,2014,Mar,34.0
+64,kranj,2014,Mar,32.0
+65,novo mesto,2014,Mar,34.0
+66,velenje,2014,Mar,32.0
+67,vrbanski plato,2014,Mar,24.0
+68,vnajnarje,2014,Mar,28.0
+69,pesje,2014,Mar,31.0
+70,skale,2014,Mar,23.0
+71,sostanj,2014,Mar,17.0
+72,prapretno,2014,Mar,28.0
+73,kovk,2014,Mar,21.0
+74,dobovec,2014,Mar,18.0
+75,lj center,2014,Mar,51.0
+76,amp gaji,2014,Mar,43.0
+77,zelena trava,2014,Mar,23.0
+78,lj bezigrad,2014,Apr,19.0
+79,maribor,2014,Apr,25.0
+80,celje,2014,Apr,24.0
+81,ms rakican,2014,Apr,21.0
+82,nova gorica,2014,Apr,19.0
+83,trbovlje,2014,Apr,29.0
+84,zagorje,2014,Apr,25.0
+85,hrastnik,2014,Apr,19.0
+86,koper,2014,Apr,19.0
+87,iskrba,2014,Apr,12.0
+88,zerjav,2014,Apr,20.0
+89,lj biotehniska fakulteta,2014,Apr,20.0
+90,kranj,2014,Apr,17.0
+91,novo mesto,2014,Apr,20.0
+92,velenje,2014,Apr,19.0
+93,vrbanski plato,2014,Apr,17.0
+94,vnajnarje,2014,Apr,21.0
+95,pesje,2014,Apr,22.0
+96,skale,2014,Apr,18.0
+97,sostanj,2014,Apr,10.0
+98,prapretno,2014,Apr,21.0
+99,kovk,2014,Apr,14.0
+100,dobovec,2014,Apr,14.0
+101,lj center,2014,Apr,34.0
+102,amp gaji,2014,Apr,25.0
+103,zelena trava,2014,Apr,15.0
+104,lj bezigrad,2014,Maj,14.0
+105,maribor,2014,Maj,21.0
+106,celje,2014,Maj,17.0
+107,ms rakican,2014,Maj,14.0
+108,nova gorica,2014,Maj,14.0
+109,trbovlje,2014,Maj,18.0
+110,zagorje,2014,Maj,18.0
+111,hrastnik,2014,Maj,13.0
+112,koper,2014,Maj,13.0
+113,iskrba,2014,Maj,10.0
+114,zerjav,2014,Maj,16.0
+115,lj biotehniska fakulteta,2014,Maj,16.0
+116,kranj,2014,Maj,13.0
+117,novo mesto,2014,Maj,12.0
+118,velenje,2014,Maj,13.0
+119,vrbanski plato,2014,Maj,13.0
+120,vnajnarje,2014,Maj,17.0
+121,pesje,2014,Maj,16.0
+122,skale,2014,Maj,14.0
+123,sostanj,2014,Maj,7.0
+124,prapretno,2014,Maj,16.0
+125,kovk,2014,Maj,8.0
+126,dobovec,2014,Maj,9.0
+127,lj center,2014,Maj,26.0
+128,amp gaji,2014,Maj,18.0
+129,zelena trava,2014,Maj,10.0
+130,lj bezigrad,2014,Jun,14.0
+131,maribor,2014,Jun,19.0
+132,celje,2014,Jun,18.0
+133,ms rakican,2014,Jun,17.0
+134,nova gorica,2014,Jun,15.0
+135,trbovlje,2014,Jun,19.0
+136,zagorje,2014,Jun,18.0
+137,hrastnik,2014,Jun,15.0
+138,koper,2014,Jun,16.0
+139,iskrba,2014,Jun,11.0
+140,zerjav,2014,Jun,17.0
+141,lj biotehniska fakulteta,2014,Jun,18.0
+142,kranj,2014,Jun,13.0
+143,novo mesto,2014,Jun,13.0
+144,velenje,2014,Jun,15.0
+145,vrbanski plato,2014,Jun,14.0
+146,vnajnarje,2014,Jun,18.0
+147,pesje,2014,Jun,21.0
+148,skale,2014,Jun,15.0
+149,sostanj,2014,Jun,10.0
+150,prapretno,2014,Jun,18.0
+151,kovk,2014,Jun,12.0
+152,dobovec,2014,Jun,11.0
+153,lj center,2014,Jun,28.0
+154,amp gaji,2014,Jun,21.0
+155,zelena trava,2014,Jun,13.0
+156,lj bezigrad,2014,Jul,14.0
+157,maribor,2014,Jul,18.0
+158,celje,2014,Jul,15.0
+159,ms rakican,2014,Jul,15.0
+160,nova gorica,2014,Jul,12.0
+161,trbovlje,2014,Jul,15.0
+162,zagorje,2014,Jul,17.0
+163,hrastnik,2014,Jul,14.0
+164,koper,2014,Jul,14.0
+165,iskrba,2014,Jul,11.0
+166,zerjav,2014,Jul,16.0
+167,lj biotehniska fakulteta,2014,Jul,16.0
+168,kranj,2014,Jul,12.0
+169,novo mesto,2014,Jul,14.0
+170,velenje,2014,Jul,13.0
+171,vrbanski plato,2014,Jul,15.0
+172,vnajnarje,2014,Jul,18.0
+173,pesje,2014,Jul,20.0
+174,skale,2014,Jul,13.0
+175,sostanj,2014,Jul,10.0
+176,prapretno,2014,Jul,17.0
+177,kovk,2014,Jul,10.0
+178,dobovec,2014,Jul,9.0
+179,lj center,2014,Jul,30.0
+180,amp gaji,2014,Jul,20.0
+181,zelena trava,2014,Jul,12.0
+182,lj bezigrad,2014,Avg,12.0
+183,maribor,2014,Avg,16.0
+184,celje,2014,Avg,14.0
+185,ms rakican,2014,Avg,12.0
+186,nova gorica,2014,Avg,12.0
+187,trbovlje,2014,Avg,13.0
+188,zagorje,2014,Avg,16.0
+189,hrastnik,2014,Avg,12.0
+190,koper,2014,Avg,12.0
+191,iskrba,2014,Avg,10.0
+192,zerjav,2014,Avg,15.0
+193,lj biotehniska fakulteta,2014,Avg,13.0
+194,kranj,2014,Avg,11.0
+195,novo mesto,2014,Avg,12.0
+196,velenje,2014,Avg,12.0
+197,vrbanski plato,2014,Avg,12.0
+198,vnajnarje,2014,Avg,15.0
+199,pesje,2014,Avg,19.0
+200,skale,2014,Avg,12.0
+201,sostanj,2014,Avg,10.0
+202,prapretno,2014,Avg,14.0
+203,kovk,2014,Avg,10.0
+204,dobovec,2014,Avg,7.0
+205,lj center,2014,Avg,27.0
+206,amp gaji,2014,Avg,19.0
+207,zelena trava,2014,Avg,11.0
+208,lj bezigrad,2014,Sep,16.0
+209,maribor,2014,Sep,21.0
+210,celje,2014,Sep,17.0
+211,ms rakican,2014,Sep,17.0
+212,nova gorica,2014,Sep,16.0
+213,trbovlje,2014,Sep,16.0
+214,zagorje,2014,Sep,20.0
+215,hrastnik,2014,Sep,15.0
+216,koper,2014,Sep,16.0
+217,iskrba,2014,Sep,13.0
+218,zerjav,2014,Sep,19.0
+219,lj biotehniska fakulteta,2014,Sep,18.0
+220,kranj,2014,Sep,18.0
+221,novo mesto,2014,Sep,15.0
+222,velenje,2014,Sep,14.0
+223,vrbanski plato,2014,Sep,14.0
+224,vnajnarje,2014,Sep,18.0
+225,pesje,2014,Sep,20.0
+226,skale,2014,Sep,14.0
+227,sostanj,2014,Sep,12.0
+228,prapretno,2014,Sep,17.0
+229,kovk,2014,Sep,11.0
+230,dobovec,2014,Sep,10.0
+231,lj center,2014,Sep,31.0
+232,amp gaji,2014,Sep,20.0
+233,zelena trava,2014,Sep,11.0
+234,lj bezigrad,2014,Okt,27.0
+235,maribor,2014,Okt,31.0
+236,celje,2014,Okt,28.0
+237,ms rakican,2014,Okt,29.0
+238,nova gorica,2014,Okt,22.0
+239,trbovlje,2014,Okt,27.0
+240,zagorje,2014,Okt,28.0
+241,hrastnik,2014,Okt,22.0
+242,koper,2014,Okt,17.0
+243,iskrba,2014,Okt,13.0
+244,zerjav,2014,Okt,21.0
+245,lj biotehniska fakulteta,2014,Okt,23.0
+246,kranj,2014,Okt,23.0
+247,novo mesto,2014,Okt,24.0
+248,velenje,2014,Okt,21.0
+249,vrbanski plato,2014,Okt,20.0
+250,vnajnarje,2014,Okt,14.0
+251,pesje,2014,Okt,29.0
+252,skale,2014,Okt,18.0
+253,sostanj,2014,Okt,16.0
+254,prapretno,2014,Okt,21.0
+255,kovk,2014,Okt,14.0
+256,dobovec,2014,Okt,12.0
+257,lj center,2014,Okt,37.0
+258,amp gaji,2014,Okt,30.0
+259,zelena trava,2014,Okt,17.0
+260,lj bezigrad,2014,Nov,28.0
+261,maribor,2014,Nov,37.0
+262,celje,2014,Nov,39.0
+263,ms rakican,2014,Nov,38.0
+264,nova gorica,2014,Nov,23.0
+265,trbovlje,2014,Nov,37.0
+266,zagorje,2014,Nov,41.0
+267,hrastnik,2014,Nov,29.0
+268,koper,2014,Nov,22.0
+269,iskrba,2014,Nov,13.0
+270,zerjav,2014,Nov,22.0
+271,lj biotehniska fakulteta,2014,Nov,28.0
+272,kranj,2014,Nov,30.0
+273,novo mesto,2014,Nov,32.0
+274,velenje,2014,Nov,25.0
+275,vrbanski plato,2014,Nov,26.0
+276,vnajnarje,2014,Nov,14.0
+277,pesje,2014,Nov,28.0
+278,skale,2014,Nov,19.0
+279,sostanj,2014,Nov,18.0
+280,prapretno,2014,Nov,23.0
+281,kovk,2014,Nov,13.0
+282,dobovec,2014,Nov,11.0
+283,lj center,2014,Nov,44.0
+284,amp gaji,2014,Nov,37.0
+285,zelena trava,2014,Nov,20.0
+286,lj bezigrad,2014,Dec,29.0
+287,maribor,2014,Dec,30.0
+288,celje,2014,Dec,38.0
+289,ms rakican,2014,Dec,36.0
+290,nova gorica,2014,Dec,31.0
+291,trbovlje,2014,Dec,34.0
+292,zagorje,2014,Dec,39.0
+293,hrastnik,2014,Dec,22.0
+294,koper,2014,Dec,23.0
+295,iskrba,2014,Dec,6.0
+296,zerjav,2014,Dec,29.0
+297,lj biotehniska fakulteta,2014,Dec,26.0
+298,kranj,2014,Dec,32.0
+299,novo mesto,2014,Dec,13.0
+300,velenje,2014,Dec,18.0
+301,vrbanski plato,2014,Dec,19.0
+302,vnajnarje,2014,Dec,10.0
+303,pesje,2014,Dec,19.0
+304,skale,2014,Dec,14.0
+305,sostanj,2014,Dec,17.0
+306,prapretno,2014,Dec,17.0
+307,kovk,2014,Dec,7.0
+308,dobovec,2014,Dec,6.0
+309,lj center,2014,Dec,45.0
+310,amp gaji,2014,Dec,37.0
+311,zelena trava,2014,Dec,13.0
+0,lj bezigrad,2015,Jan,41.0
+1,maribor,2015,Jan,42.0
+2,celje,2015,Jan,51.0
+3,ms rakican,2015,Jan,40.0
+4,nova gorica,2015,Jan,36.0
+5,trbovlje,2015,Jan,42.0
+6,zagorje,2015,Jan,46.0
+7,hrastnik,2015,Jan,32.0
+8,koper,2015,Jan,27.0
+9,iskrba,2015,Jan,9.0
+10,zerjav,2015,Jan,30.0
+11,lj biotehniska,2015,Jan,39.0
+12,kranj,2015,Jan,40.0
+13,novo mesto,2015,Jan,50.0
+14,velenje,2015,Jan,24.0
+15,mb vrbanski,2015,Jan,29.0
+16,vnajnarje,2015,Jan,27.0
+17,pesje,2015,Jan,27.0
+18,skale,2015,Jan,22.0
+19,sostanj,2015,Jan,17.0
+20,prapretno,2015,Jan,22.0
+21,kovk,2015,Jan,13.0
+22,dobovec,2015,Jan,7.0
+23,lj center,2015,Jan,54.0
+24,amp gaji,2015,Jan,36.0
+25,zelena trava,2015,Jan,16.0
+26,lj bezigrad,2015,Feb,38.0
+27,maribor,2015,Feb,42.0
+28,celje,2015,Feb,47.0
+29,ms rakican,2015,Feb,41.0
+30,nova gorica,2015,Feb,28.0
+31,trbovlje,2015,Feb,46.0
+32,zagorje,2015,Feb,49.0
+33,hrastnik,2015,Feb,35.0
+34,koper,2015,Feb,21.0
+35,iskrba,2015,Feb,13.0
+36,zerjav,2015,Feb,32.0
+37,lj biotehniska,2015,Feb,38.0
+38,kranj,2015,Feb,37.0
+39,novo mesto,2015,Feb,48.0
+40,velenje,2015,Feb,29.0
+41,mb vrbanski,2015,Feb,21.0
+42,vnajnarje,2015,Feb,22.0
+43,pesje,2015,Feb,22.0
+44,skale,2015,Feb,19.0
+45,sostanj,2015,Feb,13.0
+46,prapretno,2015,Feb,20.0
+47,kovk,2015,Feb,12.0
+48,dobovec,2015,Feb,8.0
+49,lj center,2015,Feb,51.0
+50,amp gaji,2015,Feb,45.0
+51,zelena trava,2015,Feb,16.0
+52,lj bezigrad,2015,Mar,31.0
+53,maribor,2015,Mar,35.0
+54,celje,2015,Mar,39.0
+55,ms rakican,2015,Mar,33.0
+56,nova gorica,2015,Mar,24.0
+57,trbovlje,2015,Mar,38.0
+58,zagorje,2015,Mar,41.0
+59,hrastnik,2015,Mar,30.0
+60,koper,2015,Mar,23.0
+61,iskrba,2015,Mar,15.0
+62,zerjav,2015,Mar,31.0
+63,lj biotehniska,2015,Mar,29.0
+64,kranj,2015,Mar,34.0
+65,novo mesto,2015,Mar,34.0
+66,velenje,2015,Mar,32.0
+67,mb vrbanski,2015,Mar,24.0
+68,vnajnarje,2015,Mar,28.0
+69,pesje,2015,Mar,31.0
+70,skale,2015,Mar,23.0
+71,sostanj,2015,Mar,17.0
+72,prapretno,2015,Mar,28.0
+73,kovk,2015,Mar,21.0
+74,dobovec,2015,Mar,18.0
+75,lj center,2015,Mar,51.0
+76,amp gaji,2015,Mar,43.0
+77,zelena trava,2015,Mar,23.0
+78,lj bezigrad,2015,Apr,19.0
+79,maribor,2015,Apr,20.0
+80,celje,2015,Apr,18.0
+81,ms rakican,2015,Apr,17.0
+82,nova gorica,2015,Apr,18.0
+83,trbovlje,2015,Apr,22.0
+84,zagorje,2015,Apr,22.0
+85,hrastnik,2015,Apr,17.0
+86,koper,2015,Apr,20.0
+87,iskrba,2015,Apr,9.0
+88,zerjav,2015,Apr,18.0
+89,lj biotehniska,2015,Apr,18.0
+90,kranj,2015,Apr,17.0
+91,novo mesto,2015,Apr,16.0
+92,velenje,2015,Apr,16.0
+93,mb vrbanski,2015,Apr,17.0
+94,vnajnarje,2015,Apr,21.0
+95,pesje,2015,Apr,22.0
+96,skale,2015,Apr,18.0
+97,sostanj,2015,Apr,10.0
+98,prapretno,2015,Apr,21.0
+99,kovk,2015,Apr,14.0
+100,dobovec,2015,Apr,14.0
+101,lj center,2015,Apr,34.0
+102,amp gaji,2015,Apr,25.0
+103,zelena trava,2015,Apr,15.0
+104,lj bezigrad,2015,Maj,16.0
+105,maribor,2015,Maj,20.0
+106,celje,2015,Maj,15.0
+107,ms rakican,2015,Maj,14.0
+108,nova gorica,2015,Maj,14.0
+109,trbovlje,2015,Maj,15.0
+110,zagorje,2015,Maj,17.0
+111,hrastnik,2015,Maj,14.0
+112,koper,2015,Maj,15.0
+113,iskrba,2015,Maj,10.0
+114,zerjav,2015,Maj,18.0
+115,lj biotehniska,2015,Maj,18.0
+116,kranj,2015,Maj,16.0
+117,novo mesto,2015,Maj,13.0
+118,velenje,2015,Maj,13.0
+119,mb vrbanski,2015,Maj,13.0
+120,vnajnarje,2015,Maj,17.0
+121,pesje,2015,Maj,16.0
+122,skale,2015,Maj,14.0
+123,sostanj,2015,Maj,7.0
+124,prapretno,2015,Maj,16.0
+125,kovk,2015,Maj,8.0
+126,dobovec,2015,Maj,9.0
+127,lj center,2015,Maj,26.0
+128,amp gaji,2015,Maj,18.0
+129,zelena trava,2015,Maj,10.0
+130,lj bezigrad,2015,Jun,19.0
+131,maribor,2015,Jun,21.0
+132,celje,2015,Jun,18.0
+133,ms rakican,2015,Jun,17.0
+134,nova gorica,2015,Jun,16.0
+135,trbovlje,2015,Jun,18.0
+136,zagorje,2015,Jun,19.0
+137,hrastnik,2015,Jun,17.0
+138,koper,2015,Jun,16.0
+139,iskrba,2015,Jun,14.0
+140,zerjav,2015,Jun,30.0
+141,lj biotehniska,2015,Jun,19.0
+142,kranj,2015,Jun,17.0
+143,novo mesto,2015,Jun,18.0
+144,velenje,2015,Jun,17.0
+145,mb vrbanski,2015,Jun,14.0
+146,vnajnarje,2015,Jun,18.0
+147,pesje,2015,Jun,21.0
+148,skale,2015,Jun,15.0
+149,sostanj,2015,Jun,10.0
+150,prapretno,2015,Jun,18.0
+151,kovk,2015,Jun,12.0
+152,dobovec,2015,Jun,11.0
+153,lj center,2015,Jun,28.0
+154,amp gaji,2015,Jun,21.0
+155,zelena trava,2015,Jun,13.0
+156,lj bezigrad,2015,Jul,19.0
+157,maribor,2015,Jul,21.0
+158,celje,2015,Jul,20.0
+159,ms rakican,2015,Jul,18.0
+160,nova gorica,2015,Jul,20.0
+161,trbovlje,2015,Jul,21.0
+162,zagorje,2015,Jul,20.0
+163,hrastnik,2015,Jul,19.0
+164,koper,2015,Jul,21.0
+165,iskrba,2015,Jul,16.0
+166,zerjav,2015,Jul,22.0
+167,lj biotehniska,2015,Jul,21.0
+168,kranj,2015,Jul,19.0
+169,novo mesto,2015,Jul,19.0
+170,velenje,2015,Jul,18.0
+171,mb vrbanski,2015,Jul,15.0
+172,vnajnarje,2015,Jul,18.0
+173,pesje,2015,Jul,20.0
+174,skale,2015,Jul,13.0
+175,sostanj,2015,Jul,10.0
+176,prapretno,2015,Jul,17.0
+177,kovk,2015,Jul,10.0
+178,dobovec,2015,Jul,9.0
+179,lj center,2015,Jul,30.0
+180,amp gaji,2015,Jul,20.0
+181,zelena trava,2015,Jul,12.0
+182,lj bezigrad,2015,Avg,23.0
+183,maribor,2015,Avg,23.0
+184,celje,2015,Avg,22.0
+185,ms rakican,2015,Avg,24.0
+186,nova gorica,2015,Avg,19.0
+187,trbovlje,2015,Avg,21.0
+188,zagorje,2015,Avg,22.0
+189,hrastnik,2015,Avg,21.0
+190,koper,2015,Avg,22.0
+191,iskrba,2015,Avg,17.0
+192,zerjav,2015,Avg,20.0
+193,lj biotehniska,2015,Avg,23.0
+194,kranj,2015,Avg,21.0
+195,novo mesto,2015,Avg,22.0
+196,velenje,2015,Avg,20.0
+197,mb vrbanski,2015,Avg,12.0
+198,vnajnarje,2015,Avg,15.0
+199,pesje,2015,Avg,19.0
+200,skale,2015,Avg,12.0
+201,sostanj,2015,Avg,10.0
+202,prapretno,2015,Avg,14.0
+203,kovk,2015,Avg,10.0
+204,dobovec,2015,Avg,7.0
+205,lj center,2015,Avg,27.0
+206,amp gaji,2015,Avg,19.0
+207,zelena trava,2015,Avg,11.0
+208,lj bezigrad,2015,Sep,17.0
+209,maribor,2015,Sep,16.0
+210,celje,2015,Sep,18.0
+211,ms rakican,2015,Sep,13.0
+212,nova gorica,2015,Sep,16.0
+213,trbovlje,2015,Sep,15.0
+214,zagorje,2015,Sep,16.0
+215,hrastnik,2015,Sep,15.0
+216,koper,2015,Sep,16.0
+217,iskrba,2015,Sep,13.0
+218,zerjav,2015,Sep,17.0
+219,lj biotehniska,2015,Sep,17.0
+220,kranj,2015,Sep,16.0
+221,novo mesto,2015,Sep,16.0
+222,velenje,2015,Sep,14.0
+223,mb vrbanski,2015,Sep,14.0
+224,vnajnarje,2015,Sep,18.0
+225,pesje,2015,Sep,20.0
+226,skale,2015,Sep,14.0
+227,sostanj,2015,Sep,12.0
+228,prapretno,2015,Sep,17.0
+229,kovk,2015,Sep,11.0
+230,dobovec,2015,Sep,10.0
+231,lj center,2015,Sep,31.0
+232,amp gaji,2015,Sep,20.0
+233,zelena trava,2015,Sep,11.0
+234,lj bezigrad,2015,Okt,24.0
+235,maribor,2015,Okt,26.0
+236,celje,2015,Okt,30.0
+237,ms rakican,2015,Okt,26.0
+238,nova gorica,2015,Okt,14.0
+239,trbovlje,2015,Okt,25.0
+240,zagorje,2015,Okt,26.0
+241,hrastnik,2015,Okt,21.0
+242,koper,2015,Okt,13.0
+243,iskrba,2015,Okt,11.0
+244,zerjav,2015,Okt,21.0
+245,lj biotehniska,2015,Okt,22.0
+246,kranj,2015,Okt,23.0
+247,novo mesto,2015,Okt,24.0
+248,velenje,2015,Okt,19.0
+249,mb vrbanski,2015,Okt,20.0
+250,vnajnarje,2015,Okt,14.0
+251,pesje,2015,Okt,29.0
+252,skale,2015,Okt,18.0
+253,sostanj,2015,Okt,16.0
+254,prapretno,2015,Okt,21.0
+255,kovk,2015,Okt,14.0
+256,dobovec,2015,Okt,12.0
+257,lj center,2015,Okt,37.0
+258,amp gaji,2015,Okt,30.0
+259,zelena trava,2015,Okt,17.0
+260,lj bezigrad,2015,Nov,41.0
+261,maribor,2015,Nov,33.0
+262,celje,2015,Nov,48.0
+263,ms rakican,2015,Nov,48.0
+264,nova gorica,2015,Nov,33.0
+265,trbovlje,2015,Nov,40.0
+266,zagorje,2015,Nov,47.0
+267,hrastnik,2015,Nov,31.0
+268,koper,2015,Nov,36.0
+269,iskrba,2015,Nov,12.0
+270,zerjav,2015,Nov,26.0
+271,lj biotehniska,2015,Nov,38.0
+272,kranj,2015,Nov,35.0
+273,novo mesto,2015,Nov,39.0
+274,velenje,2015,Nov,29.0
+275,mb vrbanski,2015,Nov,26.0
+276,vnajnarje,2015,Nov,14.0
+277,pesje,2015,Nov,28.0
+278,skale,2015,Nov,19.0
+279,sostanj,2015,Nov,18.0
+280,prapretno,2015,Nov,23.0
+281,kovk,2015,Nov,13.0
+282,dobovec,2015,Nov,11.0
+283,lj center,2015,Nov,44.0
+284,amp gaji,2015,Nov,37.0
+285,zelena trava,2015,Nov,20.0
+286,lj bezigrad,2015,Dec,47.0
+287,maribor,2015,Dec,41.0
+288,celje,2015,Dec,63.0
+289,ms rakican,2015,Dec,48.0
+290,nova gorica,2015,Dec,46.0
+291,trbovlje,2015,Dec,45.0
+292,zagorje,2015,Dec,56.0
+293,hrastnik,2015,Dec,39.0
+294,koper,2015,Dec,50.0
+295,iskrba,2015,Dec,12.0
+296,zerjav,2015,Dec,39.0
+297,lj biotehniska,2015,Dec,46.0
+298,kranj,2015,Dec,46.0
+299,novo mesto,2015,Dec,44.0
+300,velenje,2015,Dec,30.0
+301,mb vrbanski,2015,Dec,19.0
+302,vnajnarje,2015,Dec,10.0
+303,pesje,2015,Dec,19.0
+304,skale,2015,Dec,14.0
+305,sostanj,2015,Dec,17.0
+306,prapretno,2015,Dec,17.0
+307,kovk,2015,Dec,7.0
+308,dobovec,2015,Dec,6.0
+309,lj center,2015,Dec,45.0
+310,amp gaji,2015,Dec,37.0
+311,zelena trava,2015,Dec,13.0
+0,lj bezigrad,2016,Jan,54.0
+1,maribor,2016,Jan,54.0
+2,celje,2016,Jan,68.0
+3,ms rakican,2016,Jan,59.0
+4,nova gorica,2016,Jan,48.0
+5,trbovlje,2016,Jan,60.0
+6,zagorje,2016,Jan,64.0
+7,hrastnik,2016,Jan,46.0
+8,koper,2016,Jan,40.0
+9,iskrba,2016,Jan,13.0
+10,zerjav,2016,Jan,39.0
+11,lj biotehniska,2016,Jan,58.0
+12,kranj,2016,Jan,51.0
+13,novo mesto,2016,Jan,59.0
+14,velenje,2016,Jan,36.0
+15,mb vrbanski,2016,Jan,39.0
+16,vnajnarje,2016,Jan,22.0
+17,pesje,2016,Jan,31.0
+18,skale,2016,Jan,23.0
+19,sostanj,2016,Jan,29.0
+20,prapretno,2016,Jan,27.0
+21,morsko,2016,Jan,36.0
+22,gorenje polje,2016,Jan,27.0
+23,lj center,2016,Jan,70.0
+24,amp gaji,2016,Jan,62.0
+25,miklavz,2016,Jan,56.0
+26,lj bezigrad,2016,Feb,18.0
+27,maribor,2016,Feb,22.0
+28,celje,2016,Feb,30.0
+29,ms rakican,2016,Feb,26.0
+30,nova gorica,2016,Feb,24.0
+31,trbovlje,2016,Feb,26.0
+32,zagorje,2016,Feb,26.0
+33,hrastnik,2016,Feb,20.0
+34,koper,2016,Feb,21.0
+35,iskrba,2016,Feb,7.0
+36,zerjav,2016,Feb,21.0
+37,lj biotehniska,2016,Feb,22.0
+38,kranj,2016,Feb,24.0
+39,novo mesto,2016,Feb,25.0
+40,velenje,2016,Feb,20.0
+41,mb vrbanski,2016,Feb,14.0
+42,vnajnarje,2016,Feb,10.0
+43,pesje,2016,Feb,18.0
+44,skale,2016,Feb,13.0
+45,sostanj,2016,Feb,17.0
+46,prapretno,2016,Feb,14.0
+47,morsko,2016,Feb,16.0
+48,gorenje polje,2016,Feb,16.0
+49,lj center,2016,Feb,32.0
+50,amp gaji,2016,Feb,21.0
+51,miklavz,2016,Feb,22.0
+52,lj bezigrad,2016,Mar,20.0
+53,maribor,2016,Mar,23.0
+54,celje,2016,Mar,32.0
+55,ms rakican,2016,Mar,23.0
+56,nova gorica,2016,Mar,22.0
+57,trbovlje,2016,Mar,28.0
+58,zagorje,2016,Mar,27.0
+59,hrastnik,2016,Mar,21.0
+60,koper,2016,Mar,18.0
+61,iskrba,2016,Mar,11.0
+62,zerjav,2016,Mar,21.0
+63,lj biotehniska,2016,Mar,25.0
+64,kranj,2016,Mar,23.0
+65,novo mesto,2016,Mar,26.0
+66,velenje,2016,Mar,19.0
+67,mb vrbanski,2016,Mar,17.0
+68,vnajnarje,2016,Mar,13.0
+69,pesje,2016,Mar,22.0
+70,skale,2016,Mar,14.0
+71,sostanj,2016,Mar,18.0
+72,prapretno,2016,Mar,16.0
+73,morsko,2016,Mar,17.0
+74,gorenje polje,2016,Mar,20.0
+75,lj center,2016,Mar,36.0
+76,amp gaji,2016,Mar,24.0
+77,miklavz,2016,Mar,25.0
+78,lj bezigrad,2016,Apr,18.0
+79,maribor,2016,Apr,23.0
+80,celje,2016,Apr,24.0
+81,ms rakican,2016,Apr,18.0
+82,nova gorica,2016,Apr,17.0
+83,trbovlje,2016,Apr,19.0
+84,zagorje,2016,Apr,19.0
+85,hrastnik,2016,Apr,17.0
+86,koper,2016,Apr,18.0
+87,iskrba,2016,Apr,11.0
+88,zerjav,2016,Apr,24.0
+89,lj biotehniska,2016,Apr,20.0
+90,kranj,2016,Apr,19.0
+91,novo mesto,2016,Apr,18.0
+92,velenje,2016,Apr,17.0
+93,mb vrbanski,2016,Apr,16.0
+94,vnajnarje,2016,Apr,21.0
+95,pesje,2016,Apr,21.0
+96,skale,2016,Apr,16.0
+97,sostanj,2016,Apr,16.0
+98,prapretno,2016,Apr,18.0
+99,morsko,2016,Apr,14.0
+100,gorenje polje,2016,Apr,15.0
+101,lj center,2016,Apr,34.0
+102,amp gaji,2016,Apr,21.0
+103,miklavz,2016,Apr,19.0
+104,lj bezigrad,2016,Maj,13.0
+105,maribor,2016,Maj,21.0
+106,celje,2016,Maj,18.0
+107,ms rakican,2016,Maj,14.0
+108,nova gorica,2016,Maj,11.0
+109,trbovlje,2016,Maj,15.0
+110,zagorje,2016,Maj,19.0
+111,hrastnik,2016,Maj,14.0
+112,koper,2016,Maj,13.0
+113,iskrba,2016,Maj,10.0
+114,zerjav,2016,Maj,18.0
+115,lj biotehniska,2016,Maj,15.0
+116,kranj,2016,Maj,13.0
+117,novo mesto,2016,Maj,14.0
+118,velenje,2016,Maj,12.0
+119,mb vrbanski,2016,Maj,12.0
+120,vnajnarje,2016,Maj,14.0
+121,pesje,2016,Maj,22.0
+122,skale,2016,Maj,13.0
+123,sostanj,2016,Maj,12.0
+124,prapretno,2016,Maj,14.0
+125,morsko,2016,Maj,10.0
+126,gorenje polje,2016,Maj,10.0
+127,lj center,2016,Maj,27.0
+128,amp gaji,2016,Maj,16.0
+129,miklavz,2016,Maj,15.0
+130,lj bezigrad,2016,Jun,14.0
+131,maribor,2016,Jun,21.0
+132,celje,2016,Jun,17.0
+133,ms rakican,2016,Jun,14.0
+134,nova gorica,2016,Jun,13.0
+135,trbovlje,2016,Jun,14.0
+136,zagorje,2016,Jun,14.0
+137,hrastnik,2016,Jun,14.0
+138,koper,2016,Jun,15.0
+139,iskrba,2016,Jun,12.0
+140,zerjav,2016,Jun,18.0
+141,lj biotehniska,2016,Jun,16.0
+142,kranj,2016,Jun,14.0
+143,novo mesto,2016,Jun,13.0
+144,velenje,2016,Jun,12.0
+145,mb vrbanski,2016,Jun,15.0
+146,vnajnarje,2016,Jun,16.0
+147,pesje,2016,Jun,24.0
+148,skale,2016,Jun,13.0
+149,sostanj,2016,Jun,10.0
+150,prapretno,2016,Jun,15.0
+151,morsko,2016,Jun,13.0
+152,gorenje polje,2016,Jun,14.0
+153,lj center,2016,Jun,26.0
+154,amp gaji,2016,Jun,19.0
+155,miklavz,2016,Jun,16.0
+156,lj bezigrad,2016,Jul,14.0
+157,maribor,2016,Jul,18.0
+158,celje,2016,Jul,16.0
+159,ms rakican,2016,Jul,14.0
+160,nova gorica,2016,Jul,14.0
+161,trbovlje,2016,Jul,15.0
+162,zagorje,2016,Jul,14.0
+163,hrastnik,2016,Jul,15.0
+164,koper,2016,Jul,16.0
+165,iskrba,2016,Jul,13.0
+166,zerjav,2016,Jul,15.0
+167,lj biotehniska,2016,Jul,17.0
+168,kranj,2016,Jul,14.0
+169,novo mesto,2016,Jul,15.0
+170,velenje,2016,Jul,14.0
+171,mb vrbanski,2016,Jul,16.0
+172,vnajnarje,2016,Jul,19.0
+173,pesje,2016,Jul,14.0
+174,skale,2016,Jul,13.0
+175,sostanj,2016,Jul,15.0
+176,prapretno,2016,Jul,18.0
+177,morsko,2016,Jul,13.0
+178,gorenje polje,2016,Jul,15.0
+179,lj center,2016,Jul,29.0
+180,amp gaji,2016,Jul,13.0
+181,miklavz,2016,Jul,18.0
+182,lj bezigrad,2016,Avg,13.0
+183,maribor,2016,Avg,17.0
+184,celje,2016,Avg,16.0
+185,ms rakican,2016,Avg,13.0
+186,nova gorica,2016,Avg,12.0
+187,trbovlje,2016,Avg,13.0
+188,zagorje,2016,Avg,13.0
+189,hrastnik,2016,Avg,13.0
+190,koper,2016,Avg,14.0
+191,iskrba,2016,Avg,12.0
+192,zerjav,2016,Avg,15.0
+193,lj biotehniska,2016,Avg,15.0
+194,kranj,2016,Avg,13.0
+195,novo mesto,2016,Avg,14.0
+196,velenje,2016,Avg,13.0
+197,mb vrbanski,2016,Avg,12.0
+198,vnajnarje,2016,Avg,16.0
+199,pesje,2016,Avg,12.0
+200,skale,2016,Avg,13.0
+201,sostanj,2016,Avg,15.0
+202,prapretno,2016,Avg,17.0
+203,morsko,2016,Avg,10.0
+204,gorenje polje,2016,Avg,11.0
+205,lj center,2016,Avg,27.0
+206,amp gaji,2016,Avg,13.0
+207,miklavz,2016,Avg,15.0
+208,lj bezigrad,2016,Sep,19.0
+209,maribor,2016,Sep,23.0
+210,celje,2016,Sep,22.0
+211,ms rakican,2016,Sep,20.0
+212,nova gorica,2016,Sep,18.0
+213,trbovlje,2016,Sep,18.0
+214,zagorje,2016,Sep,18.0
+215,hrastnik,2016,Sep,19.0
+216,koper,2016,Sep,17.0
+217,iskrba,2016,Sep,14.0
+218,zerjav,2016,Sep,19.0
+219,lj biotehniska,2016,Sep,20.0
+220,kranj,2016,Sep,19.0
+221,novo mesto,2016,Sep,19.0
+222,velenje,2016,Sep,19.0
+223,mb vrbanski,2016,Sep,15.0
+224,vnajnarje,2016,Sep,23.0
+225,pesje,2016,Sep,18.0
+226,skale,2016,Sep,17.0
+227,sostanj,2016,Sep,22.0
+228,prapretno,2016,Sep,21.0
+229,morsko,2016,Sep,14.0
+230,gorenje polje,2016,Sep,15.0
+231,lj center,2016,Sep,34.0
+232,amp gaji,2016,Sep,21.0
+233,miklavz,2016,Sep,19.0
+234,lj bezigrad,2016,Okt,18.0
+235,maribor,2016,Okt,23.0
+236,celje,2016,Okt,23.0
+237,ms rakican,2016,Okt,21.0
+238,nova gorica,2016,Okt,15.0
+239,trbovlje,2016,Okt,21.0
+240,zagorje,2016,Okt,24.0
+241,hrastnik,2016,Okt,17.0
+242,koper,2016,Okt,13.0
+243,iskrba,2016,Okt,9.0
+244,zerjav,2016,Okt,15.0
+245,lj biotehniska,2016,Okt,20.0
+246,kranj,2016,Okt,20.0
+247,novo mesto,2016,Okt,21.0
+248,velenje,2016,Okt,15.0
+249,mb vrbanski,2016,Okt,15.0
+250,vnajnarje,2016,Okt,13.0
+251,pesje,2016,Okt,26.0
+252,skale,2016,Okt,13.0
+253,sostanj,2016,Okt,18.0
+254,prapretno,2016,Okt,15.0
+255,morsko,2016,Okt,9.0
+256,gorenje polje,2016,Okt,10.0
+257,lj center,2016,Okt,33.0
+258,amp gaji,2016,Okt,20.0
+259,miklavz,2016,Okt,23.0
+260,lj bezigrad,2016,Nov,24.0
+261,maribor,2016,Nov,29.0
+262,celje,2016,Nov,36.0
+263,ms rakican,2016,Nov,34.0
+264,nova gorica,2016,Nov,25.0
+265,trbovlje,2016,Nov,27.0
+266,zagorje,2016,Nov,33.0
+267,hrastnik,2016,Nov,23.0
+268,koper,2016,Nov,19.0
+269,iskrba,2016,Nov,10.0
+270,zerjav,2016,Nov,23.0
+271,lj biotehniska,2016,Nov,27.0
+272,kranj,2016,Nov,26.0
+273,novo mesto,2016,Nov,31.0
+274,velenje,2016,Nov,19.0
+275,mb vrbanski,2016,Nov,21.0
+276,vnajnarje,2016,Nov,13.0
+277,pesje,2016,Nov,27.0
+278,skale,2016,Nov,15.0
+279,sostanj,2016,Nov,21.0
+280,prapretno,2016,Nov,18.0
+281,morsko,2016,Nov,17.0
+282,gorenje polje,2016,Nov,20.0
+283,lj center,2016,Nov,36.0
+284,amp gaji,2016,Nov,31.0
+285,miklavz,2016,Nov,33.0
+286,lj bezigrad,2016,Dec,64.0
+287,maribor,2016,Dec,55.0
+288,celje,2016,Dec,78.0
+289,ms rakican,2016,Dec,54.0
+290,nova gorica,2016,Dec,36.0
+291,trbovlje,2016,Dec,63.0
+292,zagorje,2016,Dec,77.0
+293,hrastnik,2016,Dec,48.0
+294,koper,2016,Dec,28.0
+295,iskrba,2016,Dec,15.0
+296,zerjav,2016,Dec,45.0
+297,lj biotehniska,2016,Dec,62.0
+298,kranj,2016,Dec,61.0
+299,novo mesto,2016,Dec,56.0
+300,velenje,2016,Dec,37.0
+301,mb vrbanski,2016,Dec,42.0
+302,vnajnarje,2016,Dec,24.0
+303,pesje,2016,Dec,35.0
+304,skale,2016,Dec,25.0
+305,sostanj,2016,Dec,34.0
+306,prapretno,2016,Dec,26.0
+307,morsko,2016,Dec,26.0
+308,gorenje polje,2016,Dec,26.0
+309,lj center,2016,Dec,79.0
+310,amp gaji,2016,Dec,65.0
+311,miklavz,2016,Dec,68.0
+0,lj bezigrad,2017,Jan,54.0
+1,maribor,2017,Jan,67.0
+2,celje,2017,Jan,76.0
+3,ms rakican,2017,Jan,73.0
+4,nova gorica,2017,Jan,37.0
+5,trbovlje,2017,Jan,59.0
+6,zagorje,2017,Jan,69.0
+7,hrastnik,2017,Jan,51.0
+8,koper,2017,Jan,25.0
+9,iskrba,2017,Jan,22.0
+10,zerjav,2017,Jan,47.0
+11,lj biotehniska,2017,Jan,54.0
+12,kranj,2017,Jan,52.0
+13,novo mesto,2017,Jan,69.0
+14,velenje,2017,Jan,48.0
+15,lj gospodarsko,2017,Jan,61.0
+16,ng grcna,2017,Jan,39.0
+17,ce mariborska,2017,Jan,83.0
+18,mb vrbanski,2017,Jan,52.0
+19,vnajnarje,2017,Jan,33.0
+20,pesje,2017,Jan,45.0
+21,skale,2017,Jan,33.0
+22,sostanj,2017,Jan,42.0
+23,prapretno,2017,Jan,30.0
+24,morsko,2017,Jan,31.0
+25,gorenje polje,2017,Jan,29.0
+26,lj center,2017,Jan,68.0
+27,ce gaji,2017,Jan,67.0
+28,miklavz,2017,Jan,85.0
+29,ptuj,2017,Jan,70.0
+30,rusa,2017,Jan,55.0
+31,lj bezigrad,2017,Feb,36.0
+32,maribor,2017,Feb,49.0
+33,celje,2017,Feb,46.0
+34,ms rakican,2017,Feb,51.0
+35,nova gorica,2017,Feb,32.0
+36,trbovlje,2017,Feb,41.0
+37,zagorje,2017,Feb,48.0
+38,hrastnik,2017,Feb,35.0
+39,koper,2017,Feb,29.0
+40,iskrba,2017,Feb,15.0
+41,zerjav,2017,Feb,28.0
+42,lj biotehniska,2017,Feb,37.0
+43,kranj,2017,Feb,36.0
+44,novo mesto,2017,Feb,51.0
+45,velenje,2017,Feb,31.0
+46,lj gospodarsko,2017,Feb,42.0
+47,ng grcna,2017,Feb,29.0
+48,ce mariborska,2017,Feb,49.0
+49,mb vrbanski,2017,Feb,35.0
+50,vnajnarje,2017,Feb,26.0
+51,pesje,2017,Feb,37.0
+52,skale,2017,Feb,22.0
+53,sostanj,2017,Feb,30.0
+54,prapretno,2017,Feb,24.0
+55,morsko,2017,Feb,25.0
+56,gorenje polje,2017,Feb,25.0
+57,lj center,2017,Feb,49.0
+58,ce gaji,2017,Feb,39.0
+59,miklavz,2017,Feb,48.0
+60,ptuj,2017,Feb,45.0
+61,rusa,2017,Feb,38.0
+62,lj bezigrad,2017,Mar,26.0
+63,maribor,2017,Mar,28.0
+64,celje,2017,Mar,35.0
+65,ms rakican,2017,Mar,27.0
+66,nova gorica,2017,Mar,27.0
+67,trbovlje,2017,Mar,31.0
+68,zagorje,2017,Mar,33.0
+69,hrastnik,2017,Mar,25.0
+70,koper,2017,Mar,24.0
+71,iskrba,2017,Mar,14.0
+72,zerjav,2017,Mar,22.0
+73,lj biotehniska,2017,Mar,26.0
+74,kranj,2017,Mar,27.0
+75,novo mesto,2017,Mar,29.0
+76,velenje,2017,Mar,25.0
+77,lj gospodarsko,2017,Mar,31.0
+78,ng grcna,2017,Mar,30.0
+79,ce mariborska,2017,Mar,36.0
+80,mb vrbanski,2017,Mar,22.0
+81,vnajnarje,2017,Mar,21.0
+82,pesje,2017,Mar,35.0
+83,skale,2017,Mar,17.0
+84,sostanj,2017,Mar,25.0
+85,prapretno,2017,Mar,22.0
+86,morsko,2017,Mar,20.0
+87,gorenje polje,2017,Mar,24.0
+88,lj center,2017,Mar,41.0
+89,ce gaji,2017,Mar,30.0
+90,miklavz,2017,Mar,32.0
+91,ptuj,2017,Mar,27.0
+92,rusa,2017,Mar,22.0
+93,lj bezigrad,2017,Apr,16.0
+94,maribor,2017,Apr,21.0
+95,celje,2017,Apr,21.0
+96,ms rakican,2017,Apr,17.0
+97,nova gorica,2017,Apr,17.0
+98,trbovlje,2017,Apr,18.0
+99,zagorje,2017,Apr,18.0
+100,hrastnik,2017,Apr,16.0
+101,koper,2017,Apr,18.0
+102,iskrba,2017,Apr,12.0
+103,zerjav,2017,Apr,16.0
+104,lj biotehniska,2017,Apr,17.0
+105,kranj,2017,Apr,18.0
+106,novo mesto,2017,Apr,16.0
+107,velenje,2017,Apr,14.0
+108,lj gospodarsko,2017,Apr,20.0
+109,ng grcna,2017,Apr,20.0
+110,ce mariborska,2017,Apr,22.0
+111,mb vrbanski,2017,Apr,14.0
+112,vnajnarje,2017,Apr,17.0
+113,pesje,2017,Apr,28.0
+114,skale,2017,Apr,13.0
+115,sostanj,2017,Apr,13.0
+116,prapretno,2017,Apr,16.0
+117,morsko,2017,Apr,13.0
+118,gorenje polje,2017,Apr,14.0
+119,lj center,2017,Apr,23.0
+120,ce gaji,2017,Apr,14.0
+121,miklavz,2017,Apr,18.0
+122,ptuj,2017,Apr,16.0
+123,rusa,2017,Apr,14.0
+124,lj bezigrad,2017,Maj,14.0
+125,maribor,2017,Maj,19.0
+126,celje,2017,Maj,18.0
+127,ms rakican,2017,Maj,15.0
+128,nova gorica,2017,Maj,14.0
+129,trbovlje,2017,Maj,15.0
+130,zagorje,2017,Maj,16.0
+131,hrastnik,2017,Maj,15.0
+132,koper,2017,Maj,14.0
+133,iskrba,2017,Maj,11.0
+134,zerjav,2017,Maj,15.0
+135,lj biotehniska,2017,Maj,15.0
+136,kranj,2017,Maj,15.0
+137,novo mesto,2017,Maj,15.0
+138,velenje,2017,Maj,13.0
+139,lj gospodarsko,2017,Maj,18.0
+140,ng grcna,2017,Maj,17.0
+141,ce mariborska,2017,Maj,20.0
+142,mb vrbanski,2017,Maj,15.0
+143,vnajnarje,2017,Maj,17.0
+144,pesje,2017,Maj,21.0
+145,skale,2017,Maj,13.0
+146,sostanj,2017,Maj,9.0
+147,prapretno,2017,Maj,16.0
+148,morsko,2017,Maj,12.0
+149,gorenje polje,2017,Maj,13.0
+150,lj center,2017,Maj,21.0
+151,ce gaji,2017,Maj,13.0
+152,miklavz,2017,Maj,16.0
+153,ptuj,2017,Maj,15.0
+154,rusa,2017,Maj,14.0
+155,lj bezigrad,2017,Jun,16.0
+156,maribor,2017,Jun,21.0
+157,celje,2017,Jun,19.0
+158,ms rakican,2017,Jun,16.0
+159,nova gorica,2017,Jun,17.0
+160,trbovlje,2017,Jun,15.0
+161,zagorje,2017,Jun,16.0
+162,hrastnik,2017,Jun,16.0
+163,koper,2017,Jun,16.0
+164,iskrba,2017,Jun,13.0
+165,zerjav,2017,Jun,17.0
+166,lj biotehniska,2017,Jun,19.0
+167,kranj,2017,Jun,15.0
+168,novo mesto,2017,Jun,16.0
+169,velenje,2017,Jun,16.0
+170,lj gospodarsko,2017,Jun,19.0
+171,ng grcna,2017,Jun,20.0
+172,ce mariborska,2017,Jun,18.0
+173,mb vrbanski,2017,Jun,17.0
+174,vnajnarje,2017,Jun,24.0
+175,pesje,2017,Jun,25.0
+176,skale,2017,Jun,15.0
+177,sostanj,2017,Jun,8.0
+178,prapretno,2017,Jun,
+179,morsko,2017,Jun,15.0
+180,gorenje polje,2017,Jun,17.0
+181,lj center,2017,Jun,23.0
+182,ce gaji,2017,Jun,17.0
+183,miklavz,2017,Jun,18.0
+184,ptuj,2017,Jun,17.0
+185,rusa,2017,Jun,16.0
+186,lj bezigrad,2017,Jul,16.0
+187,maribor,2017,Jul,16.0
+188,celje,2017,Jul,15.0
+189,ms rakican,2017,Jul,14.0
+190,nova gorica,2017,Jul,15.0
+191,trbovlje,2017,Jul,14.0
+192,zagorje,2017,Jul,15.0
+193,hrastnik,2017,Jul,14.0
+194,koper,2017,Jul,15.0
+195,iskrba,2017,Jul,12.0
+196,zerjav,2017,Jul,14.0
+197,lj biotehniska,2017,Jul,16.0
+198,kranj,2017,Jul,13.0
+199,novo mesto,2017,Jul,14.0
+200,velenje,2017,Jul,13.0
+201,lj gospodarsko,2017,Jul,18.0
+202,ng grcna,2017,Jul,17.0
+203,ce mariborska,2017,Jul,16.0
+204,mb vrbanski,2017,Jul,14.0
+205,vnajnarje,2017,Jul,23.0
+206,pesje,2017,Jul,24.0
+207,skale,2017,Jul,14.0
+208,sostanj,2017,Jul,8.0
+209,prapretno,2017,Jul,
+210,morsko,2017,Jul,15.0
+211,gorenje polje,2017,Jul,15.0
+212,lj center,2017,Jul,23.0
+213,ce gaji,2017,Jul,11.0
+214,miklavz,2017,Jul,17.0
+215,ptuj,2017,Jul,17.0
+216,rusa,2017,Jul,15.0
+217,lj bezigrad,2017,Avg,17.0
+218,maribor,2017,Avg,18.0
+219,celje,2017,Avg,19.0
+220,ms rakican,2017,Avg,16.0
+221,nova gorica,2017,Avg,17.0
+222,trbovlje,2017,Avg,22.0
+223,zagorje,2017,Avg,17.0
+224,hrastnik,2017,Avg,17.0
+225,koper,2017,Avg,19.0
+226,iskrba,2017,Avg,12.0
+227,zerjav,2017,Avg,16.0
+228,lj biotehniska,2017,Avg,18.0
+229,kranj,2017,Avg,17.0
+230,novo mesto,2017,Avg,16.0
+231,velenje,2017,Avg,17.0
+232,lj gospodarsko,2017,Avg,21.0
+233,ng grcna,2017,Avg,19.0
+234,ce mariborska,2017,Avg,21.0
+235,mb vrbanski,2017,Avg,15.0
+236,vnajnarje,2017,Avg,21.0
+237,pesje,2017,Avg,20.0
+238,skale,2017,Avg,16.0
+239,sostanj,2017,Avg,17.0
+240,prapretno,2017,Avg,
+241,morsko,2017,Avg,14.0
+242,gorenje polje,2017,Avg,15.0
+243,lj center,2017,Avg,28.0
+244,ce gaji,2017,Avg,15.0
+245,miklavz,2017,Avg,18.0
+246,ptuj,2017,Avg,18.0
+247,rusa,2017,Avg,15.0
+248,lj bezigrad,2017,Sep,13.0
+249,maribor,2017,Sep,16.0
+250,celje,2017,Sep,15.0
+251,ms rakican,2017,Sep,14.0
+252,nova gorica,2017,Sep,13.0
+253,trbovlje,2017,Sep,28.0
+254,zagorje,2017,Sep,15.0
+255,hrastnik,2017,Sep,13.0
+256,koper,2017,Sep,12.0
+257,iskrba,2017,Sep,9.0
+258,zerjav,2017,Sep,14.0
+259,lj biotehniska,2017,Sep,13.0
+260,kranj,2017,Sep,13.0
+261,novo mesto,2017,Sep,13.0
+262,velenje,2017,Sep,12.0
+263,lj gospodarsko,2017,Sep,17.0
+264,ng grcna,2017,Sep,16.0
+265,ce mariborska,2017,Sep,17.0
+266,mb vrbanski,2017,Sep,10.0
+267,vnajnarje,2017,Sep,15.0
+268,pesje,2017,Sep,12.0
+269,skale,2017,Sep,12.0
+270,sostanj,2017,Sep,15.0
+271,prapretno,2017,Sep,
+272,morsko,2017,Sep,10.0
+273,gorenje polje,2017,Sep,11.0
+274,lj center,2017,Sep,23.0
+275,ce gaji,2017,Sep,8.0
+276,miklavz,2017,Sep,13.0
+277,ptuj,2017,Sep,12.0
+278,rusa,2017,Sep,10.0
+279,lj bezigrad,2017,Okt,26.0
+280,maribor,2017,Okt,26.0
+281,celje,2017,Okt,29.0
+282,ms rakican,2017,Okt,28.0
+283,nova gorica,2017,Okt,29.0
+284,trbovlje,2017,Okt,31.0
+285,zagorje,2017,Okt,30.0
+286,hrastnik,2017,Okt,24.0
+287,koper,2017,Okt,28.0
+288,iskrba,2017,Okt,12.0
+289,zerjav,2017,Okt,22.0
+290,lj biotehniska,2017,Okt,24.0
+291,kranj,2017,Okt,25.0
+292,novo mesto,2017,Okt,24.0
+293,velenje,2017,Okt,23.0
+294,lj gospodarsko,2017,Okt,32.0
+295,ng grcna,2017,Okt,32.0
+296,ce mariborska,2017,Okt,33.0
+297,mb vrbanski,2017,Okt,16.0
+298,vnajnarje,2017,Okt,22.0
+299,pesje,2017,Okt,19.0
+300,skale,2017,Okt,18.0
+301,sostanj,2017,Okt,25.0
+302,prapretno,2017,Okt,
+303,morsko,2017,Okt,23.0
+304,gorenje polje,2017,Okt,25.0
+305,lj center,2017,Okt,23.0
+306,ce gaji,2017,Okt,24.0
+307,miklavz,2017,Okt,27.0
+308,ptuj,2017,Okt,23.0
+309,rusa,2017,Okt,18.0
+310,lj bezigrad,2017,Nov,26.0
+311,maribor,2017,Nov,26.0
+312,celje,2017,Nov,33.0
+313,ms rakican,2017,Nov,32.0
+314,nova gorica,2017,Nov,26.0
+315,trbovlje,2017,Nov,32.0
+316,zagorje,2017,Nov,32.0
+317,hrastnik,2017,Nov,23.0
+318,koper,2017,Nov,17.0
+319,iskrba,2017,Nov,8.0
+320,zerjav,2017,Nov,24.0
+321,lj biotehniska,2017,Nov,25.0
+322,kranj,2017,Nov,28.0
+323,novo mesto,2017,Nov,30.0
+324,velenje,2017,Nov,19.0
+325,lj gospodarsko,2017,Nov,31.0
+326,ng grcna,2017,Nov,27.0
+327,ce mariborska,2017,Nov,36.0
+328,mb vrbanski,2017,Nov,17.0
+329,vnajnarje,2017,Nov,16.0
+330,pesje,2017,Nov,13.0
+331,skale,2017,Nov,15.0
+332,sostanj,2017,Nov,23.0
+333,prapretno,2017,Nov,
+334,morsko,2017,Nov,16.0
+335,gorenje polje,2017,Nov,19.0
+336,lj center,2017,Nov,26.0
+337,ce gaji,2017,Nov,30.0
+338,miklavz,2017,Nov,33.0
+339,ptuj,2017,Nov,25.0
+340,rusa,2017,Nov,18.0
+341,lj bezigrad,2017,Dec,34.0
+342,maribor,2017,Dec,25.0
+343,celje,2017,Dec,36.0
+344,ms rakican,2017,Dec,34.0
+345,nova gorica,2017,Dec,30.0
+346,trbovlje,2017,Dec,40.0
+347,zagorje,2017,Dec,36.0
+348,hrastnik,2017,Dec,25.0
+349,koper,2017,Dec,21.0
+350,iskrba,2017,Dec,7.0
+351,zerjav,2017,Dec,30.0
+352,lj biotehniska,2017,Dec,37.0
+353,kranj,2017,Dec,35.0
+354,novo mesto,2017,Dec,31.0
+355,velenje,2017,Dec,15.0
+356,lj gospodarsko,2017,Dec,39.0
+357,ng grcna,2017,Dec,29.0
+358,ce mariborska,2017,Dec,39.0
+359,mb vrbanski,2017,Dec,15.0
+360,vnajnarje,2017,Dec,17.0
+361,pesje,2017,Dec,11.0
+362,skale,2017,Dec,12.0
+363,sostanj,2017,Dec,18.0
+364,prapretno,2017,Dec,
+365,morsko,2017,Dec,22.0
+366,gorenje polje,2017,Dec,24.0
+367,lj center,2017,Dec,44.0
+368,ce gaji,2017,Dec,33.0
+369,miklavz,2017,Dec,35.0
+370,ptuj,2017,Dec,26.0
+371,rusa,2017,Dec,16.0
+0,lj bezigrad,2018,Jan,28.0
+1,maribor,2018,Jan,33.0
+2,celje,2018,Jan,33.0
+3,ms rakican,2018,Jan,32.0
+4,nova gorica,2018,Jan,33.0
+5,trbovlje,2018,Jan,29.0
+6,zagorje,2018,Jan,32.0
+7,hrastnik,2018,Jan,21.0
+8,koper,2018,Jan,24.0
+9,iskrba,2018,Jan,9.0
+10,zerjav,2018,Jan,27.0
+11,lj biotehniska,2018,Jan,21.0
+12,kranj,2018,Jan,24.0
+13,novo mesto,2018,Jan,30.0
+14,velenje,2018,Jan,20.0
+15,lj gospodarsko,2018,Jan,28.0
+16,ng grcna,2018,Jan,34.0
+17,ce mariborska,2018,Jan,35.0
+18,mb vrbanski,2018,Jan,21.0
+19,ms cankarjeva,2018,Jan,40.0
+20,pesje,2018,Jan,15.0
+21,skale,2018,Jan,14.0
+22,sostanj,2018,Jan,21.0
+23,morsko,2018,Jan,23.0
+24,gorenje polje,2018,Jan,26.0
+25,lj center,2018,Jan,37.0
+26,ce gaji,2018,Jan,35.0
+27,miklavz,2018,Jan,30.0
+28,ptuj,2018,Jan,22.0
+29,medvode,2018,Jan,
+30,ruse,2018,Jan,25.0
+31,lj bezigrad,2018,Feb,35.0
+32,maribor,2018,Feb,39.0
+33,celje,2018,Feb,42.0
+34,ms rakican,2018,Feb,37.0
+35,nova gorica,2018,Feb,20.0
+36,trbovlje,2018,Feb,34.0
+37,zagorje,2018,Feb,38.0
+38,hrastnik,2018,Feb,27.0
+39,koper,2018,Feb,16.0
+40,iskrba,2018,Feb,15.0
+41,zerjav,2018,Feb,27.0
+42,lj biotehniska,2018,Feb,27.0
+43,kranj,2018,Feb,40.0
+44,novo mesto,2018,Feb,36.0
+45,velenje,2018,Feb,26.0
+46,lj gospodarsko,2018,Feb,31.0
+47,ng grcna,2018,Feb,25.0
+48,ce mariborska,2018,Feb,45.0
+49,mb vrbanski,2018,Feb,28.0
+50,ms cankarjeva,2018,Feb,44.0
+51,pesje,2018,Feb,20.0
+52,skale,2018,Feb,20.0
+53,sostanj,2018,Feb,27.0
+54,morsko,2018,Feb,15.0
+55,gorenje polje,2018,Feb,16.0
+56,lj center,2018,Feb,41.0
+57,ce gaji,2018,Feb,37.0
+58,miklavz,2018,Feb,42.0
+59,ptuj,2018,Feb,35.0
+60,medvode,2018,Feb,
+61,ruse,2018,Feb,31.0
+62,lj bezigrad,2018,Mar,32.0
+63,maribor,2018,Mar,39.0
+64,celje,2018,Mar,39.0
+65,ms rakican,2018,Mar,36.0
+66,nova gorica,2018,Mar,24.0
+67,trbovlje,2018,Mar,34.0
+68,zagorje,2018,Mar,37.0
+69,hrastnik,2018,Mar,29.0
+70,koper,2018,Mar,21.0
+71,iskrba,2018,Mar,17.0
+72,zerjav,2018,Mar,32.0
+73,lj biotehniska,2018,Mar,28.0
+74,kranj,2018,Mar,37.0
+75,novo mesto,2018,Mar,37.0
+76,velenje,2018,Mar,25.0
+77,lj gospodarsko,2018,Mar,31.0
+78,ng grcna,2018,Mar,26.0
+79,ce mariborska,2018,Mar,44.0
+80,mb vrbanski,2018,Mar,29.0
+81,ms cankarjeva,2018,Mar,44.0
+82,pesje,2018,Mar,24.0
+83,skale,2018,Mar,23.0
+84,sostanj,2018,Mar,29.0
+85,morsko,2018,Mar,21.0
+86,gorenje polje,2018,Mar,22.0
+87,lj center,2018,Mar,42.0
+88,ce gaji,2018,Mar,39.0
+89,miklavz,2018,Mar,36.0
+90,ptuj,2018,Mar,33.0
+91,medvode,2018,Mar,28.0
+92,ruse,2018,Mar,32.0
+93,lj bezigrad,2018,Apr,21.0
+94,maribor,2018,Apr,23.0
+95,celje,2018,Apr,23.0
+96,ms rakican,2018,Apr,20.0
+97,nova gorica,2018,Apr,20.0
+98,trbovlje,2018,Apr,22.0
+99,zagorje,2018,Apr,23.0
+100,hrastnik,2018,Apr,19.0
+101,koper,2018,Apr,19.0
+102,iskrba,2018,Apr,15.0
+103,zerjav,2018,Apr,23.0
+104,lj biotehniska,2018,Apr,18.0
+105,kranj,2018,Apr,21.0
+106,novo mesto,2018,Apr,19.0
+107,velenje,2018,Apr,18.0
+108,lj gospodarsko,2018,Apr,20.0
+109,ng grcna,2018,Apr,24.0
+110,ce mariborska,2018,Apr,25.0
+111,mb vrbanski,2018,Apr,18.0
+112,ms cankarjeva,2018,Apr,25.0
+113,pesje,2018,Apr,19.0
+114,skale,2018,Apr,18.0
+115,sostanj,2018,Apr,18.0
+116,morsko,2018,Apr,17.0
+117,gorenje polje,2018,Apr,18.0
+118,lj center,2018,Apr,38.0
+119,ce gaji,2018,Apr,21.0
+120,miklavz,2018,Apr,20.0
+121,ptuj,2018,Apr,20.0
+122,medvode,2018,Apr,22.0
+123,ruse,2018,Apr,18.0
+124,lj bezigrad,2018,Maj,22.0
+125,maribor,2018,Maj,22.0
+126,celje,2018,Maj,20.0
+127,ms rakican,2018,Maj,17.0
+128,nova gorica,2018,Maj,17.0
+129,trbovlje,2018,Maj,17.0
+130,zagorje,2018,Maj,20.0
+131,hrastnik,2018,Maj,17.0
+132,koper,2018,Maj,17.0
+133,iskrba,2018,Maj,15.0
+134,zerjav,2018,Maj,20.0
+135,lj biotehniska,2018,Maj,16.0
+136,kranj,2018,Maj,15.0
+137,novo mesto,2018,Maj,24.0
+138,velenje,2018,Maj,16.0
+139,lj gospodarsko,2018,Maj,18.0
+140,ng grcna,2018,Maj,20.0
+141,ce mariborska,2018,Maj,21.0
+142,mb vrbanski,2018,Maj,19.0
+143,ms cankarjeva,2018,Maj,19.0
+144,pesje,2018,Maj,18.0
+145,skale,2018,Maj,16.0
+146,sostanj,2018,Maj,17.0
+147,morsko,2018,Maj,15.0
+148,gorenje polje,2018,Maj,16.0
+149,lj center,2018,Maj,29.0
+150,ce gaji,2018,Maj,19.0
+151,miklavz,2018,Maj,20.0
+152,ptuj,2018,Maj,19.0
+153,medvode,2018,Maj,19.0
+154,ruse,2018,Maj,17.0
+155,lj bezigrad,2018,Jun,19.0
+156,maribor,2018,Jun,19.0
+157,celje,2018,Jun,16.0
+158,ms rakican,2018,Jun,15.0
+159,nova gorica,2018,Jun,14.0
+160,trbovlje,2018,Jun,14.0
+161,zagorje,2018,Jun,17.0
+162,hrastnik,2018,Jun,14.0
+163,koper,2018,Jun,14.0
+164,iskrba,2018,Jun,13.0
+165,zerjav,2018,Jun,15.0
+166,lj biotehniska,2018,Jun,15.0
+167,kranj,2018,Jun,13.0
+168,novo mesto,2018,Jun,15.0
+169,velenje,2018,Jun,13.0
+170,lj gospodarsko,2018,Jun,14.0
+171,ng grcna,2018,Jun,17.0
+172,ce mariborska,2018,Jun,18.0
+173,mb vrbanski,2018,Jun,17.0
+174,ms cankarjeva,2018,Jun,14.0
+175,pesje,2018,Jun,16.0
+176,skale,2018,Jun,14.0
+177,sostanj,2018,Jun,16.0
+178,morsko,2018,Jun,12.0
+179,gorenje polje,2018,Jun,14.0
+180,lj center,2018,Jun,25.0
+181,ce gaji,2018,Jun,14.0
+182,miklavz,2018,Jun,18.0
+183,ptuj,2018,Jun,17.0
+184,medvode,2018,Jun,18.0
+185,ruse,2018,Jun,14.0
+186,lj bezigrad,2018,Jul,19.0
+187,maribor,2018,Jul,16.0
+188,celje,2018,Jul,16.0
+189,ms rakican,2018,Jul,16.0
+190,nova gorica,2018,Jul,14.0
+191,trbovlje,2018,Jul,14.0
+192,zagorje,2018,Jul,19.0
+193,hrastnik,2018,Jul,14.0
+194,koper,2018,Jul,15.0
+195,iskrba,2018,Jul,13.0
+196,zerjav,2018,Jul,16.0
+197,lj biotehniska,2018,Jul,15.0
+198,kranj,2018,Jul,14.0
+199,novo mesto,2018,Jul,14.0
+200,velenje,2018,Jul,14.0
+201,lj gospodarsko,2018,Jul,15.0
+202,ng grcna,2018,Jul,16.0
+203,ce mariborska,2018,Jul,17.0
+204,mb vrbanski,2018,Jul,16.0
+205,ms cankarjeva,2018,Jul,15.0
+206,pesje,2018,Jul,16.0
+207,skale,2018,Jul,15.0
+208,sostanj,2018,Jul,17.0
+209,morsko,2018,Jul,13.0
+210,gorenje polje,2018,Jul,14.0
+211,lj center,2018,Jul,25.0
+212,ce gaji,2018,Jul,13.0
+213,miklavz,2018,Jul,19.0
+214,ptuj,2018,Jul,18.0
+215,medvode,2018,Jul,19.0
+216,ruse,2018,Jul,15.0
+217,lj bezigrad,2018,Avg,22.0
+218,maribor,2018,Avg,18.0
+219,celje,2018,Avg,19.0
+220,ms rakican,2018,Avg,17.0
+221,nova gorica,2018,Avg,16.0
+222,trbovlje,2018,Avg,18.0
+223,zagorje,2018,Avg,28.0
+224,hrastnik,2018,Avg,18.0
+225,koper,2018,Avg,17.0
+226,iskrba,2018,Avg,13.0
+227,zerjav,2018,Avg,18.0
+228,lj biotehniska,2018,Avg,17.0
+229,kranj,2018,Avg,17.0
+230,novo mesto,2018,Avg,17.0
+231,velenje,2018,Avg,18.0
+232,lj gospodarsko,2018,Avg,18.0
+233,ng grcna,2018,Avg,18.0
+234,ce mariborska,2018,Avg,21.0
+235,mb vrbanski,2018,Avg,18.0
+236,ms cankarjeva,2018,Avg,17.0
+237,pesje,2018,Avg,20.0
+238,skale,2018,Avg,18.0
+239,sostanj,2018,Avg,19.0
+240,morsko,2018,Avg,12.0
+241,gorenje polje,2018,Avg,12.0
+242,lj center,2018,Avg,28.0
+243,ce gaji,2018,Avg,19.0
+244,miklavz,2018,Avg,20.0
+245,ptuj,2018,Avg,19.0
+246,medvode,2018,Avg,21.0
+247,ruse,2018,Avg,16.0
+248,lj bezigrad,2018,Sep,20.0
+249,maribor,2018,Sep,18.0
+250,celje,2018,Sep,19.0
+251,ms rakican,2018,Sep,16.0
+252,nova gorica,2018,Sep,15.0
+253,trbovlje,2018,Sep,20.0
+254,zagorje,2018,Sep,37.0
+255,hrastnik,2018,Sep,16.0
+256,koper,2018,Sep,17.0
+257,iskrba,2018,Sep,21.0
+258,zerjav,2018,Sep,18.0
+259,lj biotehniska,2018,Sep,16.0
+260,kranj,2018,Sep,16.0
+261,novo mesto,2018,Sep,16.0
+262,velenje,2018,Sep,16.0
+263,lj gospodarsko,2018,Sep,19.0
+264,ng grcna,2018,Sep,19.0
+265,ce mariborska,2018,Sep,21.0
+266,mb vrbanski,2018,Sep,12.0
+267,ms cankarjeva,2018,Sep,18.0
+268,pesje,2018,Sep,17.0
+269,skale,2018,Sep,15.0
+270,sostanj,2018,Sep,17.0
+271,morsko,2018,Sep,9.0
+272,gorenje polje,2018,Sep,11.0
+273,lj center,2018,Sep,25.0
+274,ce gaji,2018,Sep,28.0
+275,miklavz,2018,Sep,17.0
+276,ptuj,2018,Sep,15.0
+277,medvode,2018,Sep,6.0
+278,ruse,2018,Sep,11.0
+279,lj bezigrad,2018,Okt,33.0
+280,maribor,2018,Okt,30.0
+281,celje,2018,Okt,35.0
+282,ms rakican,2018,Okt,33.0
+283,nova gorica,2018,Okt,22.0
+284,trbovlje,2018,Okt,42.0
+285,zagorje,2018,Okt,54.0
+286,hrastnik,2018,Okt,27.0
+287,koper,2018,Okt,21.0
+288,iskrba,2018,Okt,14.0
+289,zerjav,2018,Okt,25.0
+290,lj biotehniska,2018,Okt,26.0
+291,kranj,2018,Okt,16.0
+292,novo mesto,2018,Okt,31.0
+293,velenje,2018,Okt,24.0
+294,lj gospodarsko,2018,Okt,29.0
+295,ng grcna,2018,Okt,25.0
+296,ce mariborska,2018,Okt,35.0
+297,mb vrbanski,2018,Okt,24.0
+298,ms cankarjeva,2018,Okt,33.0
+299,pesje,2018,Okt,23.0
+300,skale,2018,Okt,22.0
+301,sostanj,2018,Okt,27.0
+302,morsko,2018,Okt,18.0
+303,gorenje polje,2018,Okt,21.0
+304,lj center,2018,Okt,41.0
+305,ce gaji,2018,Okt,33.0
+306,miklavz,2018,Okt,32.0
+307,ptuj,2018,Okt,30.0
+308,medvode,2018,Okt,19.0
+309,ruse,2018,Okt,22.0
+310,lj bezigrad,2018,Nov,24.0
+311,maribor,2018,Nov,33.0
+312,celje,2018,Nov,33.0
+313,ms rakican,2018,Nov,34.0
+314,nova gorica,2018,Nov,18.0
+315,trbovlje,2018,Nov,42.0
+316,zagorje,2018,Nov,32.0
+317,hrastnik,2018,Nov,23.0
+318,koper,2018,Nov,16.0
+319,iskrba,2018,Nov,10.0
+320,zerjav,2018,Nov,24.0
+321,lj biotehniska,2018,Nov,19.0
+322,kranj,2018,Nov,25.0
+323,novo mesto,2018,Nov,26.0
+324,velenje,2018,Nov,21.0
+325,lj gospodarsko,2018,Nov,21.0
+326,ng grcna,2018,Nov,21.0
+327,ce mariborska,2018,Nov,34.0
+328,mb vrbanski,2018,Nov,25.0
+329,ms cankarjeva,2018,Nov,34.0
+330,pesje,2018,Nov,18.0
+331,skale,2018,Nov,17.0
+332,sostanj,2018,Nov,23.0
+333,morsko,2018,Nov,12.0
+334,gorenje polje,2018,Nov,13.0
+335,lj center,2018,Nov,31.0
+336,ce gaji,2018,Nov,29.0
+337,miklavz,2018,Nov,31.0
+338,ptuj,2018,Nov,29.0
+339,medvode,2018,Nov,20.0
+340,ruse,2018,Nov,30.0
+341,lj bezigrad,2018,Dec,48.0
+342,maribor,2018,Dec,42.0
+343,celje,2018,Dec,50.0
+344,ms rakican,2018,Dec,48.0
+345,nova gorica,2018,Dec,30.0
+346,trbovlje,2018,Dec,40.0
+347,zagorje,2018,Dec,50.0
+348,hrastnik,2018,Dec,34.0
+349,koper,2018,Dec,23.0
+350,iskrba,2018,Dec,10.0
+351,zerjav,2018,Dec,31.0
+352,lj biotehniska,2018,Dec,38.0
+353,kranj,2018,Dec,33.0
+354,novo mesto,2018,Dec,43.0
+355,velenje,2018,Dec,26.0
+356,lj gospodarsko,2018,Dec,49.0
+357,ng grcna,2018,Dec,31.0
+358,ce mariborska,2018,Dec,57.0
+359,mb vrbanski,2018,Dec,29.0
+360,ms cankarjeva,2018,Dec,56.0
+361,pesje,2018,Dec,16.0
+362,skale,2018,Dec,17.0
+363,sostanj,2018,Dec,27.0
+364,morsko,2018,Dec,17.0
+365,gorenje polje,2018,Dec,19.0
+366,lj center,2018,Dec,62.0
+367,ce gaji,2018,Dec,59.0
+368,miklavz,2018,Dec,54.0
+369,ptuj,2018,Dec,38.0
+370,medvode,2018,Dec,36.0
+371,ruse,2018,Dec,33.0
+0,lj bezigrad,2019,Jan,36.0
+1,maribor,2019,Jan,37.0
+2,celje,2019,Jan,42.0
+3,ms rakican,2019,Jan,35.0
+4,nova gorica,2019,Jan,30.0
+5,trbovlje,2019,Jan,26.0
+6,zagorje,2019,Jan,43.0
+7,hrastnik,2019,Jan,28.0
+8,koper,2019,Jan,17.0
+9,iskrba,2019,Jan,11.0
+10,zerjav,2019,Jan,28.0
+11,lj biotehniska,2019,Jan,31.0
+12,kranj,2019,Jan,33.0
+13,novo mesto,2019,Jan,40.0
+14,velenje,2019,Jan,25.0
+15,lj gospodarsko,2019,Jan,37.0
+16,ng grcna,2019,Jan,32.0
+17,ce mariborska,2019,Jan,53.0
+18,mb vrbanski,2019,Jan,25.0
+19,ms cankarjeva,2019,Jan,46.0
+20,pesje,2019,Jan,17.0
+21,skale,2019,Jan,16.0
+22,sostanj,2019,Jan,25.0
+23,morsko,2019,Jan,19.0
+24,gorenje polje,2019,Jan,27.0
+25,lj center,2019,Jan,52.0
+26,ce gaji,2019,Jan,48.0
+27,miklavz,2019,Jan,46.0
+28,ptuj,2019,Jan,32.0
+29,medvode,2019,Jan,31.0
+30,ruse,2019,Jan,25.0
+31,lj bezigrad,2019,Feb,39.0
+32,maribor,2019,Feb,33.0
+33,celje,2019,Feb,50.0
+34,ms rakican,2019,Feb,34.0
+35,nova gorica,2019,Feb,37.0
+36,trbovlje,2019,Feb,44.0
+37,zagorje,2019,Feb,49.0
+38,hrastnik,2019,Feb,33.0
+39,koper,2019,Feb,25.0
+40,iskrba,2019,Feb,11.0
+41,zerjav,2019,Feb,26.0
+42,lj biotehniska,2019,Feb,32.0
+43,kranj,2019,Feb,31.0
+44,novo mesto,2019,Feb,36.0
+45,velenje,2019,Feb,27.0
+46,lj gospodarsko,2019,Feb,44.0
+47,ng grcna,2019,Feb,39.0
+48,ce mariborska,2019,Feb,55.0
+49,mb vrbanski,2019,Feb,25.0
+50,ms cankarjeva,2019,Feb,44.0
+51,pesje,2019,Feb,20.0
+52,skale,2019,Feb,19.0
+53,sostanj,2019,Feb,29.0
+54,morsko,2019,Feb,28.0
+55,gorenje polje,2019,Feb,36.0
+56,lj center,2019,Feb,51.0
+57,ce gaji,2019,Feb,43.0
+58,miklavz,2019,Feb,47.0
+59,ptuj,2019,Feb,36.0
+60,medvode,2019,Feb,33.0
+61,ruse,2019,Feb,25.0
+62,lj bezigrad,2019,Mar,21.0
+63,maribor,2019,Mar,20.0
+64,celje,2019,Mar,30.0
+65,ms rakican,2019,Mar,19.0
+66,nova gorica,2019,Mar,23.0
+67,trbovlje,2019,Mar,26.0
+68,zagorje,2019,Mar,27.0
+69,hrastnik,2019,Mar,20.0
+70,koper,2019,Mar,18.0
+71,iskrba,2019,Mar,9.0
+72,zerjav,2019,Mar,19.0
+73,lj biotehniska,2019,Mar,18.0
+74,kranj,2019,Mar,21.0
+75,novo mesto,2019,Mar,23.0
+76,velenje,2019,Mar,18.0
+77,lj gospodarsko,2019,Mar,23.0
+78,ng grcna,2019,Mar,24.0
+79,ce mariborska,2019,Mar,32.0
+80,mb vrbanski,2019,Mar,15.0
+81,ms cankarjeva,2019,Mar,26.0
+82,pesje,2019,Mar,16.0
+83,skale,2019,Mar,15.0
+84,sostanj,2019,Mar,19.0
+85,morsko,2019,Mar,17.0
+86,gorenje polje,2019,Mar,21.0
+87,lj center,2019,Mar,30.0
+88,ce gaji,2019,Mar,24.0
+89,miklavz,2019,Mar,24.0
+90,ptuj,2019,Mar,20.0
+91,medvode,2019,Mar,22.0
+92,ruse,2019,Mar,17.0
+93,lj bezigrad,2019,Apr,22.0
+94,maribor,2019,Apr,26.0
+95,celje,2019,Apr,30.0
+96,ms rakican,2019,Apr,24.0
+97,nova gorica,2019,Apr,20.0
+98,trbovlje,2019,Apr,30.0
+99,zagorje,2019,Apr,25.0
+100,hrastnik,2019,Apr,23.0
+101,koper,2019,Apr,20.0
+102,iskrba,2019,Apr,16.0
+103,zerjav,2019,Apr,22.0
+104,lj biotehniska,2019,Apr,20.0
+105,kranj,2019,Apr,19.0
+106,novo mesto,2019,Apr,24.0
+107,velenje,2019,Apr,20.0
+108,lj gospodarsko,2019,Apr,25.0
+109,ng grcna,2019,Apr,21.0
+110,ce mariborska,2019,Apr,30.0
+111,mb vrbanski,2019,Apr,21.0
+112,ms cankarjeva,2019,Apr,27.0
+113,pesje,2019,Apr,20.0
+114,skale,2019,Apr,19.0
+115,sostanj,2019,Apr,22.0
+116,morsko,2019,Apr,15.0
+117,gorenje polje,2019,Apr,18.0
+118,lj center,2019,Apr,33.0
+119,ce gaji,2019,Apr,27.0
+120,miklavz,2019,Apr,26.0
+121,ptuj,2019,Apr,25.0
+122,medvode,2019,Apr,19.0
+123,ruse,2019,Apr,20.0
+124,lj bezigrad,2019,Maj,10.0
+125,maribor,2019,Maj,14.0
+126,celje,2019,Maj,15.0
+127,ms rakican,2019,Maj,11.0
+128,nova gorica,2019,Maj,10.0
+129,trbovlje,2019,Maj,11.0
+130,zagorje,2019,Maj,12.0
+131,hrastnik,2019,Maj,10.0
+132,koper,2019,Maj,10.0
+133,iskrba,2019,Maj,7.0
+134,zerjav,2019,Maj,14.0
+135,lj biotehniska,2019,Maj,9.0
+136,kranj,2019,Maj,10.0
+137,novo mesto,2019,Maj,11.0
+138,velenje,2019,Maj,9.0
+139,lj gospodarsko,2019,Maj,12.0
+140,ng grcna,2019,Maj,13.0
+141,ce mariborska,2019,Maj,14.0
+142,mb vrbanski,2019,Maj,11.0
+143,ms cankarjeva,2019,Maj,13.0
+144,pesje,2019,Maj,10.0
+145,skale,2019,Maj,9.0
+146,sostanj,2019,Maj,10.0
+147,morsko,2019,Maj,8.0
+148,gorenje polje,2019,Maj,8.0
+149,lj center,2019,Maj,20.0
+150,ce gaji,2019,Maj,13.0
+151,miklavz,2019,Maj,13.0
+152,ptuj,2019,Maj,12.0
+153,medvode,2019,Maj,9.0
+154,ruse,2019,Maj,11.0
+155,lj bezigrad,2019,Jun,20.0
+156,maribor,2019,Jun,24.0
+157,celje,2019,Jun,22.0
+158,ms rakican,2019,Jun,20.0
+159,nova gorica,2019,Jun,19.0
+160,trbovlje,2019,Jun,19.0
+161,zagorje,2019,Jun,21.0
+162,hrastnik,2019,Jun,19.0
+163,koper,2019,Jun,21.0
+164,iskrba,2019,Jun,16.0
+165,zerjav,2019,Jun,22.0
+166,lj biotehniska,2019,Jun,20.0
+167,kranj,2019,Jun,19.0
+168,novo mesto,2019,Jun,18.0
+169,velenje,2019,Jun,16.0
+170,lj gospodarsko,2019,Jun,23.0
+171,ng grcna,2019,Jun,23.0
+172,ce mariborska,2019,Jun,21.0
+173,mb vrbanski,2019,Jun,23.0
+174,ms cankarjeva,2019,Jun,21.0
+175,pesje,2019,Jun,21.0
+176,skale,2019,Jun,20.0
+177,sostanj,2019,Jun,19.0
+178,morsko,2019,Jun,15.0
+179,gorenje polje,2019,Jun,16.0
+180,lj center,2019,Jun,29.0
+181,ce gaji,2019,Jun,23.0
+182,miklavz,2019,Jun,24.0
+183,ptuj,2019,Jun,23.0
+184,medvode,2019,Jun,15.0
+185,ruse,2019,Jun,22.0
+186,lj bezigrad,2019,Jul,14.0
+187,maribor,2019,Jul,18.0
+188,celje,2019,Jul,17.0
+189,ms rakican,2019,Jul,17.0
+190,nova gorica,2019,Jul,13.0
+191,trbovlje,2019,Jul,13.0
+192,zagorje,2019,Jul,17.0
+193,hrastnik,2019,Jul,15.0
+194,koper,2019,Jul,15.0
+195,iskrba,2019,Jul,12.0
+196,zerjav,2019,Jul,14.0
+197,lj biotehniska,2019,Jul,14.0
+198,kranj,2019,Jul,14.0
+199,novo mesto,2019,Jul,13.0
+200,velenje,2019,Jul,12.0
+201,lj gospodarsko,2019,Jul,17.0
+202,ng grcna,2019,Jul,16.0
+203,ce mariborska,2019,Jul,16.0
+204,mb vrbanski,2019,Jul,17.0
+205,ms cankarjeva,2019,Jul,17.0
+206,pesje,2019,Jul,16.0
+207,skale,2019,Jul,15.0
+208,sostanj,2019,Jul,13.0
+209,morsko,2019,Jul,11.0
+210,gorenje polje,2019,Jul,12.0
+211,lj center,2019,Jul,29.0
+212,ce gaji,2019,Jul,15.0
+213,miklavz,2019,Jul,21.0
+214,ptuj,2019,Jul,18.0
+215,medvode,2019,Jul,10.0
+216,ruse,2019,Jul,16.0
+217,lj bezigrad,2019,Avg,16.0
+218,maribor,2019,Avg,16.0
+219,celje,2019,Avg,19.0
+220,ms rakican,2019,Avg,15.0
+221,nova gorica,2019,Avg,15.0
+222,trbovlje,2019,Avg,15.0
+223,zagorje,2019,Avg,17.0
+224,hrastnik,2019,Avg,15.0
+225,koper,2019,Avg,17.0
+226,iskrba,2019,Avg,14.0
+227,zerjav,2019,Avg,16.0
+228,lj biotehniska,2019,Avg,15.0
+229,kranj,2019,Avg,15.0
+230,novo mesto,2019,Avg,16.0
+231,velenje,2019,Avg,15.0
+232,lj gospodarsko,2019,Avg,18.0
+233,ng grcna,2019,Avg,19.0
+234,ce mariborska,2019,Avg,18.0
+235,mb vrbanski,2019,Avg,14.0
+236,ms cankarjeva,2019,Avg,17.0
+237,pesje,2019,Avg,17.0
+238,skale,2019,Avg,17.0
+239,sostanj,2019,Avg,15.0
+240,morsko,2019,Avg,14.0
+241,gorenje polje,2019,Avg,15.0
+242,lj center,2019,Avg,33.0
+243,ce gaji,2019,Avg,17.0
+244,miklavz,2019,Avg,16.0
+245,ptuj,2019,Avg,16.0
+246,medvode,2019,Avg,12.0
+247,ruse,2019,Avg,14.0
+248,lj bezigrad,2019,Sep,13.0
+249,maribor,2019,Sep,15.0
+250,celje,2019,Sep,16.0
+251,ms rakican,2019,Sep,14.0
+252,nova gorica,2019,Sep,14.0
+253,trbovlje,2019,Sep,13.0
+254,zagorje,2019,Sep,15.0
+255,hrastnik,2019,Sep,12.0
+256,koper,2019,Sep,12.0
+257,iskrba,2019,Sep,10.0
+258,zerjav,2019,Sep,14.0
+259,lj biotehniska,2019,Sep,12.0
+260,kranj,2019,Sep,13.0
+261,novo mesto,2019,Sep,13.0
+262,velenje,2019,Sep,13.0
+263,lj gospodarsko,2019,Sep,16.0
+264,ng grcna,2019,Sep,17.0
+265,ce mariborska,2019,Sep,17.0
+266,mb vrbanski,2019,Sep,11.0
+267,ms cankarjeva,2019,Sep,15.0
+268,pesje,2019,Sep,14.0
+269,skale,2019,Sep,12.0
+270,sostanj,2019,Sep,14.0
+271,morsko,2019,Sep,10.0
+272,gorenje polje,2019,Sep,13.0
+273,lj center,2019,Sep,25.0
+274,ce gaji,2019,Sep,13.0
+275,miklavz,2019,Sep,13.0
+276,ptuj,2019,Sep,13.0
+277,medvode,2019,Sep,7.0
+278,ruse,2019,Sep,10.0
+279,lj bezigrad,2019,Okt,19.0
+280,maribor,2019,Okt,20.0
+281,celje,2019,Okt,21.0
+282,ms rakican,2019,Okt,19.0
+283,nova gorica,2019,Okt,20.0
+284,trbovlje,2019,Okt,20.0
+285,zagorje,2019,Okt,20.0
+286,hrastnik,2019,Okt,18.0
+287,koper,2019,Okt,20.0
+288,iskrba,2019,Okt,12.0
+289,zerjav,2019,Okt,19.0
+290,lj biotehniska,2019,Okt,17.0
+291,kranj,2019,Okt,19.0
+292,novo mesto,2019,Okt,16.0
+293,velenje,2019,Okt,18.0
+294,lj gospodarsko,2019,Okt,21.0
+295,ng grcna,2019,Okt,25.0
+296,ce mariborska,2019,Okt,22.0
+297,mb vrbanski,2019,Okt,15.0
+298,ms cankarjeva,2019,Okt,22.0
+299,pesje,2019,Okt,16.0
+300,skale,2019,Okt,14.0
+301,sostanj,2019,Okt,20.0
+302,morsko,2019,Okt,17.0
+303,gorenje polje,2019,Okt,17.0
+304,lj center,2019,Okt,26.0
+305,ce gaji,2019,Okt,17.0
+306,miklavz,2019,Okt,20.0
+307,ptuj,2019,Okt,18.0
+308,medvode,2019,Okt,7.0
+309,ruse,2019,Okt,17.0
+310,lj bezigrad,2019,Nov,18.0
+311,maribor,2019,Nov,22.0
+312,celje,2019,Nov,23.0
+313,ms rakican,2019,Nov,22.0
+314,nova gorica,2019,Nov,15.0
+315,trbovlje,2019,Nov,24.0
+316,zagorje,2019,Nov,22.0
+317,hrastnik,2019,Nov,18.0
+318,koper,2019,Nov,13.0
+319,iskrba,2019,Nov,6.0
+320,zerjav,2019,Nov,15.0
+321,lj biotehniska,2019,Nov,17.0
+322,kranj,2019,Nov,17.0
+323,novo mesto,2019,Nov,19.0
+324,velenje,2019,Nov,13.0
+325,lj gospodarsko,2019,Nov,19.0
+326,ng grcna,2019,Nov,18.0
+327,ce mariborska,2019,Nov,27.0
+328,mb vrbanski,2019,Nov,15.0
+329,ms cankarjeva,2019,Nov,25.0
+330,pesje,2019,Nov,12.0
+331,skale,2019,Nov,12.0
+332,sostanj,2019,Nov,17.0
+333,morsko,2019,Nov,8.0
+334,gorenje polje,2019,Nov,8.0
+335,lj center,2019,Nov,31.0
+336,ce gaji,2019,Nov,18.0
+337,miklavz,2019,Nov,20.0
+338,ptuj,2019,Nov,20.0
+339,medvode,2019,Nov,8.0
+340,ruse,2019,Nov,20.0
+341,lj bezigrad,2019,Dec,31.0
+342,maribor,2019,Dec,27.0
+343,celje,2019,Dec,36.0
+344,ms rakican,2019,Dec,28.0
+345,nova gorica,2019,Dec,25.0
+346,trbovlje,2019,Dec,37.0
+347,zagorje,2019,Dec,36.0
+348,hrastnik,2019,Dec,25.0
+349,koper,2019,Dec,17.0
+350,iskrba,2019,Dec,8.0
+351,zerjav,2019,Dec,26.0
+352,lj biotehniska,2019,Dec,26.0
+353,kranj,2019,Dec,25.0
+354,novo mesto,2019,Dec,30.0
+355,velenje,2019,Dec,18.0
+356,lj gospodarsko,2019,Dec,32.0
+357,ng grcna,2019,Dec,29.0
+358,ce mariborska,2019,Dec,41.0
+359,mb vrbanski,2019,Dec,19.0
+360,ms cankarjeva,2019,Dec,35.0
+361,pesje,2019,Dec,14.0
+362,skale,2019,Dec,13.0
+363,sostanj,2019,Dec,17.0
+364,morsko,2019,Dec,16.0
+365,gorenje polje,2019,Dec,19.0
+366,lj center,2019,Dec,32.0
+367,ce gaji,2019,Dec,19.0
+368,miklavz,2019,Dec,32.0
+369,ptuj,2019,Dec,26.0
+370,medvode,2019,Dec,9.0
+371,ruse,2019,Dec,20.0
+0,ce bolnica,2020,Jan,59.0
+1,ce mariborska,2020,Jan,66.0
+2,hrastnik,2020,Jan,37.0
+3,iskrba,2020,Jan,9.0
+4,koper,2020,Jan,33.0
+5,kranj,2020,Jan,38.0
+6,lj bezigrad,2020,Jan,53.0
+7,lj biotehniska,2020,Jan,45.0
+8,lj celovska,2020,Jan,
+9,lj gospodarsko,2020,Jan,56.0
+10,mb titova,2020,Jan,49.0
+11,mb vrbanski,2020,Jan,35.0
+12,ms cankarjeva,2020,Jan,53.0
+13,ms rakican,2020,Jan,45.0
+14,ng grcna,2020,Jan,38.0
+15,ng vojkova,2020,Jan,40.0
+16,novo mesto,2020,Jan,46.0
+17,ptuj,2020,Jan,45.0
+18,trbovlje,2020,Jan,49.0
+19,velenje,2020,Jan,31.0
+20,zagorje,2020,Jan,56.0
+21,zerjav,2020,Jan,41.0
+22,pesje,2020,Jan,19.0
+23,skale,2020,Jan,20.0
+24,sostanj,2020,Jan,29.0
+25,lj center,2020,Jan,64.0
+26,medvode,2020,Jan,26.0
+27,ce gaji,2020,Jan,45.0
+28,mb tezno,2020,Jan,42.0
+29,miklavz,2020,Jan,54.0
+30,spuhlja,2020,Jan,56.0
+31,ruse,2020,Jan,41.0
+32,grosuplje,2020,Jan,59.0
+33,morsko,2020,Jan,24.0
+34,gorenje polje,2020,Jan,29.0
+35,ce bolnica,2020,Feb,24.0
+36,ce mariborska,2020,Feb,28.0
+37,hrastnik,2020,Feb,19.0
+38,iskrba,2020,Feb,6.0
+39,koper,2020,Feb,28.0
+40,kranj,2020,Feb,21.0
+41,lj bezigrad,2020,Feb,23.0
+42,lj biotehniska,2020,Feb,20.0
+43,lj celovska,2020,Feb,26.0
+44,lj gospodarsko,2020,Feb,
+45,mb titova,2020,Feb,21.0
+46,mb vrbanski,2020,Feb,15.0
+47,ms cankarjeva,2020,Feb,26.0
+48,ms rakican,2020,Feb,21.0
+49,ng grcna,2020,Feb,34.0
+50,ng vojkova,2020,Feb,38.0
+51,novo mesto,2020,Feb,20.0
+52,ptuj,2020,Feb,18.0
+53,trbovlje,2020,Feb,24.0
+54,velenje,2020,Feb,16.0
+55,zagorje,2020,Feb,25.0
+56,zerjav,2020,Feb,23.0
+57,pesje,2020,Feb,13.0
+58,skale,2020,Feb,12.0
+59,sostanj,2020,Feb,17.0
+60,lj center,2020,Feb,32.0
+61,medvode,2020,Feb,11.0
+62,ce gaji,2020,Feb,20.0
+63,mb tezno,2020,Feb,21.0
+64,miklavz,2020,Feb,22.0
+65,spuhlja,2020,Feb,25.0
+66,ruse,2020,Feb,17.0
+67,grosuplje,2020,Feb,31.0
+68,morsko,2020,Feb,26.0
+69,gorenje polje,2020,Feb,30.0
+70,ce bolnica,2020,Mar,17.0
+71,ce mariborska,2020,Mar,24.0
+72,hrastnik,2020,Mar,19.0
+73,iskrba,2020,Mar,8.0
+74,koper,2020,Mar,17.0
+75,kranj,2020,Mar,16.0
+76,lj bezigrad,2020,Mar,18.0
+77,lj biotehniska,2020,Mar,16.0
+78,lj celovska,2020,Mar,19.0
+79,lj gospodarsko,2020,Mar,
+80,mb titova,2020,Mar,19.0
+81,mb vrbanski,2020,Mar,14.0
+82,ms cankarjeva,2020,Mar,21.0
+83,ms rakican,2020,Mar,18.0
+84,ng grcna,2020,Mar,17.0
+85,ng vojkova,2020,Mar,20.0
+86,novo mesto,2020,Mar,18.0
+87,ptuj,2020,Mar,18.0
+88,trbovlje,2020,Mar,21.0
+89,velenje,2020,Mar,14.0
+90,zagorje,2020,Mar,22.0
+91,zerjav,2020,Mar,21.0
+92,pesje,2020,Mar,22.0
+93,skale,2020,Mar,21.0
+94,sostanj,2020,Mar,22.0
+95,lj center,2020,Mar,35.0
+96,medvode,2020,Mar,4.0
+97,ce gaji,2020,Mar,26.0
+98,mb tezno,2020,Mar,26.0
+99,miklavz,2020,Mar,29.0
+100,spuhlja,2020,Mar,33.0
+101,ruse,2020,Mar,21.0
+102,grosuplje,2020,Mar,37.0
+103,morsko,2020,Mar,21.0
+104,gorenje polje,2020,Mar,23.0
+105,ce bolnica,2020,Apr,21.0
+106,ce mariborska,2020,Apr,26.0
+107,hrastnik,2020,Apr,20.0
+108,iskrba,2020,Apr,14.0
+109,koper,2020,Apr,18.0
+110,kranj,2020,Apr,18.0
+111,lj bezigrad,2020,Apr,21.0
+112,lj biotehniska,2020,Apr,19.0
+113,lj celovska,2020,Apr,22.0
+114,lj gospodarsko,2020,Apr,
+115,mb titova,2020,Apr,21.0
+116,mb vrbanski,2020,Apr,17.0
+117,ms cankarjeva,2020,Apr,22.0
+118,ms rakican,2020,Apr,21.0
+119,ng grcna,2020,Apr,18.0
+120,ng vojkova,2020,Apr,21.0
+121,novo mesto,2020,Apr,20.0
+122,ptuj,2020,Apr,20.0
+123,trbovlje,2020,Apr,23.0
+124,velenje,2020,Apr,18.0
+125,zagorje,2020,Apr,23.0
+126,zerjav,2020,Apr,25.0
+127,pesje,2020,Apr,20.0
+128,skale,2020,Apr,18.0
+129,sostanj,2020,Apr,21.0
+130,lj center,2020,Apr,32.0
+131,medvode,2020,Apr,4.0
+132,ce gaji,2020,Apr,20.0
+133,mb tezno,2020,Apr,21.0
+134,miklavz,2020,Apr,24.0
+135,spuhlja,2020,Apr,25.0
+136,ruse,2020,Apr,18.0
+137,grosuplje,2020,Apr,27.0
+138,morsko,2020,Apr,17.0
+139,gorenje polje,2020,Apr,19.0
+140,ce bolnica,2020,Maj,11.0
+141,ce mariborska,2020,Maj,15.0
+142,hrastnik,2020,Maj,13.0
+143,iskrba,2020,Maj,9.0
+144,koper,2020,Maj,13.0
+145,kranj,2020,Maj,11.0
+146,lj bezigrad,2020,Maj,13.0
+147,lj biotehniska,2020,Maj,11.0
+148,lj celovska,2020,Maj,14.0
+149,lj gospodarsko,2020,Maj,
+150,mb titova,2020,Maj,15.0
+151,mb vrbanski,2020,Maj,10.0
+152,ms cankarjeva,2020,Maj,12.0
+153,ms rakican,2020,Maj,11.0
+154,ng grcna,2020,Maj,12.0
+155,ng vojkova,2020,Maj,14.0
+156,novo mesto,2020,Maj,11.0
+157,ptuj,2020,Maj,11.0
+158,trbovlje,2020,Maj,11.0
+159,velenje,2020,Maj,10.0
+160,zagorje,2020,Maj,13.0
+161,zerjav,2020,Maj,16.0
+162,pesje,2020,Maj,12.0
+163,skale,2020,Maj,14.0
+164,sostanj,2020,Maj,12.0
+165,lj center,2020,Maj,20.0
+166,medvode,2020,Maj,4.0
+167,ce gaji,2020,Maj,13.0
+168,mb tezno,2020,Maj,12.0
+169,miklavz,2020,Maj,12.0
+170,spuhlja,2020,Maj,13.0
+171,ruse,2020,Maj,12.0
+172,grosuplje,2020,Maj,18.0
+173,morsko,2020,Maj,9.0
+174,gorenje polje,2020,Maj,10.0
+175,ce bolnica,2020,Jun,10.0
+176,ce mariborska,2020,Jun,14.0
+177,hrastnik,2020,Jun,12.0
+178,iskrba,2020,Jun,
+179,koper,2020,Jun,11.0
+180,kranj,2020,Jun,10.0
+181,lj bezigrad,2020,Jun,12.0
+182,lj biotehniska,2020,Jun,10.0
+183,lj celovska,2020,Jun,13.0
+184,lj gospodarsko,2020,Jun,
+185,mb titova,2020,Jun,14.0
+186,mb vrbanski,2020,Jun,11.0
+187,ms cankarjeva,2020,Jun,13.0
+188,ms rakican,2020,Jun,13.0
+189,ng grcna,2020,Jun,11.0
+190,ng vojkova,2020,Jun,14.0
+191,novo mesto,2020,Jun,10.0
+192,ptuj,2020,Jun,11.0
+193,trbovlje,2020,Jun,11.0
+194,velenje,2020,Jun,11.0
+195,zagorje,2020,Jun,13.0
+196,zerjav,2020,Jun,14.0
+197,pesje,2020,Jun,11.0
+198,skale,2020,Jun,14.0
+199,sostanj,2020,Jun,11.0
+200,lj center,2020,Jun,18.0
+201,medvode,2020,Jun,12.0
+202,ce gaji,2020,Jun,13.0
+203,mb tezno,2020,Jun,12.0
+204,miklavz,2020,Jun,12.0
+205,spuhlja,2020,Jun,15.0
+206,ruse,2020,Jun,11.0
+207,grosuplje,2020,Jun,23.0
+208,morsko,2020,Jun,10.0
+209,gorenje polje,2020,Jun,11.0
+210,ce bolnica,2020,Jul,10.0
+211,ce mariborska,2020,Jul,14.0
+212,hrastnik,2020,Jul,13.0
+213,iskrba,2020,Jul,
+214,koper,2020,Jul,13.0
+215,kranj,2020,Jul,11.0
+216,lj bezigrad,2020,Jul,15.0
+217,lj biotehniska,2020,Jul,13.0
+218,lj celovska,2020,Jul,14.0
+219,lj gospodarsko,2020,Jul,
+220,mb titova,2020,Jul,15.0
+221,mb vrbanski,2020,Jul,10.0
+222,ms cankarjeva,2020,Jul,14.0
+223,ms rakican,2020,Jul,13.0
+224,ng grcna,2020,Jul,13.0
+225,ng vojkova,2020,Jul,15.0
+226,novo mesto,2020,Jul,11.0
+227,ptuj,2020,Jul,11.0
+228,trbovlje,2020,Jul,12.0
+229,velenje,2020,Jul,12.0
+230,zagorje,2020,Jul,15.0
+231,zerjav,2020,Jul,16.0
+232,pesje,2020,Jul,12.0
+233,skale,2020,Jul,15.0
+234,sostanj,2020,Jul,13.0
+235,lj center,2020,Jul,19.0
+236,medvode,2020,Jul,13.0
+237,ce gaji,2020,Jul,16.0
+238,mb tezno,2020,Jul,14.0
+239,miklavz,2020,Jul,15.0
+240,spuhlja,2020,Jul,16.0
+241,ruse,2020,Jul,12.0
+242,grosuplje,2020,Jul,21.0
+243,morsko,2020,Jul,12.0
+244,gorenje polje,2020,Jul,13.0
+245,ce bolnica,2020,Avg,13.0
+246,ce mariborska,2020,Avg,18.0
+247,hrastnik,2020,Avg,15.0
+248,iskrba,2020,Avg,
+249,koper,2020,Avg,16.0
+250,kranj,2020,Avg,14.0
+251,lj bezigrad,2020,Avg,17.0
+252,lj biotehniska,2020,Avg,15.0
+253,lj celovska,2020,Avg,17.0
+254,lj gospodarsko,2020,Avg,
+255,mb titova,2020,Avg,19.0
+256,mb vrbanski,2020,Avg,13.0
+257,ms cankarjeva,2020,Avg,17.0
+258,ms rakican,2020,Avg,16.0
+259,ng grcna,2020,Avg,14.0
+260,ng vojkova,2020,Avg,17.0
+261,novo mesto,2020,Avg,14.0
+262,ptuj,2020,Avg,14.0
+263,trbovlje,2020,Avg,13.0
+264,velenje,2020,Avg,14.0
+265,zagorje,2020,Avg,17.0
+266,zerjav,2020,Avg,17.0
+267,pesje,2020,Avg,14.0
+268,skale,2020,Avg,18.0
+269,sostanj,2020,Avg,14.0
+270,lj center,2020,Avg,23.0
+271,medvode,2020,Avg,17.0
+272,ce gaji,2020,Avg,18.0
+273,mb tezno,2020,Avg,15.0
+274,miklavz,2020,Avg,15.0
+275,spuhlja,2020,Avg,16.0
+276,ruse,2020,Avg,13.0
+277,grosuplje,2020,Avg,19.0
+278,morsko,2020,Avg,12.0
+279,gorenje polje,2020,Avg,13.0
+280,ce bolnica,2020,Sep,14.0
+281,ce mariborska,2020,Sep,19.0
+282,hrastnik,2020,Sep,14.0
+283,iskrba,2020,Sep,10.0
+284,koper,2020,Sep,15.0
+285,kranj,2020,Sep,14.0
+286,lj bezigrad,2020,Sep,18.0
+287,lj biotehniska,2020,Sep,14.0
+288,lj celovska,2020,Sep,18.0
+289,lj gospodarsko,2020,Sep,
+290,mb titova,2020,Sep,20.0
+291,mb vrbanski,2020,Sep,15.0
+292,ms cankarjeva,2020,Sep,19.0
+293,ms rakican,2020,Sep,18.0
+294,ng grcna,2020,Sep,14.0
+295,ng vojkova,2020,Sep,17.0
+296,novo mesto,2020,Sep,14.0
+297,ptuj,2020,Sep,14.0
+298,trbovlje,2020,Sep,14.0
+299,velenje,2020,Sep,14.0
+300,zagorje,2020,Sep,15.0
+301,zerjav,2020,Sep,19.0
+302,pesje,2020,Sep,15.0
+303,skale,2020,Sep,16.0
+304,sostanj,2020,Sep,15.0
+305,lj center,2020,Sep,23.0
+306,medvode,2020,Sep,16.0
+307,ce gaji,2020,Sep,13.0
+308,mb tezno,2020,Sep,15.0
+309,miklavz,2020,Sep,16.0
+310,spuhlja,2020,Sep,16.0
+311,ruse,2020,Sep,11.0
+312,grosuplje,2020,Sep,17.0
+313,morsko,2020,Sep,11.0
+314,gorenje polje,2020,Sep,14.0
+315,ce bolnica,2020,Okt,14.0
+316,ce mariborska,2020,Okt,19.0
+317,hrastnik,2020,Okt,15.0
+318,iskrba,2020,Okt,9.0
+319,koper,2020,Okt,15.0
+320,kranj,2020,Okt,15.0
+321,lj bezigrad,2020,Okt,16.0
+322,lj biotehniska,2020,Okt,14.0
+323,lj celovska,2020,Okt,18.0
+324,lj gospodarsko,2020,Okt,
+325,mb titova,2020,Okt,18.0
+326,mb vrbanski,2020,Okt,13.0
+327,ms cankarjeva,2020,Okt,22.0
+328,ms rakican,2020,Okt,16.0
+329,ng grcna,2020,Okt,16.0
+330,ng vojkova,2020,Okt,19.0
+331,novo mesto,2020,Okt,14.0
+332,ptuj,2020,Okt,14.0
+333,trbovlje,2020,Okt,16.0
+334,velenje,2020,Okt,12.0
+335,zagorje,2020,Okt,18.0
+336,zerjav,2020,Okt,20.0
+337,pesje,2020,Okt,12.0
+338,skale,2020,Okt,11.0
+339,sostanj,2020,Okt,14.0
+340,lj center,2020,Okt,23.0
+341,medvode,2020,Okt,18.0
+342,ce gaji,2020,Okt,17.0
+343,mb tezno,2020,Okt,18.0
+344,miklavz,2020,Okt,17.0
+345,spuhlja,2020,Okt,19.0
+346,ruse,2020,Okt,13.0
+347,grosuplje,2020,Okt,20.0
+348,morsko,2020,Okt,12.0
+349,gorenje polje,2020,Okt,14.0
+350,ce bolnica,2020,Nov,30.0
+351,ce mariborska,2020,Nov,35.0
+352,hrastnik,2020,Nov,24.0
+353,iskrba,2020,Nov,9.0
+354,koper,2020,Nov,22.0
+355,kranj,2020,Nov,27.0
+356,lj bezigrad,2020,Nov,28.0
+357,lj biotehniska,2020,Nov,23.0
+358,lj celovska,2020,Nov,28.0
+359,lj gospodarsko,2020,Nov,
+360,mb titova,2020,Nov,25.0
+361,mb vrbanski,2020,Nov,20.0
+362,ms cankarjeva,2020,Nov,35.0
+363,ms rakican,2020,Nov,27.0
+364,ng grcna,2020,Nov,24.0
+365,ng vojkova,2020,Nov,25.0
+366,novo mesto,2020,Nov,24.0
+367,ptuj,2020,Nov,28.0
+368,trbovlje,2020,Nov,30.0
+369,velenje,2020,Nov,20.0
+370,zagorje,2020,Nov,36.0
+371,zerjav,2020,Nov,27.0
+372,pesje,2020,Nov,16.0
+373,skale,2020,Nov,16.0
+374,sostanj,2020,Nov,24.0
+375,lj center,2020,Nov,39.0
+376,medvode,2020,Nov,31.0
+377,ce gaji,2020,Nov,26.0
+378,mb tezno,2020,Nov,29.0
+379,miklavz,2020,Nov,29.0
+380,spuhlja,2020,Nov,34.0
+381,ruse,2020,Nov,21.0
+382,grosuplje,2020,Nov,31.0
+383,morsko,2020,Nov,17.0
+384,gorenje polje,2020,Nov,19.0
+385,ce bolnica,2020,Dec,29.0
+386,ce mariborska,2020,Dec,32.0
+387,hrastnik,2020,Dec,21.0
+388,iskrba,2020,Dec,6.0
+389,koper,2020,Dec,22.0
+390,kranj,2020,Dec,25.0
+391,lj bezigrad,2020,Dec,25.0
+392,lj biotehniska,2020,Dec,23.0
+393,lj celovska,2020,Dec,26.0
+394,lj gospodarsko,2020,Dec,
+395,mb titova,2020,Dec,22.0
+396,mb vrbanski,2020,Dec,18.0
+397,ms cankarjeva,2020,Dec,29.0
+398,ms rakican,2020,Dec,24.0
+399,ng grcna,2020,Dec,23.0
+400,ng vojkova,2020,Dec,24.0
+401,novo mesto,2020,Dec,23.0
+402,ptuj,2020,Dec,29.0
+403,trbovlje,2020,Dec,26.0
+404,velenje,2020,Dec,18.0
+405,zagorje,2020,Dec,26.0
+406,zerjav,2020,Dec,24.0
+407,pesje,2020,Dec,16.0
+408,skale,2020,Dec,16.0
+409,sostanj,2020,Dec,22.0
+410,lj center,2020,Dec,34.0
+411,medvode,2020,Dec,30.0
+412,ce gaji,2020,Dec,29.0
+413,mb tezno,2020,Dec,24.0
+414,miklavz,2020,Dec,25.0
+415,spuhlja,2020,Dec,29.0
+416,ruse,2020,Dec,27.0
+417,grosuplje,2020,Dec,27.0
+418,morsko,2020,Dec,14.0
+419,gorenje polje,2020,Dec,15.0
+0,ce bolnica,2021,Jan,30.0
+1,ce mariborska,2021,Jan,35.0
+2,ce ljubljanska,2021,Jan,
+3,deskle,2021,Jan,20.0
+4,hrastnik,2021,Jan,22.0
+5,iskrba,2021,Jan,5.0
+6,koper,2021,Jan,17.0
+7,kranj,2021,Jan,28.0
+8,lj bezigrad,2021,Jan,28.0
+9,lj biotehniska,2021,Jan,25.0
+10,lj celovska,2021,Jan,29.0
+11,lj vic,2021,Jan,
+12,mb titova,2021,Jan,
+13,mb vrbanski,2021,Jan,16.0
+14,ms cankarjeva,2021,Jan,33.0
+15,ms rakican,2021,Jan,24.0
+16,ng grcna,2021,Jan,23.0
+17,ng vojkova,2021,Jan,25.0
+18,novo mesto,2021,Jan,27.0
+19,ptuj,2021,Jan,25.0
+20,trbovlje nasipi,2021,Jan,30.0
+21,trbovlje park,2021,Jan,
+22,velenje,2021,Jan,14.0
+23,zagorje,2021,Jan,32.0
+24,zerjav,2021,Jan,28.0
+25,pesje,2021,Jan,15.0
+26,skale,2021,Jan,16.0
+27,sostanj,2021,Jan,17.0
+28,mobilna tes,2021,Jan,17.0
+29,lj center,2021,Jan,42.0
+30,zadobrova,2021,Jan,28.0
+31,medvode,2021,Jan,34.0
+32,ce gaji,2021,Jan,28.0
+33,mb tezno,2021,Jan,25.0
+34,miklavz,2021,Jan,29.0
+35,spuhlja,2021,Jan,30.0
+36,ruse,2021,Jan,17.0
+37,grosuplje,2021,Jan,35.0
+38,slovenj gradec,2021,Jan,25.0
+39,morsko,2021,Jan,17.0
+40,gorenje polje,2021,Jan,19.0
+41,ce bolnica,2021,Feb,34.0
+42,ce mariborska,2021,Feb,40.0
+43,ce ljubljanska,2021,Feb,
+44,deskle,2021,Feb,28.0
+45,hrastnik,2021,Feb,25.0
+46,iskrba,2021,Feb,10.0
+47,koper,2021,Feb,28.0
+48,kranj,2021,Feb,29.0
+49,lj bezigrad,2021,Feb,27.0
+50,lj biotehniska,2021,Feb,24.0
+51,lj celovska,2021,Feb,29.0
+52,lj vic,2021,Feb,23.0
+53,mb titova,2021,Feb,36.0
+54,mb vrbanski,2021,Feb,29.0
+55,ms cankarjeva,2021,Feb,43.0
+56,ms rakican,2021,Feb,36.0
+57,ng grcna,2021,Feb,31.0
+58,ng vojkova,2021,Feb,37.0
+59,novo mesto,2021,Feb,28.0
+60,ptuj,2021,Feb,34.0
+61,trbovlje nasipi,2021,Feb,28.0
+62,trbovlje park,2021,Feb,
+63,velenje,2021,Feb,23.0
+64,zagorje,2021,Feb,30.0
+65,zerjav,2021,Feb,26.0
+66,pesje,2021,Feb,23.0
+67,skale,2021,Feb,24.0
+68,sostanj,2021,Feb,23.0
+69,mobilna tes,2021,Feb,21.0
+70,lj center,2021,Feb,40.0
+71,zadobrova,2021,Feb,31.0
+72,medvode,2021,Feb,29.0
+73,ce gaji,2021,Feb,28.0
+74,mb tezno,2021,Feb,36.0
+75,miklavz,2021,Feb,36.0
+76,spuhlja,2021,Feb,38.0
+77,ruse,2021,Feb,26.0
+78,grosuplje,2021,Feb,34.0
+79,slovenj gradec,2021,Feb,25.0
+80,morsko,2021,Feb,27.0
+81,gorenje polje,2021,Feb,32.0
+82,ce bolnica,2021,Mar,28.0
+83,ce mariborska,2021,Mar,31.0
+84,ce ljubljanska,2021,Mar,
+85,deskle,2021,Mar,16.0
+86,hrastnik,2021,Mar,21.0
+87,iskrba,2021,Mar,8.0
+88,koper,2021,Mar,19.0
+89,kranj,2021,Mar,22.0
+90,lj bezigrad,2021,Mar,22.0
+91,lj biotehniska,2021,Mar,20.0
+92,lj celovska,2021,Mar,23.0
+93,lj vic,2021,Mar,16.0
+94,mb titova,2021,Mar,24.0
+95,mb vrbanski,2021,Mar,17.0
+96,ms cankarjeva,2021,Mar,26.0
+97,ms rakican,2021,Mar,22.0
+98,ng grcna,2021,Mar,20.0
+99,ng vojkova,2021,Mar,23.0
+100,novo mesto,2021,Mar,19.0
+101,ptuj,2021,Mar,24.0
+102,trbovlje nasipi,2021,Mar,22.0
+103,trbovlje park,2021,Mar,
+104,velenje,2021,Mar,18.0
+105,zagorje,2021,Mar,24.0
+106,zerjav,2021,Mar,25.0
+107,pesje,2021,Mar,20.0
+108,skale,2021,Mar,20.0
+109,sostanj,2021,Mar,20.0
+110,mobilna tes,2021,Mar,17.0
+111,lj center,2021,Mar,34.0
+112,zadobrova,2021,Mar,25.0
+113,medvode,2021,Mar,20.0
+114,ce gaji,2021,Mar,21.0
+115,mb tezno,2021,Mar,22.0
+116,miklavz,2021,Mar,24.0
+117,spuhlja,2021,Mar,28.0
+118,ruse,2021,Mar,17.0
+119,grosuplje,2021,Mar,31.0
+120,slovenj gradec,2021,Mar,20.0
+121,morsko,2021,Mar,16.0
+122,gorenje polje,2021,Mar,22.0
+123,ce bolnica,2021,Apr,18.0
+124,ce mariborska,2021,Apr,21.0
+125,ce ljubljanska,2021,Apr,10.0
+126,deskle,2021,Apr,10.0
+127,hrastnik,2021,Apr,14.0
+128,iskrba,2021,Apr,6.0
+129,koper,2021,Apr,12.0
+130,kranj,2021,Apr,14.0
+131,lj bezigrad,2021,Apr,13.0
+132,lj biotehniska,2021,Apr,
+133,lj celovska,2021,Apr,15.0
+134,lj vic,2021,Apr,10.0
+135,mb titova,2021,Apr,18.0
+136,mb vrbanski,2021,Apr,12.0
+137,ms cankarjeva,2021,Apr,17.0
+138,ms rakican,2021,Apr,15.0
+139,ng grcna,2021,Apr,12.0
+140,ng vojkova,2021,Apr,14.0
+141,novo mesto,2021,Apr,14.0
+142,ptuj,2021,Apr,16.0
+143,trbovlje nasipi,2021,Apr,14.0
+144,trbovlje park,2021,Apr,
+145,velenje,2021,Apr,11.0
+146,zagorje,2021,Apr,16.0
+147,zerjav,2021,Apr,21.0
+148,pesje,2021,Apr,14.0
+149,skale,2021,Apr,14.0
+150,sostanj,2021,Apr,14.0
+151,mobilna tes,2021,Apr,12.0
+152,lj center,2021,Apr,24.0
+153,zadobrova,2021,Apr,19.0
+154,medvode,2021,Apr,12.0
+155,ce gaji,2021,Apr,17.0
+156,mb tezno,2021,Apr,16.0
+157,miklavz,2021,Apr,17.0
+158,spuhlja,2021,Apr,20.0
+159,ruse,2021,Apr,13.0
+160,grosuplje,2021,Apr,21.0
+161,slovenj gradec,2021,Apr,14.0
+162,morsko,2021,Apr,10.0
+163,gorenje polje,2021,Apr,13.0
+164,ce bolnica,2021,Maj,11.0
+165,ce mariborska,2021,Maj,
+166,ce ljubljanska,2021,Maj,22.0
+167,deskle,2021,Maj,8.0
+168,hrastnik,2021,Maj,9.0
+169,iskrba,2021,Maj,6.0
+170,koper,2021,Maj,9.0
+171,kranj,2021,Maj,9.0
+172,lj bezigrad,2021,Maj,9.0
+173,lj biotehniska,2021,Maj,
+174,lj celovska,2021,Maj,10.0
+175,lj vic,2021,Maj,27.0
+176,mb titova,2021,Maj,13.0
+177,mb vrbanski,2021,Maj,8.0
+178,ms cankarjeva,2021,Maj,11.0
+179,ms rakican,2021,Maj,9.0
+180,ng grcna,2021,Maj,9.0
+181,ng vojkova,2021,Maj,11.0
+182,novo mesto,2021,Maj,9.0
+183,ptuj,2021,Maj,9.0
+184,trbovlje nasipi,2021,Maj,10.0
+185,trbovlje park,2021,Maj,8.0
+186,velenje,2021,Maj,8.0
+187,zagorje,2021,Maj,12.0
+188,zerjav,2021,Maj,16.0
+189,pesje,2021,Maj,8.0
+190,skale,2021,Maj,8.0
+191,sostanj,2021,Maj,6.0
+192,mobilna tes,2021,Maj,7.0
+193,lj center,2021,Maj,17.0
+194,zadobrova,2021,Maj,15.0
+195,medvode,2021,Maj,6.0
+196,ce gaji,2021,Maj,17.0
+197,mb tezno,2021,Maj,11.0
+198,miklavz,2021,Maj,10.0
+199,spuhlja,2021,Maj,12.0
+200,ruse,2021,Maj,9.0
+201,grosuplje,2021,Maj,14.0
+202,slovenj gradec,2021,Maj,8.0
+203,morsko,2021,Maj,8.0
+204,gorenje polje,2021,Maj,9.0
+205,ce bolnica,2021,Jun,24.0
+206,ce mariborska,2021,Jun,
+207,ce ljubljanska,2021,Jun,16.0
+208,deskle,2021,Jun,15.0
+209,hrastnik,2021,Jun,20.0
+210,iskrba,2021,Jun,18.0
+211,koper,2021,Jun,23.0
+212,kranj,2021,Jun,19.0
+213,lj bezigrad,2021,Jun,24.0
+214,lj biotehniska,2021,Jun,
+215,lj celovska,2021,Jun,23.0
+216,lj vic,2021,Jun,18.0
+217,mb titova,2021,Jun,28.0
+218,mb vrbanski,2021,Jun,20.0
+219,ms cankarjeva,2021,Jun,23.0
+220,ms rakican,2021,Jun,20.0
+221,ng grcna,2021,Jun,18.0
+222,ng vojkova,2021,Jun,23.0
+223,novo mesto,2021,Jun,20.0
+224,ptuj,2021,Jun,24.0
+225,trbovlje nasipi,2021,Jun,
+226,trbovlje park,2021,Jun,18.0
+227,velenje,2021,Jun,19.0
+228,zagorje,2021,Jun,23.0
+229,zerjav,2021,Jun,27.0
+230,pesje,2021,Jun,22.0
+231,skale,2021,Jun,20.0
+232,sostanj,2021,Jun,16.0
+233,mobilna tes,2021,Jun,18.0
+234,lj center,2021,Jun,33.0
+235,zadobrova,2021,Jun,31.0
+236,medvode,2021,Jun,16.0
+237,ce gaji,2021,Jun,21.0
+238,mb tezno,2021,Jun,22.0
+239,miklavz,2021,Jun,22.0
+240,spuhlja,2021,Jun,24.0
+241,ruse,2021,Jun,20.0
+242,grosuplje,2021,Jun,26.0
+243,slovenj gradec,2021,Jun,20.0
+244,morsko,2021,Jun,17.0
+245,gorenje polje,2021,Jun,18.0
+246,ce bolnica,2021,Jul,19.0
+247,ce mariborska,2021,Jul,
+248,ce ljubljanska,2021,Jul,13.0
+249,deskle,2021,Jul,12.0
+250,hrastnik,2021,Jul,16.0
+251,iskrba,2021,Jul,14.0
+252,koper,2021,Jul,15.0
+253,kranj,2021,Jul,15.0
+254,lj bezigrad,2021,Jul,18.0
+255,lj biotehniska,2021,Jul,
+256,lj celovska,2021,Jul,17.0
+257,lj vic,2021,Jul,15.0
+258,mb titova,2021,Jul,21.0
+259,mb vrbanski,2021,Jul,15.0
+260,ms cankarjeva,2021,Jul,18.0
+261,ms rakican,2021,Jul,16.0
+262,ng grcna,2021,Jul,13.0
+263,ng vojkova,2021,Jul,17.0
+264,novo mesto,2021,Jul,15.0
+265,ptuj,2021,Jul,16.0
+266,trbovlje nasipi,2021,Jul,
+267,trbovlje park,2021,Jul,14.0
+268,velenje,2021,Jul,14.0
+269,zagorje,2021,Jul,18.0
+270,zerjav,2021,Jul,18.0
+271,pesje,2021,Jul,15.0
+272,skale,2021,Jul,14.0
+273,sostanj,2021,Jul,11.0
+274,mobilna tes,2021,Jul,12.0
+275,lj center,2021,Jul,21.0
+276,zadobrova,2021,Jul,24.0
+277,medvode,2021,Jul,12.0
+278,ce gaji,2021,Jul,17.0
+279,mb tezno,2021,Jul,17.0
+280,miklavz,2021,Jul,18.0
+281,spuhlja,2021,Jul,19.0
+282,ruse,2021,Jul,15.0
+283,grosuplje,2021,Jul,19.0
+284,slovenj gradec,2021,Jul,14.0
+285,morsko,2021,Jul,13.0
+286,gorenje polje,2021,Jul,14.0
+287,ce bolnica,2021,Avg,13.0
+288,ce mariborska,2021,Avg,
+289,ce ljubljanska,2021,Avg,19.0
+290,deskle,2021,Avg,9.0
+291,hrastnik,2021,Avg,13.0
+292,iskrba,2021,Avg,11.0
+293,koper,2021,Avg,13.0
+294,kranj,2021,Avg,12.0
+295,lj bezigrad,2021,Avg,15.0
+296,lj biotehniska,2021,Avg,
+297,lj celovska,2021,Avg,14.0
+298,lj vic,2021,Avg,20.0
+299,mb titova,2021,Avg,15.0
+300,mb vrbanski,2021,Avg,11.0
+301,ms cankarjeva,2021,Avg,12.0
+302,ms rakican,2021,Avg,10.0
+303,ng grcna,2021,Avg,10.0
+304,ng vojkova,2021,Avg,14.0
+305,novo mesto,2021,Avg,11.0
+306,ptuj,2021,Avg,11.0
+307,trbovlje nasipi,2021,Avg,
+308,trbovlje park,2021,Avg,11.0
+309,velenje,2021,Avg,11.0
+310,zagorje,2021,Avg,13.0
+311,zerjav,2021,Avg,13.0
+312,pesje,2021,Avg,10.0
+313,skale,2021,Avg,11.0
+314,sostanj,2021,Avg,8.0
+315,mobilna tes,2021,Avg,7.0
+316,lj center,2021,Avg,17.0
+317,zadobrova,2021,Avg,22.0
+318,medvode,2021,Avg,9.0
+319,ce gaji,2021,Avg,14.0
+320,mb tezno,2021,Avg,12.0
+321,miklavz,2021,Avg,13.0
+322,spuhlja,2021,Avg,13.0
+323,ruse,2021,Avg,10.0
+324,grosuplje,2021,Avg,16.0
+325,slovenj gradec,2021,Avg,10.0
+326,morsko,2021,Avg,9.0
+327,gorenje polje,2021,Avg,11.0
+328,ce bolnica,2021,Sep,19.0
+329,ce mariborska,2021,Sep,
+330,ce ljubljanska,2021,Sep,23.0
+331,deskle,2021,Sep,11.0
+332,hrastnik,2021,Sep,17.0
+333,iskrba,2021,Sep,12.0
+334,koper,2021,Sep,15.0
+335,kranj,2021,Sep,17.0
+336,lj bezigrad,2021,Sep,19.0
+337,lj biotehniska,2021,Sep,
+338,lj celovska,2021,Sep,19.0
+339,lj vic,2021,Sep,24.0
+340,mb titova,2021,Sep,20.0
+341,mb vrbanski,2021,Sep,15.0
+342,ms cankarjeva,2021,Sep,18.0
+343,ms rakican,2021,Sep,17.0
+344,ng grcna,2021,Sep,14.0
+345,ng vojkova,2021,Sep,19.0
+346,novo mesto,2021,Sep,15.0
+347,ptuj,2021,Sep,17.0
+348,trbovlje nasipi,2021,Sep,
+349,trbovlje park,2021,Sep,14.0
+350,velenje,2021,Sep,17.0
+351,zagorje,2021,Sep,17.0
+352,zerjav,2021,Sep,17.0
+353,pesje,2021,Sep,16.0
+354,skale,2021,Sep,16.0
+355,sostanj,2021,Sep,16.0
+356,mobilna tes,2021,Sep,13.0
+357,lj center,2021,Sep,25.0
+358,zadobrova,2021,Sep,24.0
+359,medvode,2021,Sep,14.0
+360,ce gaji,2021,Sep,21.0
+361,mb tezno,2021,Sep,17.0
+362,miklavz,2021,Sep,18.0
+363,spuhlja,2021,Sep,18.0
+364,ruse,2021,Sep,14.0
+365,grosuplje,2021,Sep,22.0
+366,slovenj gradec,2021,Sep,15.0
+367,morsko,2021,Sep,11.0
+368,gorenje polje,2021,Sep,14.0
+369,ce bolnica,2021,Okt,24.0
+370,ce mariborska,2021,Okt,
+371,ce ljubljanska,2021,Okt,30.0
+372,deskle,2021,Okt,12.0
+373,hrastnik,2021,Okt,21.0
+374,iskrba,2021,Okt,10.0
+375,koper,2021,Okt,14.0
+376,kranj,2021,Okt,20.0
+377,lj bezigrad,2021,Okt,23.0
+378,lj biotehniska,2021,Okt,
+379,lj celovska,2021,Okt,24.0
+380,lj vic,2021,Okt,26.0
+381,mb titova,2021,Okt,23.0
+382,mb vrbanski,2021,Okt,18.0
+383,ms cankarjeva,2021,Okt,28.0
+384,ms rakican,2021,Okt,24.0
+385,ng grcna,2021,Okt,16.0
+386,ng vojkova,2021,Okt,17.0
+387,novo mesto,2021,Okt,21.0
+388,ptuj,2021,Okt,24.0
+389,trbovlje nasipi,2021,Okt,
+390,trbovlje park,2021,Okt,21.0
+391,velenje,2021,Okt,17.0
+392,zagorje,2021,Okt,22.0
+393,zerjav,2021,Okt,18.0
+394,pesje,2021,Okt,17.0
+395,skale,2021,Okt,18.0
+396,sostanj,2021,Okt,20.0
+397,mobilna tes,2021,Okt,16.0
+398,lj center,2021,Okt,38.0
+399,zadobrova,2021,Okt,22.0
+400,medvode,2021,Okt,20.0
+401,ce gaji,2021,Okt,20.0
+402,mb tezno,2021,Okt,23.0
+403,miklavz,2021,Okt,25.0
+404,spuhlja,2021,Okt,26.0
+405,ruse,2021,Okt,17.0
+406,grosuplje,2021,Okt,28.0
+407,slovenj gradec,2021,Okt,17.0
+408,morsko,2021,Okt,12.0
+409,gorenje polje,2021,Okt,14.0
+410,ce bolnica,2021,Nov,28.0
+411,ce mariborska,2021,Nov,
+412,ce ljubljanska,2021,Nov,32.0
+413,deskle,2021,Nov,12.0
+414,hrastnik,2021,Nov,25.0
+415,iskrba,2021,Nov,7.0
+416,koper,2021,Nov,15.0
+417,kranj,2021,Nov,27.0
+418,lj bezigrad,2021,Nov,24.0
+419,lj biotehniska,2021,Nov,
+420,lj celovska,2021,Nov,26.0
+421,lj vic,2021,Nov,33.0
+422,mb titova,2021,Nov,23.0
+423,mb vrbanski,2021,Nov,17.0
+424,ms cankarjeva,2021,Nov,32.0
+425,ms rakican,2021,Nov,25.0
+426,ng grcna,2021,Nov,17.0
+427,ng vojkova,2021,Nov,19.0
+428,novo mesto,2021,Nov,24.0
+429,ptuj,2021,Nov,27.0
+430,trbovlje nasipi,2021,Nov,
+431,trbovlje park,2021,Nov,24.0
+432,velenje,2021,Nov,18.0
+433,zagorje,2021,Nov,24.0
+434,zerjav,2021,Nov,22.0
+435,pesje,2021,Nov,19.0
+436,skale,2021,Nov,21.0
+437,sostanj,2021,Nov,22.0
+438,mobilna tes,2021,Nov,20.0
+439,lj center,2021,Nov,30.0
+440,zadobrova,2021,Nov,21.0
+441,medvode,2021,Nov,25.0
+442,ce gaji,2021,Nov,29.0
+443,mb tezno,2021,Nov,25.0
+444,miklavz,2021,Nov,30.0
+445,spuhlja,2021,Nov,30.0
+446,ruse,2021,Nov,18.0
+447,grosuplje,2021,Nov,31.0
+448,slovenj gradec,2021,Nov,18.0
+449,morsko,2021,Nov,12.0
+450,gorenje polje,2021,Nov,14.0
+451,ce bolnica,2021,Dec,33.0
+452,ce mariborska,2021,Dec,
+453,ce ljubljanska,2021,Dec,
+454,deskle,2021,Dec,15.0
+455,hrastnik,2021,Dec,25.0
+456,iskrba,2021,Dec,5.0
+457,koper,2021,Dec,16.0
+458,kranj,2021,Dec,34.0
+459,lj bezigrad,2021,Dec,33.0
+460,lj biotehniska,2021,Dec,
+461,lj celovska,2021,Dec,34.0
+462,lj vic,2021,Dec,
+463,mb titova,2021,Dec,23.0
+464,mb vrbanski,2021,Dec,17.0
+465,ms cankarjeva,2021,Dec,36.0
+466,ms rakican,2021,Dec,29.0
+467,ng grcna,2021,Dec,25.0
+468,ng vojkova,2021,Dec,27.0
+469,novo mesto,2021,Dec,26.0
+470,ptuj,2021,Dec,29.0
+471,trbovlje nasipi,2021,Dec,
+472,trbovlje park,2021,Dec,30.0
+473,velenje,2021,Dec,16.0
+474,zagorje,2021,Dec,28.0
+475,zerjav,2021,Dec,28.0
+476,pesje,2021,Dec,16.0
+477,skale,2021,Dec,19.0
+478,sostanj,2021,Dec,22.0
+479,mobilna tes,2021,Dec,19.0
+480,lj center,2021,Dec,36.0
+481,zadobrova,2021,Dec,25.0
+482,medvode,2021,Dec,32.0
+483,ce gaji,2021,Dec,
+484,mb tezno,2021,Dec,28.0
+485,miklavz,2021,Dec,34.0
+486,spuhlja,2021,Dec,37.0
+487,ruse,2021,Dec,18.0
+488,grosuplje,2021,Dec,35.0
+489,slovenj gradec,2021,Dec,25.0
+490,morsko,2021,Dec,14.0
+491,gorenje polje,2021,Dec,17.0
+0,ce bolnica,2022,Jan,39.0
+1,ce ljubljanska,2022,Jan,39.0
+2,hrastnik,2022,Jan,30.0
+3,iskrba,2022,Jan,6.0
+4,koper,2022,Jan,24.0
+5,kranj,2022,Jan,36.0
+6,lj bezigrad,2022,Jan,41.0
+7,lj celovska,2022,Jan,42.0
+8,lj vic,2022,Jan,41.0
+9,mb titova,2022,Jan,30.0
+10,mb vrbanski,2022,Jan,21.0
+11,ms cankarjeva,2022,Jan,50.0
+12,ms rakican,2022,Jan,36.0
+13,ng grcna,2022,Jan,31.0
+14,ng vojkova,2022,Jan,32.0
+15,novo mesto,2022,Jan,31.0
+16,ptuj,2022,Jan,35.0
+17,trbovlje,2022,Jan,38.0
+18,velenje,2022,Jan,19.0
+19,zagorje,2022,Jan,42.0
+20,zerjav,2022,Jan,29.0
+21,pesje,2022,Jan,18.0
+22,skale,2022,Jan,20.0
+23,sostanj,2022,Jan,22.0
+24,mobilna tes,2022,Jan,21.0
+25,lj center,2022,Jan,44.0
+26,zadobrova,2022,Jan,34.0
+27,medvode,2022,Jan,34.0
+28,mb tezno,2022,Jan,36.0
+29,miklavz,2022,Jan,38.0
+30,spuhlja,2022,Jan,44.0
+31,ruse,2022,Jan,22.0
+32,morsko,2022,Jan,18.0
+33,gorenje polje,2022,Jan,20.0
+34,ce bolnica,2022,Feb,28.0
+35,ce ljubljanska,2022,Feb,30.0
+36,hrastnik,2022,Feb,20.0
+37,iskrba,2022,Feb,5.0
+38,koper,2022,Feb,20.0
+39,kranj,2022,Feb,21.0
+40,lj bezigrad,2022,Feb,22.0
+41,lj celovska,2022,Feb,25.0
+42,lj vic,2022,Feb,23.0
+43,mb titova,2022,Feb,23.0
+44,mb vrbanski,2022,Feb,15.0
+45,ms cankarjeva,2022,Feb,30.0
+46,ms rakican,2022,Feb,21.0
+47,ng grcna,2022,Feb,25.0
+48,ng vojkova,2022,Feb,29.0
+49,novo mesto,2022,Feb,20.0
+50,ptuj,2022,Feb,19.0
+51,trbovlje,2022,Feb,21.0
+52,velenje,2022,Feb,17.0
+53,zagorje,2022,Feb,25.0
+54,zerjav,2022,Feb,23.0
+55,pesje,2022,Feb,15.0
+56,skale,2022,Feb,17.0
+57,sostanj,2022,Feb,15.0
+58,mobilna tes,2022,Feb,16.0
+59,lj center,2022,Feb,27.0
+60,zadobrova,2022,Feb,21.0
+61,medvode,2022,Feb,25.0
+62,mb tezno,2022,Feb,22.0
+63,miklavz,2022,Feb,21.0
+64,spuhlja,2022,Feb,28.0
+65,ruse,2022,Feb,18.0
+66,morsko,2022,Feb,16.0
+67,gorenje polje,2022,Feb,24.0
+68,ce bolnica,2022,Mar,38.0
+69,ce ljubljanska,2022,Mar,38.0
+70,hrastnik,2022,Mar,29.0
+71,iskrba,2022,Mar,14.0
+72,koper,2022,Mar,24.0
+73,kranj,2022,Mar,31.0
+74,lj bezigrad,2022,Mar,30.0
+75,lj celovska,2022,Mar,32.0
+76,lj vic,2022,Mar,33.0
+77,mb titova,2022,Mar,31.0
+78,mb vrbanski,2022,Mar,25.0
+79,ms cankarjeva,2022,Mar,42.0
+80,ms rakican,2022,Mar,31.0
+81,ng grcna,2022,Mar,27.0
+82,ng vojkova,2022,Mar,31.0
+83,novo mesto,2022,Mar,28.0
+84,ptuj,2022,Mar,35.0
+85,trbovlje,2022,Mar,27.0
+86,velenje,2022,Mar,27.0
+87,zagorje,2022,Mar,32.0
+88,zerjav,2022,Mar,30.0
+89,pesje,2022,Mar,31.0
+90,skale,2022,Mar,30.0
+91,sostanj,2022,Mar,28.0
+92,mobilna tes,2022,Mar,29.0
+93,lj center,2022,Mar,42.0
+94,zadobrova,2022,Mar,32.0
+95,medvode,2022,Mar,38.0
+96,mb tezno,2022,Mar,32.0
+97,miklavz,2022,Mar,35.0
+98,spuhlja,2022,Mar,41.0
+99,ruse,2022,Mar,25.0
+100,morsko,2022,Mar,20.0
+101,gorenje polje,2022,Mar,22.0
+102,ce bolnica,2022,Apr,16.0
+103,ce ljubljanska,2022,Apr,17.0
+104,hrastnik,2022,Apr,14.0
+105,iskrba,2022,Apr,8.0
+106,koper,2022,Apr,13.0
+107,kranj,2022,Apr,14.0
+108,lj bezigrad,2022,Apr,13.0
+109,lj celovska,2022,Apr,15.0
+110,lj vic,2022,Apr,14.0
+111,mb titova,2022,Apr,17.0
+112,mb vrbanski,2022,Apr,13.0
+113,ms cankarjeva,2022,Apr,18.0
+114,ms rakican,2022,Apr,14.0
+115,ng grcna,2022,Apr,13.0
+116,ng vojkova,2022,Apr,17.0
+117,novo mesto,2022,Apr,13.0
+118,ptuj,2022,Apr,15.0
+119,trbovlje,2022,Apr,13.0
+120,velenje,2022,Apr,12.0
+121,zagorje,2022,Apr,15.0
+122,zerjav,2022,Apr,14.0
+123,pesje,2022,Apr,13.0
+124,skale,2022,Apr,12.0
+125,sostanj,2022,Apr,11.0
+126,mobilna tes,2022,Apr,11.0
+127,lj center,2022,Apr,18.0
+128,zadobrova,2022,Apr,18.0
+129,medvode,2022,Apr,17.0
+130,mb tezno,2022,Apr,15.0
+131,miklavz,2022,Apr,15.0
+132,spuhlja,2022,Apr,19.0
+133,ruse,2022,Apr,13.0
+134,morsko,2022,Apr,12.0
+135,gorenje polje,2022,Apr,14.0
+136,ce bolnica,2022,Maj,20.0
+137,ce ljubljanska,2022,Maj,18.0
+138,hrastnik,2022,Maj,16.0
+139,iskrba,2022,Maj,14.0
+140,koper,2022,Maj,18.0
+141,kranj,2022,Maj,16.0
+142,lj bezigrad,2022,Maj,17.0
+143,lj celovska,2022,Maj,18.0
+144,lj vic,2022,Maj,17.0
+145,mb titova,2022,Maj,25.0
+146,mb vrbanski,2022,Maj,15.0
+147,ms cankarjeva,2022,Maj,19.0
+148,ms rakican,2022,Maj,16.0
+149,ng grcna,2022,Maj,14.0
+150,ng vojkova,2022,Maj,19.0
+151,novo mesto,2022,Maj,15.0
+152,ptuj,2022,Maj,18.0
+153,trbovlje,2022,Maj,15.0
+154,velenje,2022,Maj,15.0
+155,zagorje,2022,Maj,17.0
+156,zerjav,2022,Maj,22.0
+157,pesje,2022,Maj,15.0
+158,skale,2022,Maj,13.0
+159,sostanj,2022,Maj,13.0
+160,mobilna tes,2022,Maj,13.0
+161,lj center,2022,Maj,21.0
+162,zadobrova,2022,Maj,21.0
+163,medvode,2022,Maj,19.0
+164,mb tezno,2022,Maj,17.0
+165,miklavz,2022,Maj,17.0
+166,spuhlja,2022,Maj,19.0
+167,ruse,2022,Maj,16.0
+168,morsko,2022,Maj,13.0
+169,gorenje polje,2022,Maj,15.0
+170,ce bolnica,2022,Jun,20.0
+171,ce ljubljanska,2022,Jun,17.0
+172,hrastnik,2022,Jun,17.0
+173,iskrba,2022,Jun,18.0
+174,koper,2022,Jun,20.0
+175,kranj,2022,Jun,17.0
+176,lj bezigrad,2022,Jun,21.0
+177,lj celovska,2022,Jun,17.0
+178,lj vic,2022,Jun,18.0
+179,mb titova,2022,Jun,22.0
+180,mb vrbanski,2022,Jun,14.0
+181,ms cankarjeva,2022,Jun,18.0
+182,ms rakican,2022,Jun,14.0
+183,ng grcna,2022,Jun,16.0
+184,ng vojkova,2022,Jun,18.0
+185,novo mesto,2022,Jun,16.0
+186,ptuj,2022,Jun,18.0
+187,trbovlje,2022,Jun,15.0
+188,velenje,2022,Jun,15.0
+189,zagorje,2022,Jun,18.0
+190,zerjav,2022,Jun,20.0
+191,pesje,2022,Jun,14.0
+192,skale,2022,Jun,13.0
+193,sostanj,2022,Jun,13.0
+194,mobilna tes,2022,Jun,13.0
+195,lj center,2022,Jun,22.0
+196,zadobrova,2022,Jun,24.0
+197,medvode,2022,Jun,18.0
+198,mb tezno,2022,Jun,16.0
+199,miklavz,2022,Jun,16.0
+200,spuhlja,2022,Jun,18.0
+201,ruse,2022,Jun,15.0
+202,morsko,2022,Jun,16.0
+203,gorenje polje,2022,Jun,18.0
+204,ce bolnica,2022,Jul,17.0
+205,ce ljubljanska,2022,Jul,15.0
+206,hrastnik,2022,Jul,14.0
+207,iskrba,2022,Jul,15.0
+208,koper,2022,Jul,18.0
+209,kranj,2022,Jul,14.0
+210,lj bezigrad,2022,Jul,18.0
+211,lj celovska,2022,Jul,17.0
+212,lj vic,2022,Jul,17.0
+213,mb titova,2022,Jul,19.0
+214,mb vrbanski,2022,Jul,13.0
+215,ms cankarjeva,2022,Jul,15.0
+216,ms rakican,2022,Jul,15.0
+217,ng grcna,2022,Jul,18.0
+218,ng vojkova,2022,Jul,
+219,novo mesto,2022,Jul,14.0
+220,ptuj,2022,Jul,17.0
+221,trbovlje,2022,Jul,12.0
+222,velenje,2022,Jul,10.0
+223,zagorje,2022,Jul,14.0
+224,zerjav,2022,Jul,16.0
+225,pesje,2022,Jul,13.0
+226,skale,2022,Jul,10.0
+227,sostanj,2022,Jul,13.0
+228,mobilna tes,2022,Jul,11.0
+229,lj center,2022,Jul,19.0
+230,zadobrova,2022,Jul,25.0
+231,medvode,2022,Jul,15.0
+232,mb tezno,2022,Jul,15.0
+233,miklavz,2022,Jul,15.0
+234,spuhlja,2022,Jul,15.0
+235,ruse,2022,Jul,13.0
+236,morsko,2022,Jul,15.0
+237,gorenje polje,2022,Jul,17.0
+238,ce bolnica,2022,Avg,16.0
+239,ce ljubljanska,2022,Avg,13.0
+240,hrastnik,2022,Avg,14.0
+241,iskrba,2022,Avg,12.0
+242,koper,2022,Avg,12.0
+243,kranj,2022,Avg,12.0
+244,lj bezigrad,2022,Avg,15.0
+245,lj celovska,2022,Avg,14.0
+246,lj vic,2022,Avg,14.0
+247,mb titova,2022,Avg,17.0
+248,mb vrbanski,2022,Avg,12.0
+249,ms cankarjeva,2022,Avg,16.0
+250,ms rakican,2022,Avg,14.0
+251,ng grcna,2022,Avg,12.0
+252,ng vojkova,2022,Avg,16.0
+253,novo mesto,2022,Avg,13.0
+254,ptuj,2022,Avg,16.0
+255,trbovlje,2022,Avg,12.0
+256,velenje,2022,Avg,12.0
+257,zagorje,2022,Avg,14.0
+258,zerjav,2022,Avg,16.0
+259,pesje,2022,Avg,12.0
+260,skale,2022,Avg,10.0
+261,sostanj,2022,Avg,7.0
+262,mobilna tes,2022,Avg,10.0
+263,lj center,2022,Avg,18.0
+264,zadobrova,2022,Avg,21.0
+265,medvode,2022,Avg,14.0
+266,mb tezno,2022,Avg,15.0
+267,miklavz,2022,Avg,14.0
+268,spuhlja,2022,Avg,15.0
+269,ruse,2022,Avg,14.0
+270,morsko,2022,Avg,10.0
+271,gorenje polje,2022,Avg,13.0
+272,ce bolnica,2022,Sep,12.0
+273,ce ljubljanska,2022,Sep,11.0
+274,hrastnik,2022,Sep,11.0
+275,iskrba,2022,Sep,8.0
+276,koper,2022,Sep,10.0
+277,kranj,2022,Sep,10.0
+278,lj bezigrad,2022,Sep,11.0
+279,lj celovska,2022,Sep,12.0
+280,lj vic,2022,Sep,11.0
+281,mb titova,2022,Sep,14.0
+282,mb vrbanski,2022,Sep,10.0
+283,ms cankarjeva,2022,Sep,13.0
+284,ms rakican,2022,Sep,12.0
+285,ng grcna,2022,Sep,10.0
+286,ng vojkova,2022,Sep,15.0
+287,novo mesto,2022,Sep,9.0
+288,ptuj,2022,Sep,12.0
+289,trbovlje,2022,Sep,10.0
+290,velenje,2022,Sep,9.0
+291,zagorje,2022,Sep,11.0
+292,zerjav,2022,Sep,15.0
+293,pesje,2022,Sep,8.0
+294,skale,2022,Sep,8.0
+295,sostanj,2022,Sep,7.0
+296,mobilna tes,2022,Sep,8.0
+297,lj center,2022,Sep,14.0
+298,zadobrova,2022,Sep,15.0
+299,medvode,2022,Sep,10.0
+300,mb tezno,2022,Sep,12.0
+301,miklavz,2022,Sep,12.0
+302,spuhlja,2022,Sep,14.0
+303,ruse,2022,Sep,11.0
+304,morsko,2022,Sep,8.0
+305,gorenje polje,2022,Sep,9.0
+306,ce bolnica,2022,Okt,26.0
+307,ce ljubljanska,2022,Okt,23.0
+308,hrastnik,2022,Okt,26.0
+309,iskrba,2022,Okt,18.0
+310,koper,2022,Okt,25.0
+311,kranj,2022,Okt,24.0
+312,lj bezigrad,2022,Okt,26.0
+313,lj celovska,2022,Okt,27.0
+314,lj vic,2022,Okt,26.0
+315,mb titova,2022,Okt,28.0
+316,mb vrbanski,2022,Okt,22.0
+317,ms cankarjeva,2022,Okt,30.0
+318,ms rakican,2022,Okt,24.0
+319,ng grcna,2022,Okt,21.0
+320,ng vojkova,2022,Okt,27.0
+321,novo mesto,2022,Okt,22.0
+322,ptuj,2022,Okt,27.0
+323,trbovlje,2022,Okt,24.0
+324,velenje,2022,Okt,22.0
+325,zagorje,2022,Okt,27.0
+326,zerjav,2022,Okt,28.0
+327,pesje,2022,Okt,20.0
+328,skale,2022,Okt,17.0
+329,sostanj,2022,Okt,17.0
+330,mobilna tes,2022,Okt,19.0
+331,lj center,2022,Okt,34.0
+332,zadobrova,2022,Okt,26.0
+333,medvode,2022,Okt,25.0
+334,mb tezno,2022,Okt,26.0
+335,miklavz,2022,Okt,27.0
+336,spuhlja,2022,Okt,26.0
+337,ruse,2022,Okt,23.0
+338,morsko,2022,Okt,21.0
+339,gorenje polje,2022,Okt,22.0
+340,ce bolnica,2022,Nov,23.0
+341,ce ljubljanska,2022,Nov,23.0
+342,hrastnik,2022,Nov,18.0
+343,iskrba,2022,Nov,7.0
+344,koper,2022,Nov,13.0
+345,kranj,2022,Nov,22.0
+346,lj bezigrad,2022,Nov,20.0
+347,lj celovska,2022,Nov,21.0
+348,lj vic,2022,Nov,21.0
+349,mb titova,2022,Nov,22.0
+350,mb vrbanski,2022,Nov,16.0
+351,ms cankarjeva,2022,Nov,35.0
+352,ms rakican,2022,Nov,23.0
+353,ng grcna,2022,Nov,19.0
+354,ng vojkova,2022,Nov,21.0
+355,novo mesto,2022,Nov,21.0
+356,ptuj,2022,Nov,25.0
+357,trbovlje,2022,Nov,19.0
+358,velenje,2022,Nov,13.0
+359,zagorje,2022,Nov,20.0
+360,zerjav,2022,Nov,21.0
+361,pesje,2022,Nov,13.0
+362,skale,2022,Nov,12.0
+363,sostanj,2022,Nov,13.0
+364,mobilna tes,2022,Nov,14.0
+365,lj center,2022,Nov,24.0
+366,zadobrova,2022,Nov,19.0
+367,medvode,2022,Nov,22.0
+368,mb tezno,2022,Nov,21.0
+369,miklavz,2022,Nov,23.0
+370,spuhlja,2022,Nov,27.0
+371,ruse,2022,Nov,18.0
+372,morsko,2022,Nov,12.0
+373,gorenje polje,2022,Nov,15.0
+374,ce bolnica,2022,Dec,27.0
+375,ce ljubljanska,2022,Dec,27.0
+376,hrastnik,2022,Dec,17.0
+377,iskrba,2022,Dec,5.0
+378,koper,2022,Dec,24.0
+379,kranj,2022,Dec,21.0
+380,lj bezigrad,2022,Dec,19.0
+381,lj celovska,2022,Dec,21.0
+382,lj vic,2022,Dec,21.0
+383,mb titova,2022,Dec,24.0
+384,mb vrbanski,2022,Dec,18.0
+385,ms cankarjeva,2022,Dec,43.0
+386,ms rakican,2022,Dec,30.0
+387,ng grcna,2022,Dec,26.0
+388,ng vojkova,2022,Dec,30.0
+389,novo mesto,2022,Dec,25.0
+390,ptuj,2022,Dec,28.0
+391,trbovlje,2022,Dec,19.0
+392,velenje,2022,Dec,14.0
+393,zagorje,2022,Dec,19.0
+394,zerjav,2022,Dec,21.0
+395,pesje,2022,Dec,15.0
+396,skale,2022,Dec,14.0
+397,sostanj,2022,Dec,15.0
+398,mobilna tes,2022,Dec,16.0
+399,lj center,2022,Dec,23.0
+400,zadobrova,2022,Dec,21.0
+401,medvode,2022,Dec,23.0
+402,mb tezno,2022,Dec,26.0
+403,miklavz,2022,Dec,28.0
+404,spuhlja,2022,Dec,33.0
+405,ruse,2022,Dec,19.0
+406,morsko,2022,Dec,16.0
+407,gorenje polje,2022,Dec,17.0
 0,ce bolnica,2023,Jan,25.0
 1,ce ljubljanska,2023,Jan,25.0
 2,hrastnik,2023,Jan,16.0
