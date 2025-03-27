@@ -11,9 +11,11 @@ def lowerSumniki(word: str) -> str:
 
 def simplifyColumn(df: pd.DataFrame, col: str, reg: bool) -> pd.DataFrame:
     df[col] = df[col].map(lowerSumniki,'ignore')
-    
+
     if reg:
         df[col] = df[col].str.replace(r"\s*\(r\)\s*", "", regex=True)
+        df[col] = df[col].str.replace("*","")
+
 
     return df
 
