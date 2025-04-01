@@ -1,99 +1,79 @@
 import pandas as pd
-import itertools
-import numpy as np
+from IPython.display import display  # Import display
 
 
 class ScoringSystem:
-    def __init__(self, df: pd.DataFrame, snov: str):
+    def __init__(self, df: pd.DataFrame):
         self.df = df
-        self.snov = snov
-        self.full_df = self.fill_df()
+        self.pollutant_cols = [
+            col for col in df.columns if col not in ["Regija", "Leto", "Mesec"]
+        ]
 
-    def fill_df(self):
-        # Extract all unique values
-        regije = self.df["Regija"].unique()
-        years = self.df["Leto"].unique()
-        months = self.df["Mesec"].unique()
-        cols = ["Regija", "Leto", "Mesec"]
+    def coverage_score(self) -> pd.DataFrame:
+        """Calculates pollutant presence and displays the resulting DataFrame."""
 
-        # Create all possible combinations
-        cartesian = list(itertools.product(regije, years, months))
-        cartesian = [row for row in cartesian]
-        cart_df = pd.DataFrame(data=cartesian, columns=cols)
+        def check_pollutant_presence(group):
+            presence_indicators = {}
+            for col in self.pollutant_cols:
+                if group[col].isnull().all():
+                    presence_indicators[col] = 0
+                else:
+                    presence_indicators[col] = 1
+            return pd.Series(presence_indicators)
 
-        missing_df = pd.merge(
-            left=cart_df,
-            right=self.df[cols].drop_duplicates(),
-            on=cols,
-            how="left",
-            indicator=True,
-        )
-        missing_df = missing_df[missing_df["_merge"] == "left_only"].drop(
-            columns="_merge"
-        )
-        missing_df[self.snov] = np.nan
+        grouped = self.df.groupby(["Regija", "Leto", "Mesec"])
+        pollutant_presence_df = grouped.apply(check_pollutant_presence).reset_index()
 
-        return pd.concat([self.df, missing_df])
+        return pollutant_presence_df
 
-    def pivot_counted(self, pd_counted: pd.DataFrame):
-        return pd_counted.pivot_table(values="counts", index="Regija", columns="Leto")
+    def create_coverage_matrix(
+        self, pollutant_presence_df: pd.DataFrame
+    ) -> dict[str, pd.DataFrame]:
+        """
+        Creates a dictionary of region/year coverage matrices, one for each pollutant.
 
-    def region_score_months(self) -> pd.DataFrame:
-        month_counts = (
-            self.full_df.groupby(["Regija", "Leto"])[["Mesec", self.snov]]
-            .apply(lambda x: (x[~x[self.snov].isna()]["Mesec"].nunique()))
-            .reset_index(name="counts")
-            .sort_values(by="Leto")
-        )
+        Returns:
+            dict: A dictionary where keys are pollutant names and values are DataFrames
+                  with regions as rows, years as columns, and the sum of pollutant presence
+                  indicators as values.
+        """
 
-        return self.pivot_counted(month_counts)
+        coverage_matrices = {}
 
-    def region_score_sources(self):
-        source_counts = (
-            self.full_df.groupby(["Regija", "Leto"])[["Mesec", self.snov]]
-            .apply(lambda x: (x[~x[self.snov].isna()]["Mesec"].count()) / 12)
-            .reset_index(name="counts")
-            .sort_values(by="Leto")
-        )
+        for pollutant in self.pollutant_cols:
+            coverage_scores = pollutant_presence_df.groupby(['Regija','Leto'])[pollutant].sum().reset_index()
 
-        return self.pivot_counted(source_counts)
+            coverage_matrix = coverage_scores.pivot(index='Regija', columns='Leto', values=pollutant)
+            coverage_matrix = coverage_matrix.fillna(0)
 
-    def calculate_total_score(self, alpha=1, beta=0.1):
-        return alpha * self.region_score_months() + beta * self.region_score_sources()
+            coverage_matrices[pollutant] = coverage_matrix
 
-    def optimal_year_range(self, min_regions=6, scale_factor=10):
-        score_df = self.calculate_total_score()
-        score_matrix = score_df.values
-        years = np.array(score_df.columns)
-        num_years = len(years)
+        return coverage_matrices
+    
 
-        mean_region_score = np.mean(score_matrix[score_matrix > 0])
-        year_weight = mean_region_score / scale_factor
+    def find_best_coverage_range_pollutant_specific(self, coverage_matrix:pd.DataFrame, min_coverage:float=10.0):
+        """
+        Finds the best year range and regions with coverage >= min_coverage,
+        using a Pareto frontier approach to balance time range length and
+        number of regions covered.
 
-        best_score = -np.inf
-        best_range = (years[0], years[-1])
-        best_regions = []
+        Args:
+            coverage_matrix (pd.DataFrame): The coverage matrix for a specific pollutant.
+            min_coverage (float): Minimum coverage score (e.g., 10.0 for 10 months).
+
+        Returns:
+            tuple: (start_year, end_year, list_of_regions)
+        """
         
 
-        for start_idx in range(num_years):
-            for end_idx in range(start_idx, num_years):
-                
-                selected_scores = score_matrix[:, start_idx:end_idx + 1]
-                year_range_length = end_idx - start_idx + 1
+        
+            
 
-                valid_regions_mask = np.all(selected_scores > 0, axis=1)
-                valid_scores = selected_scores[valid_regions_mask]
-                num_valid_regions = np.sum(valid_regions_mask)
 
-                if num_valid_regions >= min_regions:
-                    total_score = np.sum(valid_scores)
 
-                    adjusted_score = total_score + year_weight * (year_range_length ** 2)
 
-                    if adjusted_score > best_score:
-                        best_score = adjusted_score
-                        best_range= (int(years[start_idx]), int(years[end_idx]))
-                        best_regions = score_df.index[valid_regions_mask].to_list()
-                
+    
+    
 
-        return best_range, best_regions, best_score
+
+
