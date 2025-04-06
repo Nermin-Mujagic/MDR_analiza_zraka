@@ -9,6 +9,11 @@
     "LJ Center",
     "LJ Biotehnična fak.",
     "OMS Lj. (Vnajnarje)",
+    "oms ljubljana (vnajnarje)",
+    "oms ljubljana center",
+    "oms ljubljana figovec",
+    "te-to ljubljana (vnajnarje)",
+    "te-to ljubljana",
     "Vnajnarje",
     "Zadobrova",
     "grosuplje",
@@ -17,8 +22,10 @@
     "lj celovška",
     "lj gospodarsko",
     "lj vič",
+    "lj biotehnicna fakulteta",
     "ljubljana bež.",
     "ljubljana bf",
+    "ljubljana biotehniska f.",
     "medvode"
   ],
   "Podravska": [
@@ -26,6 +33,7 @@
     "Maribor Center",
     "Maribor center",
     "Vrbanski plato",
+    "mo maribor-tabor",
     "maribor tabor",
     "maribor vrbanski pl.",
     "maribor vrbanski p.",
@@ -81,14 +89,23 @@
     "trbovlje nasipi",
     "trbovlje park"
   ],
-  "Posavska": ["EIS Krško", "Brestanica-sv.Mohor", "Razbor", "Pesje","sv.mohor", "sveti mohor"],
+  "Posavska": [
+    "EIS Krško",
+    "Brestanica-sv.Mohor",
+    "Razbor",
+    "Pesje",
+    "sv.mohor",
+    "sveti mohor"
+  ],
   "Goriška": [
     "Nova Gorica",
     "Deskle",
     "gorenje polje",
     "morsko",
     "ng grčna",
-    "ng vojkova"
+    "ng vojkova",
+    "eis anhovo (morsko)",
+    "eis anhovo (gor.polje)"
   ],
   "Obalno-kraška": ["Koper"],
   "Koroška": ["Zerjav", "Graška gora", "slovenj gradec", "žerjav"],
