@@ -19,3 +19,15 @@ Direktive in omejitve:
  
  https://en.wikipedia.org/wiki/Interrupted_time_series
  Interrupted Time Series
+
+ *Rollin mean/ drseče povprečje*
+ Drseče povprečje je statistična metoda, kjer za vsak trenutek v časovni seriji izračunamo povprečje vrednosti v določenem časovnem oknu pred (ali okoli) tega trenutka. Na primer, če imamo mesečne podatke in uporabimo 12-mesečno drseče povprečje, to pomeni, da za vsak mesec vzamemo povprečje vrednosti iz zadnjih 12 mesecev.
+ - zgladi podatke - odstrani kratkoročne nihaje in pokaže dolgoročne trende
+ - pomaga prepoznati vzorce, sezonskost ali spremembe v vedenju podatkov
+
+ *Rolling std / drseči standardni odklon*
+ Drseči standardni odklon meri, kako zelo se podatki znotraj istega časovnega okna razlikujejo od povprečja. To nam pove, koliko "variabilnosti" ali "nestanovitnosti" je v podatkih v določenem obdobju.
+ - Omogoča spremljanje sprememb v razpršenosti podatkov skozi čas.
+ - Pomaga identificirati nestabilna obdobja, ko so vrednosti močno nihale (npr. izbruhi onesnaženja).
+ - Dopolnjuje drseče povprečje – če je povprečje stabilno, a standardni odklon velik, to pomeni, da so nihanja prisotna, a uravnotežena.
+ 
