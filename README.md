@@ -12,13 +12,15 @@ What are the ways in which we can use data analysis to show the impact of legisl
 
 
 Direktive in omejitve:
- - SO2 <= 125ug z izjemo 3 dni v letu(2005)
+ - SO2 <= 20ug (2005)
  - NO2 <= 40ug (2010)
  - NOX <= 24ug (2010)
  - PM10 <= 40ug (2005)
  
  https://en.wikipedia.org/wiki/Interrupted_time_series
  Interrupted Time Series
+ https://www.kaggle.com/code/carlmcbrideellis/interrupted-time-series-analysis-causal-impact
+ 
 
  *Rollin mean/ drseče povprečje*
  Drseče povprečje je statistična metoda, kjer za vsak trenutek v časovni seriji izračunamo povprečje vrednosti v določenem časovnem oknu pred (ali okoli) tega trenutka. Na primer, če imamo mesečne podatke in uporabimo 12-mesečno drseče povprečje, to pomeni, da za vsak mesec vzamemo povprečje vrednosti iz zadnjih 12 mesecev.
