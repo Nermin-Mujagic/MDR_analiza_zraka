@@ -6,34 +6,33 @@ from sklearn.preprocessing import StandardScaler
 
 
 REGIJE_FILTER = {
-    "SO2": (["Koroška", "Osrednjeslovenska", "Posavska", "Savinjska", "Zasavska"], "1997"),
-    "PM10": (["Goriška", "Osrednjeslovenska", "Podravska", "Pomurska", "Posavska", "Savinjska", "Zasavska"], "2002"),
-    "NO2": (["Goriška", "Osrednjeslovenska", "Podravska", "Pomurska", "Savinjska", "Zasavska"], "2002"),
+    "SO2": {
+        "regije": ["Koroška", "Osrednjeslovenska", "Posavska", "Savinjska", "Zasavska"],
+        "zac_leto": "1997",
+        "direktiva": "2005",
+        "omejitev": 20
+    },
+    "PM10":{
+        "regije":["Goriška", "Osrednjeslovenska", "Podravska", "Pomurska", "Posavska", "Savinjska", "Zasavska"],
+        "zac_leto":"2002",
+        "direktiva":"2005",
+        "omejitev":40
+    },
+    "NO2": {
+        "regije": ["Goriška", "Osrednjeslovenska", "Podravska", "Pomurska", "Savinjska", "Zasavska"],
+        "zac_leto": "2002",
+        "direktiva": "2010",
+        "omejitev": 40,
+    }
 }
 
 def filter_region_year(full_df: pd.DataFrame,snov="")->pd.DataFrame:
     df = full_df.copy()
-    regije = REGIJE_FILTER[snov][0]
-    zac_leto = REGIJE_FILTER[snov][1]
+    regije = REGIJE_FILTER[snov]["regije"]
+    zac_leto = REGIJE_FILTER[snov]["zac_leto"]
     df = df.loc[(df['Regija'].isin(regije)) & (df['Datum'] >= zac_leto),["Regija","Datum",snov]]
 
     return df 
-
-def impute_missing_months_knn(df:pd.DataFrame,n_neighbors=5,standardize=True)->pd.DataFrame:
-    df_copy = df.copy()
-    pollutant_cols = [col for col in df_copy.select_dtypes(include=np.number)]
-
-    def impute_with_knn(group:pd.DataFrame):
-        group_copy = group[pollutant_cols].copy()
-
-        missing_mask = group_copy.isna()
-
-        if standardize:
-            scaler = StandardScaler()
-            df_copy[pollutant_cols] = scaler.fit_transform(df_copy[pollutant_cols])
-        else:
-            scaler = None
-        
 
 
 def lowerSumniki(word: str) -> str:
