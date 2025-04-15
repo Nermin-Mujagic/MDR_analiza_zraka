@@ -1,6 +1,7 @@
 # MDR Analiza zraka
 
 We're working on a data analysis project. The gist of it is that we're looking at data about air pollution in Slovenia. We have data for our statistical regions, more precisely from measuring stations. What we are determining primarily is whether EU legislation (ex. NECD) had an impact on air pollutant levels (ex. SO2, PM10,...). We would like to achieve this is showing graphs on how trends per pollutant changed over certain critical points (directives), calculating statistics around this. Then we'll focus on a panel data regression, to see if the air pollution levels had an impact on MRD (mortality due to respiratory diseases). 
+The analysis mostly consists of exploring data analysis on a per pollutant basis, where for the pollutant we are exploring we have a pre-defined function which filters our master df by only selecting that pollutant and selecting only the years and regions which have the most complete data for this selection. (filter_region_year - Args: full_df(pd.Dataframe): Input DataFrame with air pollution data, snov (str): Pollutant to filter for (e.g. "SO2"). Returns: pd.DataFrame Filtered DataFrame with 'Regija', 'Datum', and snov columns.)
 
 
 Please take a moment to fully digest our situation. Then I need you to provide small manageable goals, that will help us achieve this. First i'll tell you our starting point, and our thoughts on potentiall issues. Please help us determine also the order in which should we go about solving our problems that make the most sense. 
@@ -32,4 +33,7 @@ Direktive in omejitve:
  - Omogoča spremljanje sprememb v razpršenosti podatkov skozi čas.
  - Pomaga identificirati nestabilna obdobja, ko so vrednosti močno nihale (npr. izbruhi onesnaženja).
  - Dopolnjuje drseče povprečje – če je povprečje stabilno, a standardni odklon velik, to pomeni, da so nihanja prisotna, a uravnotežena.
+
+ K-S test = Kolmogorov-Smirnov test
+ na regijo: ali je direktiva spremenila porazdelitev v regiji A, v regiji B, ... 
  
