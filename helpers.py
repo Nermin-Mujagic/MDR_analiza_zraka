@@ -1,6 +1,7 @@
 """Various helper functions for reuse in jupyter notebooks"""
 
 import pandas as pd
+import unidecode
 
 
 REGIJE_FILTER = {
@@ -38,6 +39,20 @@ REGIJE_FILTER = {
         "omejitev": 40,
     },
 }
+MESECI = [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "Maj",
+    "Jun",
+    "Jul",
+    "Avg",
+    "Sep",
+    "Okt",
+    "Nov",
+    "Dec",
+]
 
 REGION_COLORS = {
     "Goriška": "skyblue",
@@ -74,30 +89,26 @@ def filter_region_year(full_df: pd.DataFrame, snov="") -> pd.DataFrame:
 
 
 def lower_sumniki(word: str) -> str:
-    """ removes šumniki and lowercases """
+    """removes šumniki and lowercases"""
     word = word.strip()
-    trans = str.maketrans("žŽčČšŠ", "zZcCsS")
-    word = word.translate(trans)
+    word = unidecode.unidecode(word)
     word = word.lower()
     return word
 
 
-def simplify_column(df: pd.DataFrame, col: str, reg: bool) -> pd.DataFrame:
-    """ removes unwanted characters and calls lower_sumniki """
-    df[col] = df[col].map(lower_sumniki, "ignore")
-
-    if reg:
-        df[col] = df[col].str.replace(r"\s*\(r\)\s*", "", regex=True)
-        df[col] = df[col].str.replace("*", "")
+def strip_postaja(df: pd.DataFrame) -> pd.DataFrame:
+    """removes unwanted characters and calls lower_sumniki"""
+    df["Postaja"] = (
+        df["Postaja"]
+        .apply(lower_sumniki)
+        .str.replace(r"\s*\(r\)\s*", "", regex=True)
+        .str.replace("*", "")
+    )
 
     return df
 
 
 def rename_postaja(df: pd.DataFrame) -> pd.DataFrame:
-    """ changes whatever first name of column into 'Postaja'"""
+    """changes whatever first name of column into 'Postaja'"""
     first_col = df.columns[0]
-
-    if first_col != "Postaja":
-        df.rename(columns={first_col: "Postaja"}, inplace=True)
-
-    return df
+    return df if first_col == "Postaja" else df.rename(columns={first_col: "Postaja"})
