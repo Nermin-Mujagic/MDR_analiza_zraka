@@ -19,13 +19,16 @@ The analysis mostly consists of exploring data analysis on a per pollutant basis
  - oblikovanje skupne široke tabele
  - zajemajo vse snovi
 
- *Filtriranje in potek analize*:
- - region_filter_year funkcija, prejme celotno tabelo, snov in leto, nato vrne podmnožico, ki vključuje le podatke o izbrani snovi, od podanega začetnega leta in le regije, za katere smo videli da imajo najbolj popolne podatke za to snov. 
- - Zakaj? Ker tako lahko nardimo poglobljeno analizo za vsako snov posebej in ne žrtvujemo količine podatkov. (Če bi gledali samo skupni presek bi imeli 1/20 podatkov). 
+
  - Analiza poteka v dveh delih:
     - 1. Del: za vsako snov posebej izvedemo analizo po enakem receptu. Pregledamo trende (vizualizacija), naredimo formalne statistične teste, autokorelacija in na koncu Interrupted Time Series analiza.
     - 2. Del: Za skupno tabelo pregledamo korelacijsko matriko med snovi, učinki z zamikom in panelna regresija, ki pove če direktiva -> vpliv na ravni onesnaževanja -> vpliv na umrljivost zaradi bolezni dihal
 
+ *Filtriranje*:
+- region_filter_year funkcija, prejme celotno tabelo, snov in leto, nato vrne podmnožico, ki vključuje le podatke o izbrani snovi, od podanega začetnega leta in le regije, za katere smo videli da imajo najbolj popolne podatke za to snov. 
+ - Zakaj? Ker tako lahko nardimo poglobljeno analizo za vsako snov posebej in ne žrtvujemo količine podatkov. (Če bi gledali samo skupni presek bi imeli 1/20 podatkov). 
+ 
+ 
 
 [Direktive in omejitve]
 NECD:

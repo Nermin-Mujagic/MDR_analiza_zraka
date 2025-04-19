@@ -4,12 +4,13 @@ import pandas as pd
 import unidecode
 
 
-REGIJE_FILTER = {
+SNOV_FILTER = {
     "SO2": {
         "regije": ["Koroška", "Osrednjeslovenska", "Posavska", "Savinjska", "Zasavska"],
         "zac_leto": "1997",
         "direktiva": "2005",
-        "omejitev": 20,
+        "omejitev_ura": 350,
+        "omejitev_dan": 125,
     },
     "PM10": {
         "regije": [
@@ -23,7 +24,7 @@ REGIJE_FILTER = {
         ],
         "zac_leto": "2002",
         "direktiva": "2005",
-        "omejitev": 40,
+        "omejitev_leto": 40,
     },
     "NO2": {
         "regije": [
@@ -36,7 +37,8 @@ REGIJE_FILTER = {
         ],
         "zac_leto": "2002",
         "direktiva": "2010",
-        "omejitev": 40,
+        "omejitev_ura": 200,
+        "omejitev_leto": 40,
     },
 }
 MESECI = [
@@ -78,8 +80,8 @@ def filter_region_year(full_df: pd.DataFrame, snov="") -> pd.DataFrame:
         pd.DataFrame: Filtered DataFrame with 'Regija', 'Datum', and `snov` columns.
     """
     df = full_df.copy()
-    regije = REGIJE_FILTER[snov]["regije"]
-    zac_leto = REGIJE_FILTER[snov]["zac_leto"]
+    regije = SNOV_FILTER[snov]["regije"]
+    zac_leto = SNOV_FILTER[snov]["zac_leto"]
     df = df.loc[
         (df["Regija"].isin(regije)) & (df["Datum"] >= zac_leto),
         ["Regija", "Datum", snov],
