@@ -82,12 +82,17 @@ def filter_region_year(full_df: pd.DataFrame, snov="") -> pd.DataFrame:
     df = full_df.copy()
     regije = SNOV_FILTER[snov]["regije"]
     zac_leto = SNOV_FILTER[snov]["zac_leto"]
-    df = df.loc[
-        (df["Regija"].isin(regije)) & (df["Datum"] >= zac_leto),
-        ["Regija", "Datum", snov],
-    ]
 
-    return df
+    exclude_pollutants = set(SNOV_FILTER.keys()) - set([snov])
+    
+    if snov not in df.columns:
+        return None
+    
+    cols = [col for col in df.columns if col not in exclude_pollutants]
+
+    df = df.loc[(df["Regija"].isin(regije)) & (df["Datum"] >= zac_leto), cols]
+
+    return df.dropna()
 
 
 def lower_sumniki(word: str) -> str:
@@ -114,3 +119,9 @@ def rename_postaja(df: pd.DataFrame) -> pd.DataFrame:
     """changes whatever first name of column into 'Postaja'"""
     first_col = df.columns[0]
     return df if first_col == "Postaja" else df.rename(columns={first_col: "Postaja"})
+
+
+def split_directive(df: pd.DataFrame, snov: str):
+    leto = pd.to_datetime(SNOV_FILTER[snov]["direktiva"])
+    pre_ind = df["Datum"] < leto
+    return df[pre_ind], df[~pre_ind]
