@@ -10,7 +10,9 @@ The analysis mostly consists of exploring data analysis on a per pollutant basis
 - V3: Katere regije so največkrat prekršile dane omejitve?
 - V4: Ali obstaja korelacija z zmanjšanjem onesnaževanja zraka in umrljivosti zaradi bolezni dihal?
 
-- H1: 
+- H1a: NECD direktiva je vodila k statistično značilnemu padcu onesnaževanja SO2 v vseh regijah.
+- H1b: NECD direktiva je  vodila k statistično značilnemu padcu onesnaževanja PM10 v vseh regijah.
+- H1c: NECD direktiva je vodila k statistično značilnemu padcu onesnaževanja NO2 v vseh regijah.
 - H2: 
 
 [Sestavine analize]

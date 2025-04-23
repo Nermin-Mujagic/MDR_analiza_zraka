@@ -1,0 +1,8 @@
+,(najvišje) urne meritve,(najvišje) urne meritve,(najvišje) urne meritve,(najvišje) urne meritve,(najvišje) urne meritve,(najvišje) dnevne meritve,(najvišje) dnevne meritve,(najvišje) dnevne meritve,(najvišje) dnevne meritve,(najvišje) dnevne meritve
+,Takojšnji učinek,Takojšnji učinek (p-vrednost),Trajni učinek,Trajni učinek (p-vrednost),Tip učinka politike,Takojšnji učinek,Takojšnji učinek (p-vrednost),Trajni učinek,Trajni učinek (p-vrednost),Tip učinka politike
+Savinjska,-186.2,<0.001***,2.5,<0.001***,Takojšnji + trajni učinek,-26.7,<0.001***,0.9,<0.001***,Takojšnji + trajni učinek
+Posavska,-286.1,<0.001***,2.8,<0.001***,Takojšnji + trajni učinek,-58.0,<0.001***,0.5,0.00783**,Takojšnji + trajni učinek
+Zasavska,-290.5,<0.001***,3.4,<0.001***,Takojšnji + trajni učinek,-81.0,<0.001***,0.2,0.283,Takojšnji učinek
+Koroška,-77.2,0.0842,7.1,<0.001***,Trajni učinek,0.6,0.943,1.8,<0.001***,Trajni učinek
+Osrednjeslovenska,56.7,0.00175**,4.2,<0.001***,Takojšnji + trajni učinek,-1.7,0.48,0.4,<0.001***,Trajni učinek
+Slovenija,-211.3,<0.001***,3.1,<0.001***,Takojšnji + trajni učinek,-46.3,<0.001***,0.6,<0.001***,Takojšnji + trajni učinek
