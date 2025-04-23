@@ -84,12 +84,9 @@ def filter_region_year(full_df: pd.DataFrame, snov="") -> pd.DataFrame:
     zac_leto = SNOV_FILTER[snov]["zac_leto"]
 
     exclude_pollutants = set(SNOV_FILTER.keys()) - set([snov])
-    
     if snov not in df.columns:
         return None
-    
     cols = [col for col in df.columns if col not in exclude_pollutants]
-
     df = df.loc[(df["Regija"].isin(regije)) & (df["Datum"] >= zac_leto), cols]
 
     return df.dropna()
