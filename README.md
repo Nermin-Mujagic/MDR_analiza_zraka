@@ -6,7 +6,7 @@ The analysis mostly consists of exploring data analysis on a per pollutant basis
 
 [Popravki za hipoteze/vprašanja]
 - V1: Ali je implementacija NECD(2005, 2010) vodila k statistično značilnemu padcu pri onesnaževanju posameznih snovi ? 
-- V2: Ali so značilne razlike med posameznimi regijami. (nekatere bolj ali manj uspešne) ?
+- H2: Ali so značilne razlike med posameznimi regijami. (nekatere bolj ali manj uspešne) ?
 - V3: Katere regije so največkrat prekršile dane omejitve?
 - V4: Ali obstaja korelacija z zmanjšanjem onesnaževanja zraka in umrljivosti zaradi bolezni dihal?
 
@@ -64,26 +64,20 @@ Rolling std / drseči standardni odklon*
  - Pomaga identificirati nestabilna obdobja, ko so vrednosti močno nihale (npr. izbruhi onesnaženja).
  - Dopolnjuje drseče povprečje – če je povprečje stabilno, a standardni odklon velik, to pomeni, da so nihanja prisotna, a uravnotežena.
 
-1. Osnovna statistika:
-Poda osnovne primerjave pred in po uveljavitvi zakonodaje – koliko meritev imamo (n), povprečje, mediano in standardni odklon. Tako vidimo, ali se je raven onesnaženosti v posameznih regijah po uvedbi ukrepov dejansko zmanjšala in kako stabilna je bila (variabilnost).
+1. Permutacijski test:
 
-vizualizacija s spremembo v % povprečnih vrednosti po direktivi
-
-2.Kolmogorov-Smirnov test (kstest):
-Preverja, ali se porazdelitev vrednosti onesnaženja pred zakonodajo statistično razlikuje od tiste po njej. Visoka KS vrednost in nizka p-vrednost nakazujeta, da so se vrednosti po zakonu pomembno spremenile.
 
 3.Mann-Whitney U test:
 Neparametrični test, ki primerja mediane dveh neodvisnih vzorcev (pred in po zakonodaji). Pokaže nam, ali se je distribucija onesnaženja pomembno premaknila – kar nam pomaga potrditi učinek zakonodaje tudi, če podatki niso normalno porazdeljeni.
 
 To smo uporabili namesto t-testov, saj nimamo normalno porazdeljenih podatkov
 
-4.Autokorelacija ACF/PACF analiza:
-S to analizo bomo ugotovili, ali so v podatkih prisotne sezonske komponente ali odvisnosti skozi čas. Pomaga pri razumevanju dinamike onesnaženja in pripravi na kasnejše časovne modele (npr. ITSA).
 
 5. Interrupted time series analysis (ITSA):
 Ta analiza nam bo omogočila kvantificirati učinek zakonodajnega "posega" v času – torej, ali se je trend onesnaženja po sprejetju zakonodaje bistveno spremenil. Ključno za oceno dejanskega vpliva NECD ali podobnih direktiv.
 V ozadju so pravzaprav dve linearne regresije. Pred in po direktivi. Vizualiziramo 
 https://en.wikipedia.org/wiki/Interrupted_time_series
+https://ds4ps.org/pe4ps-textbook/docs/p-020-time-series.html
 
  
 [Pomožni prompt naših hipotez]
