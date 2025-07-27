@@ -1,8 +1,5 @@
 # MDR Analiza zraka
 
-[Prompt za AI]
-We're working on a data analysis project. The gist of it is that we're looking at data about air pollution in Slovenia. We have data for our statistical regions, more precisely from measuring stations. What we are determining primarily is whether EU legislation (ex. NECD) had an impact on air pollutant levels (ex. SO2, PM10,...). We would like to achieve this is showing graphs on how trends per pollutant changed over certain critical points (directives), calculating statistics around this. Then we'll focus on a panel data regression, to see if the air pollution levels had an impact on MRD (mortality due to respiratory diseases). 
-The analysis mostly consists of exploring data analysis on a per pollutant basis, where for the pollutant we are exploring we have a pre-defined function which filters our master df by only selecting that pollutant and selecting only the years and regions which have the most complete data for this selection. (filter_region_year - Args: full_df(pd.Dataframe): Input DataFrame with air pollution data, snov (str): Pollutant to filter for (e.g. "SO2"). Returns: pd.DataFrame Filtered DataFrame with 'Regija', 'Datum', and snov columns.)
 
 [Popravki za hipoteze/vprašanja]
 - V1: Ali je implementacija NECD(2005, 2010) vodila k statistično značilnemu padcu pri onesnaževanju posameznih snovi ? 
@@ -80,5 +77,3 @@ https://en.wikipedia.org/wiki/Interrupted_time_series
 https://ds4ps.org/pe4ps-textbook/docs/p-020-time-series.html
 
  
-[Pomožni prompt naših hipotez]
-What are the ways in which we can use data analysis to show the impact of legislations. We can't really use linear regression to determine how the year for example 2005 (when NECD became legally binding) impacted  our data. Since this is just a constant, we have to find ways to show the statistics. One that comes to mind is ranking an annual change for each region past year 2005. To help you out i'll write our  hypothesis' so you can get a better idea: H1: Stopnje onesnaženosti zraka so se znižale v vseh regijah po uvedbi regulacij. H2:  Spremembe po uvedbi regulacij so visoko variabilne med regijami (različna skladnost z zakonodajo). H3:     Vpliv zakonodaje na kakovost zraka se izraža z določenim časovnim zamikom, kar pomeni, da se učinki zakonodajnih sprememb ne pokažejo takoj, temveč šele po nekaj letih (This one can be changed a bit, since it's quite vague, but it obviously tied with our panel regression)
